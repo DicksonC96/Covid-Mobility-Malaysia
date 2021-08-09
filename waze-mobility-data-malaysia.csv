@@ -1,0 +1,3537 @@
+date,city,driving_waze
+2020-03-01,Ipoh,24.0
+2020-03-02,Ipoh,10.0
+2020-03-03,Ipoh,-2.0
+2020-03-04,Ipoh,-3.0
+2020-03-05,Ipoh,13.0
+2020-03-06,Ipoh,-2.0
+2020-03-07,Ipoh,2.0
+2020-03-08,Ipoh,14.000000000000002
+2020-03-09,Ipoh,3.0
+2020-03-10,Ipoh,4.0
+2020-03-11,Ipoh,-3.0
+2020-03-12,Ipoh,6.0
+2020-03-13,Ipoh,10.0
+2020-03-14,Ipoh,20.0
+2020-03-15,Ipoh,30.0
+2020-03-16,Ipoh,29.0
+2020-03-17,Ipoh,30.0
+2020-03-18,Ipoh,-45.0
+2020-03-19,Ipoh,-63.0
+2020-03-20,Ipoh,-76.0
+2020-03-21,Ipoh,-82.0
+2020-03-22,Ipoh,-89.0
+2020-03-23,Ipoh,-81.0
+2020-03-24,Ipoh,-87.0
+2020-03-25,Ipoh,-94.0
+2020-03-26,Ipoh,-81.0
+2020-03-27,Ipoh,-80.0
+2020-03-28,Ipoh,-89.0
+2020-03-29,Ipoh,-84.0
+2020-03-30,Ipoh,-74.0
+2020-03-31,Ipoh,-80.0
+2020-04-01,Ipoh,-82.0
+2020-04-02,Ipoh,-75.0
+2020-04-03,Ipoh,-92.0
+2020-04-04,Ipoh,-89.0
+2020-04-05,Ipoh,-84.0
+2020-04-06,Ipoh,-81.0
+2020-04-07,Ipoh,-87.0
+2020-04-08,Ipoh,-82.0
+2020-04-09,Ipoh,-81.0
+2020-04-10,Ipoh,-88.0
+2020-04-11,Ipoh,-89.0
+2020-04-12,Ipoh,-84.0
+2020-04-13,Ipoh,-81.0
+2020-04-14,Ipoh,-74.0
+2020-04-15,Ipoh,-76.0
+2020-04-16,Ipoh,-81.0
+2020-04-17,Ipoh,-84.0
+2020-04-18,Ipoh,-89.0
+2020-04-19,Ipoh,-78.0
+2020-04-20,Ipoh,-81.0
+2020-04-21,Ipoh,-67.0
+2020-04-22,Ipoh,-76.0
+2020-04-23,Ipoh,-81.0
+2020-04-24,Ipoh,-84.0
+2020-04-25,Ipoh,-89.0
+2020-04-26,Ipoh,-84.0
+2020-04-27,Ipoh,-68.0
+2020-04-28,Ipoh,-87.0
+2020-04-29,Ipoh,-76.0
+2020-04-30,Ipoh,-69.0
+2020-05-01,Ipoh,-92.0
+2020-05-02,Ipoh,-78.0
+2020-05-03,Ipoh,-84.0
+2020-05-04,Ipoh,-68.0
+2020-05-05,Ipoh,-67.0
+2020-05-06,Ipoh,-70.0
+2020-05-07,Ipoh,-50.0
+2020-05-08,Ipoh,-84.0
+2020-05-09,Ipoh,-75.0
+2020-05-10,Ipoh,-56.99999999999999
+2020-05-11,Ipoh,-68.0
+2020-05-12,Ipoh,-61.0
+2020-05-13,Ipoh,-57.99999999999999
+2020-05-14,Ipoh,-50.0
+2020-05-15,Ipoh,-63.0
+2020-05-16,Ipoh,-71.0
+2020-05-17,Ipoh,-68.0
+2020-05-18,Ipoh,-55.00000000000001
+2020-05-19,Ipoh,-90.0
+2020-05-20,Ipoh,-44.0
+2020-05-21,Ipoh,-42.0
+2020-05-22,Ipoh,-81.0
+2020-05-23,Ipoh,-82.0
+2020-05-24,Ipoh,-77.0
+2020-05-25,Ipoh,-86.0
+2020-05-26,Ipoh,-71.0
+2020-05-27,Ipoh,-54.0
+2020-05-28,Ipoh,-68.0
+2020-05-29,Ipoh,-72.0
+2020-05-30,Ipoh,-77.0
+2020-05-31,Ipoh,-64.0
+2020-06-01,Ipoh,-46.0
+2020-06-02,Ipoh,-54.0
+2020-06-03,Ipoh,-46.0
+2020-06-04,Ipoh,-39.0
+2020-06-05,Ipoh,-38.0
+2020-06-06,Ipoh,-70.0
+2020-06-07,Ipoh,-64.0
+2020-06-08,Ipoh,-52.0
+2020-06-09,Ipoh,-35.0
+2020-06-10,Ipoh,18.0
+2020-06-11,Ipoh,5.0
+2020-06-12,Ipoh,-15.0
+2020-06-13,Ipoh,-16.0
+2020-06-14,Ipoh,32.0
+2020-06-15,Ipoh,17.0
+2020-06-16,Ipoh,4.0
+2020-06-17,Ipoh,15.0
+2020-06-18,Ipoh,39.0
+2020-06-19,Ipoh,-3.0
+2020-06-20,Ipoh,9.0
+2020-06-21,Ipoh,15.0
+2020-06-22,Ipoh,7.000000000000001
+2020-06-23,Ipoh,1.0
+2020-06-24,Ipoh,2.0
+2020-06-25,Ipoh,6.0
+2020-06-26,Ipoh,-2.0
+2020-06-27,Ipoh,5.0
+2020-06-28,Ipoh,21.0
+2020-06-29,Ipoh,19.0
+2020-06-30,Ipoh,24.0
+2020-07-01,Ipoh,-17.0
+2020-07-02,Ipoh,21.0
+2020-07-03,Ipoh,-14.000000000000002
+2020-07-04,Ipoh,10.0
+2020-07-05,Ipoh,10.0
+2020-07-06,Ipoh,28.000000000000004
+2020-07-07,Ipoh,2.0
+2020-07-08,Ipoh,-3.0
+2020-07-09,Ipoh,9.0
+2020-07-10,Ipoh,1.0
+2020-07-11,Ipoh,38.0
+2020-07-12,Ipoh,51.0
+2020-07-13,Ipoh,17.0
+2020-07-14,Ipoh,8.0
+2020-07-15,Ipoh,8.0
+2020-07-16,Ipoh,28.000000000000004
+2020-07-17,Ipoh,11.0
+2020-07-18,Ipoh,5.0
+2020-07-19,Ipoh,25.0
+2020-07-20,Ipoh,19.0
+2020-07-21,Ipoh,2.0
+2020-07-22,Ipoh,3.0
+2020-07-23,Ipoh,24.0
+2020-07-24,Ipoh,5.0
+2020-07-25,Ipoh,6.0
+2020-07-26,Ipoh,10.0
+2020-07-27,Ipoh,-13.0
+2020-07-28,Ipoh,17.0
+2020-07-29,Ipoh,52.0
+2020-07-30,Ipoh,99.0
+2020-07-31,Ipoh,30.0
+2020-08-01,Ipoh,19.0
+2020-08-02,Ipoh,67.0
+2020-08-04,Ipoh,0.0
+2020-08-05,Ipoh,-7.000000000000001
+2020-08-06,Ipoh,20.0
+2020-08-07,Ipoh,6.0
+2020-08-08,Ipoh,18.0
+2020-08-09,Ipoh,28.000000000000004
+2020-08-10,Ipoh,-6.0
+2020-08-11,Ipoh,15.0
+2020-08-12,Ipoh,6.0
+2020-08-13,Ipoh,28.000000000000004
+2020-08-14,Ipoh,21.0
+2020-08-15,Ipoh,10.0
+2020-08-16,Ipoh,22.0
+2020-08-17,Ipoh,38.0
+2020-08-18,Ipoh,13.0
+2020-08-19,Ipoh,37.0
+2020-08-20,Ipoh,95.0
+2020-08-21,Ipoh,-8.0
+2020-08-22,Ipoh,20.0
+2020-08-23,Ipoh,35.0
+2020-08-24,Ipoh,52.0
+2020-08-25,Ipoh,2.0
+2020-08-26,Ipoh,18.0
+2020-08-27,Ipoh,25.0
+2020-08-28,Ipoh,10.0
+2020-08-29,Ipoh,35.0
+2020-08-31,Ipoh,77.0
+2020-09-01,Ipoh,26.0
+2020-09-02,Ipoh,-31.0
+2020-09-03,Ipoh,63.0
+2020-09-04,Ipoh,12.0
+2020-09-05,Ipoh,31.0
+2020-09-06,Ipoh,37.0
+2020-09-07,Ipoh,24.0
+2020-09-08,Ipoh,38.0
+2020-09-09,Ipoh,31.0
+2020-09-10,Ipoh,9.0
+2020-09-11,Ipoh,10.0
+2020-09-12,Ipoh,23.0
+2020-09-13,Ipoh,41.0
+2020-09-14,Ipoh,46.0
+2020-09-15,Ipoh,52.0
+2020-09-16,Ipoh,63.0
+2020-09-17,Ipoh,22.0
+2020-09-18,Ipoh,12.0
+2020-09-19,Ipoh,11.0
+2020-09-20,Ipoh,78.0
+2020-09-21,Ipoh,25.0
+2020-09-22,Ipoh,26.0
+2020-09-23,Ipoh,22.0
+2020-09-24,Ipoh,34.0
+2020-09-25,Ipoh,40.0
+2020-09-26,Ipoh,40.0
+2020-09-27,Ipoh,49.0
+2020-09-28,Ipoh,-1.0
+2020-09-29,Ipoh,30.0
+2020-09-30,Ipoh,-2.0
+2020-10-01,Ipoh,20.0
+2020-10-02,Ipoh,14.000000000000002
+2020-10-03,Ipoh,17.0
+2020-10-04,Ipoh,25.0
+2020-10-05,Ipoh,65.0
+2020-10-06,Ipoh,3.0
+2020-10-07,Ipoh,-13.0
+2020-10-08,Ipoh,-14.000000000000002
+2020-10-09,Ipoh,10.0
+2020-10-10,Ipoh,6.0
+2020-10-11,Ipoh,24.0
+2020-10-12,Ipoh,13.0
+2020-10-13,Ipoh,29.0
+2020-10-14,Ipoh,-22.0
+2020-10-15,Ipoh,-29.0
+2020-10-16,Ipoh,-52.0
+2020-10-17,Ipoh,-49.0
+2020-10-18,Ipoh,-32.0
+2020-10-19,Ipoh,-10.0
+2020-10-20,Ipoh,4.0
+2020-10-21,Ipoh,-34.0
+2020-10-22,Ipoh,-29.0
+2020-10-23,Ipoh,-42.0
+2020-10-24,Ipoh,-55.00000000000001
+2020-10-25,Ipoh,-21.0
+2020-10-26,Ipoh,-39.0
+2020-10-27,Ipoh,-28.000000000000004
+2020-10-28,Ipoh,-14.000000000000002
+2020-10-29,Ipoh,-22.0
+2020-10-30,Ipoh,-24.0
+2020-10-31,Ipoh,-56.00000000000001
+2020-11-01,Ipoh,-26.0
+2020-11-02,Ipoh,-14.000000000000002
+2020-11-03,Ipoh,-23.0
+2020-11-04,Ipoh,-27.0
+2020-11-05,Ipoh,-15.0
+2020-11-06,Ipoh,-30.0
+2020-11-07,Ipoh,-36.0
+2020-11-08,Ipoh,15.0
+2020-11-09,Ipoh,-35.0
+2020-11-10,Ipoh,-6.0
+2020-11-11,Ipoh,-35.0
+2020-11-12,Ipoh,-3.0
+2020-11-13,Ipoh,-46.0
+2020-11-14,Ipoh,-89.0
+2020-11-15,Ipoh,-55.00000000000001
+2020-11-16,Ipoh,-45.0
+2020-11-17,Ipoh,-15.0
+2020-11-18,Ipoh,-36.0
+2020-11-19,Ipoh,23.0
+2020-11-20,Ipoh,-61.0
+2020-11-21,Ipoh,-57.99999999999999
+2020-11-22,Ipoh,-42.0
+2020-11-23,Ipoh,6.0
+2020-11-24,Ipoh,-30.0
+2020-11-25,Ipoh,-18.0
+2020-11-26,Ipoh,-34.0
+2020-11-27,Ipoh,-49.0
+2020-11-28,Ipoh,-59.0
+2020-11-29,Ipoh,-67.0
+2020-11-30,Ipoh,-42.0
+2020-12-01,Ipoh,-37.0
+2020-12-02,Ipoh,-31.0
+2020-12-03,Ipoh,3.0
+2020-12-04,Ipoh,-51.0
+2020-12-05,Ipoh,-41.0
+2020-12-06,Ipoh,-38.0
+2020-12-07,Ipoh,-11.0
+2020-12-08,Ipoh,-9.0
+2020-12-09,Ipoh,4.0
+2020-12-10,Ipoh,21.0
+2020-12-11,Ipoh,18.0
+2020-12-12,Ipoh,-19.0
+2020-12-13,Ipoh,31.0
+2020-12-14,Ipoh,7.000000000000001
+2020-12-15,Ipoh,-3.0
+2020-12-16,Ipoh,13.0
+2020-12-17,Ipoh,20.0
+2020-12-18,Ipoh,8.0
+2020-12-19,Ipoh,-3.0
+2020-12-20,Ipoh,27.0
+2020-12-21,Ipoh,29.0
+2020-12-22,Ipoh,11.0
+2020-12-23,Ipoh,39.0
+2020-12-25,Ipoh,34.0
+2020-12-26,Ipoh,12.0
+2020-12-27,Ipoh,53.0
+2020-12-28,Ipoh,48.0
+2020-12-29,Ipoh,75.0
+2020-12-31,Ipoh,96.0
+2021-01-01,Ipoh,25.0
+2021-01-02,Ipoh,10.0
+2021-01-03,Ipoh,30.0
+2021-01-04,Ipoh,40.0
+2021-01-05,Ipoh,-10.0
+2021-01-06,Ipoh,-28.000000000000004
+2021-01-07,Ipoh,18.0
+2021-01-08,Ipoh,2.0
+2021-01-09,Ipoh,3.0
+2021-01-10,Ipoh,8.0
+2021-01-11,Ipoh,-43.0
+2021-01-12,Ipoh,89.0
+2021-01-13,Ipoh,-72.0
+2021-01-14,Ipoh,-14.000000000000002
+2021-01-15,Ipoh,-69.0
+2021-01-16,Ipoh,-61.0
+2021-01-17,Ipoh,-62.0
+2021-01-18,Ipoh,-36.0
+2021-01-19,Ipoh,-42.0
+2021-01-20,Ipoh,-8.0
+2021-01-21,Ipoh,-9.0
+2021-01-22,Ipoh,-97.0
+2021-01-23,Ipoh,-72.0
+2021-01-24,Ipoh,-71.0
+2021-01-25,Ipoh,-52.0
+2021-01-26,Ipoh,-54.0
+2021-01-27,Ipoh,-44.0
+2021-01-28,Ipoh,-63.0
+2021-01-29,Ipoh,-69.0
+2021-01-30,Ipoh,-69.0
+2021-01-31,Ipoh,-67.0
+2021-02-01,Ipoh,-35.0
+2021-02-02,Ipoh,-22.0
+2021-02-03,Ipoh,-52.0
+2021-02-04,Ipoh,-5.0
+2021-02-05,Ipoh,-47.0
+2021-02-06,Ipoh,-61.0
+2021-02-07,Ipoh,-63.0
+2021-02-08,Ipoh,-35.0
+2021-02-09,Ipoh,-19.0
+2021-02-10,Ipoh,-23.0
+2021-02-11,Ipoh,-25.0
+2021-02-12,Ipoh,-70.0
+2021-02-13,Ipoh,-69.0
+2021-02-14,Ipoh,-23.0
+2021-02-15,Ipoh,-37.0
+2021-02-16,Ipoh,-11.0
+2021-02-17,Ipoh,-42.0
+2021-02-18,Ipoh,13.0
+2021-02-19,Ipoh,-45.0
+2021-02-20,Ipoh,-59.0
+2021-02-21,Ipoh,-34.0
+2021-02-22,Ipoh,-5.0
+2021-02-23,Ipoh,-31.0
+2021-02-24,Ipoh,-27.0
+2021-02-25,Ipoh,-13.0
+2021-02-26,Ipoh,-35.0
+2021-02-27,Ipoh,-24.0
+2021-02-28,Ipoh,-21.0
+2021-03-01,Ipoh,-17.0
+2021-03-02,Ipoh,-20.0
+2021-03-03,Ipoh,-16.0
+2021-03-04,Ipoh,6.0
+2021-03-05,Ipoh,-33.0
+2021-03-06,Ipoh,-26.0
+2021-03-07,Ipoh,-4.0
+2021-03-08,Ipoh,-33.0
+2021-03-09,Ipoh,17.0
+2021-03-10,Ipoh,17.0
+2021-03-11,Ipoh,-4.0
+2021-03-12,Ipoh,-30.0
+2021-03-13,Ipoh,-25.0
+2021-03-14,Ipoh,25.0
+2021-03-15,Ipoh,-4.0
+2021-03-16,Ipoh,-9.0
+2021-03-17,Ipoh,-5.0
+2021-03-18,Ipoh,3.0
+2021-03-19,Ipoh,-21.0
+2021-03-20,Ipoh,-27.0
+2021-03-21,Ipoh,1.0
+2021-03-22,Ipoh,5.0
+2021-03-23,Ipoh,42.0
+2021-03-24,Ipoh,3.0
+2021-03-25,Ipoh,25.0
+2021-03-26,Ipoh,-22.0
+2021-03-27,Ipoh,-32.0
+2021-03-28,Ipoh,-5.0
+2021-03-29,Ipoh,24.0
+2021-03-30,Ipoh,-3.0
+2021-03-31,Ipoh,6.0
+2021-04-01,Ipoh,60.0
+2021-04-02,Ipoh,-21.0
+2021-04-03,Ipoh,-32.0
+2021-04-04,Ipoh,-4.0
+2021-04-05,Ipoh,3.0
+2021-04-06,Ipoh,9.0
+2021-04-07,Ipoh,12.0
+2021-04-08,Ipoh,16.0
+2021-04-09,Ipoh,-6.0
+2021-04-10,Ipoh,4.0
+2021-04-11,Ipoh,11.0
+2021-04-12,Ipoh,10.0
+2021-04-13,Ipoh,-8.0
+2021-04-14,Ipoh,-7.000000000000001
+2021-04-15,Ipoh,-13.0
+2021-04-16,Ipoh,-30.0
+2021-04-17,Ipoh,-50.0
+2021-04-18,Ipoh,-56.99999999999999
+2021-04-19,Ipoh,-14.000000000000002
+2021-04-20,Ipoh,15.0
+2021-04-21,Ipoh,-32.0
+2021-04-22,Ipoh,-8.0
+2021-04-23,Ipoh,-50.0
+2021-04-24,Ipoh,-47.0
+2021-04-25,Ipoh,-17.0
+2021-04-26,Ipoh,1.0
+2021-04-27,Ipoh,-10.0
+2021-04-28,Ipoh,-37.0
+2021-04-29,Ipoh,-44.0
+2021-04-30,Ipoh,-29.0
+2021-05-01,Ipoh,-55.00000000000001
+2021-05-02,Ipoh,-18.0
+2021-05-03,Ipoh,30.0
+2021-05-04,Ipoh,32.0
+2021-05-05,Ipoh,39.0
+2021-05-06,Ipoh,-10.0
+2021-05-07,Ipoh,-35.0
+2021-05-08,Ipoh,-46.0
+2021-05-09,Ipoh,-2.0
+2021-05-10,Ipoh,-35.0
+2021-05-11,Ipoh,-19.0
+2021-05-12,Ipoh,-28.000000000000004
+2021-05-13,Ipoh,-56.99999999999999
+2021-05-14,Ipoh,-74.0
+2021-05-15,Ipoh,-87.0
+2021-05-16,Ipoh,-60.0
+2021-05-17,Ipoh,-21.0
+2021-05-18,Ipoh,-50.0
+2021-05-19,Ipoh,-77.0
+2021-05-20,Ipoh,-35.0
+2021-05-21,Ipoh,-55.00000000000001
+2021-05-22,Ipoh,-69.0
+2021-05-23,Ipoh,-83.0
+2021-05-24,Ipoh,-67.0
+2021-05-25,Ipoh,-56.99999999999999
+2021-05-26,Ipoh,-57.99999999999999
+2021-05-27,Ipoh,-63.0
+2021-05-28,Ipoh,-72.0
+2021-05-29,Ipoh,-69.0
+2021-05-30,Ipoh,-54.0
+2021-05-31,Ipoh,-37.0
+2021-06-01,Ipoh,-46.0
+2021-06-02,Ipoh,-79.0
+2021-06-03,Ipoh,-73.0
+2021-06-04,Ipoh,-81.0
+2021-06-05,Ipoh,-74.0
+2021-06-06,Ipoh,-60.0
+2021-06-07,Ipoh,-76.0
+2021-06-08,Ipoh,-55.00000000000001
+2021-06-09,Ipoh,-49.0
+2021-06-10,Ipoh,-62.0
+2021-06-11,Ipoh,-76.0
+2021-06-13,Ipoh,-83.0
+2021-06-14,Ipoh,-54.0
+2021-06-16,Ipoh,-55.00000000000001
+2021-06-17,Ipoh,-49.0
+2021-06-18,Ipoh,-76.0
+2021-06-19,Ipoh,-63.0
+2021-06-20,Ipoh,-55.00000000000001
+2021-06-21,Ipoh,-56.00000000000001
+2021-06-22,Ipoh,-54.0
+2021-06-23,Ipoh,-70.0
+2021-06-24,Ipoh,-56.00000000000001
+2021-06-25,Ipoh,-73.0
+2021-06-26,Ipoh,-89.0
+2021-06-27,Ipoh,-97.0
+2021-06-28,Ipoh,-60.0
+2021-06-29,Ipoh,-55.00000000000001
+2021-06-30,Ipoh,-41.0
+2021-07-01,Ipoh,-43.0
+2021-07-02,Ipoh,-77.0
+2021-07-03,Ipoh,-51.0
+2021-07-04,Ipoh,-62.0
+2021-07-05,Ipoh,-25.0
+2021-07-06,Ipoh,-53.0
+2021-07-07,Ipoh,-60.0
+2021-07-09,Ipoh,-63.0
+2021-07-10,Ipoh,-53.0
+2021-07-11,Ipoh,-77.0
+2021-07-12,Ipoh,-69.0
+2021-07-13,Ipoh,11.0
+2021-07-14,Ipoh,-48.0
+2021-07-15,Ipoh,-47.0
+2021-07-16,Ipoh,-65.0
+2021-07-17,Ipoh,-52.0
+2021-07-18,Ipoh,-72.0
+2021-07-19,Ipoh,-42.0
+2021-07-20,Ipoh,-43.0
+2020-03-01,Johor Bahru,11.0
+2020-03-02,Johor Bahru,6.0
+2020-03-03,Johor Bahru,5.0
+2020-03-04,Johor Bahru,7.000000000000001
+2020-03-05,Johor Bahru,4.0
+2020-03-06,Johor Bahru,1.0
+2020-03-07,Johor Bahru,10.0
+2020-03-08,Johor Bahru,14.000000000000002
+2020-03-09,Johor Bahru,7.000000000000001
+2020-03-10,Johor Bahru,8.0
+2020-03-11,Johor Bahru,6.0
+2020-03-12,Johor Bahru,4.0
+2020-03-13,Johor Bahru,-1.0
+2020-03-14,Johor Bahru,1.0
+2020-03-15,Johor Bahru,14.000000000000002
+2020-03-16,Johor Bahru,1.0
+2020-03-17,Johor Bahru,32.0
+2020-03-18,Johor Bahru,-52.0
+2020-03-19,Johor Bahru,-70.0
+2020-03-20,Johor Bahru,-76.0
+2020-03-21,Johor Bahru,-80.0
+2020-03-22,Johor Bahru,-85.0
+2020-03-23,Johor Bahru,-84.0
+2020-03-24,Johor Bahru,-79.0
+2020-03-25,Johor Bahru,-79.0
+2020-03-26,Johor Bahru,-80.0
+2020-03-27,Johor Bahru,-83.0
+2020-03-28,Johor Bahru,-83.0
+2020-03-29,Johor Bahru,-82.0
+2020-03-30,Johor Bahru,-78.0
+2020-03-31,Johor Bahru,-76.0
+2020-04-01,Johor Bahru,-76.0
+2020-04-02,Johor Bahru,-77.0
+2020-04-03,Johor Bahru,-82.0
+2020-04-04,Johor Bahru,-84.0
+2020-04-05,Johor Bahru,-85.0
+2020-04-06,Johor Bahru,-76.0
+2020-04-07,Johor Bahru,-75.0
+2020-04-08,Johor Bahru,-78.0
+2020-04-09,Johor Bahru,-74.0
+2020-04-10,Johor Bahru,-79.0
+2020-04-11,Johor Bahru,-81.0
+2020-04-12,Johor Bahru,-81.0
+2020-04-13,Johor Bahru,-75.0
+2020-04-14,Johor Bahru,-75.0
+2020-04-15,Johor Bahru,-73.0
+2020-04-16,Johor Bahru,-76.0
+2020-04-17,Johor Bahru,-78.0
+2020-04-18,Johor Bahru,-83.0
+2020-04-19,Johor Bahru,-81.0
+2020-04-20,Johor Bahru,-73.0
+2020-04-21,Johor Bahru,-73.0
+2020-04-22,Johor Bahru,-78.0
+2020-04-23,Johor Bahru,-73.0
+2020-04-24,Johor Bahru,-82.0
+2020-04-25,Johor Bahru,-80.0
+2020-04-26,Johor Bahru,-79.0
+2020-04-27,Johor Bahru,-72.0
+2020-04-28,Johor Bahru,-72.0
+2020-04-29,Johor Bahru,-69.0
+2020-04-30,Johor Bahru,-70.0
+2020-05-01,Johor Bahru,-79.0
+2020-05-02,Johor Bahru,-79.0
+2020-05-03,Johor Bahru,-74.0
+2020-05-04,Johor Bahru,-60.0
+2020-05-05,Johor Bahru,-57.99999999999999
+2020-05-06,Johor Bahru,-55.00000000000001
+2020-05-07,Johor Bahru,-60.0
+2020-05-08,Johor Bahru,-63.0
+2020-05-09,Johor Bahru,-64.0
+2020-05-10,Johor Bahru,-53.0
+2020-05-11,Johor Bahru,-52.0
+2020-05-12,Johor Bahru,-50.0
+2020-05-13,Johor Bahru,-49.0
+2020-05-14,Johor Bahru,-50.0
+2020-05-15,Johor Bahru,-56.00000000000001
+2020-05-16,Johor Bahru,-60.0
+2020-05-17,Johor Bahru,-55.00000000000001
+2020-05-18,Johor Bahru,-42.0
+2020-05-19,Johor Bahru,-41.0
+2020-05-20,Johor Bahru,-36.0
+2020-05-21,Johor Bahru,-43.0
+2020-05-22,Johor Bahru,-45.0
+2020-05-23,Johor Bahru,-57.99999999999999
+2020-05-24,Johor Bahru,-54.0
+2020-05-25,Johor Bahru,-62.0
+2020-05-26,Johor Bahru,-57.99999999999999
+2020-05-27,Johor Bahru,-48.0
+2020-05-28,Johor Bahru,-45.0
+2020-05-29,Johor Bahru,-60.0
+2020-05-30,Johor Bahru,-60.0
+2020-05-31,Johor Bahru,-52.0
+2020-06-01,Johor Bahru,-42.0
+2020-06-02,Johor Bahru,-40.0
+2020-06-03,Johor Bahru,-39.0
+2020-06-04,Johor Bahru,-43.0
+2020-06-05,Johor Bahru,-46.0
+2020-06-06,Johor Bahru,-60.0
+2020-06-07,Johor Bahru,-49.0
+2020-06-08,Johor Bahru,-42.0
+2020-06-09,Johor Bahru,-26.0
+2020-06-10,Johor Bahru,-18.0
+2020-06-11,Johor Bahru,-25.0
+2020-06-12,Johor Bahru,-29.0
+2020-06-13,Johor Bahru,-31.0
+2020-06-14,Johor Bahru,-31.0
+2020-06-15,Johor Bahru,-14.000000000000002
+2020-06-16,Johor Bahru,-20.0
+2020-06-17,Johor Bahru,-13.0
+2020-06-18,Johor Bahru,-27.0
+2020-06-19,Johor Bahru,-27.0
+2020-06-20,Johor Bahru,-38.0
+2020-06-21,Johor Bahru,-28.000000000000004
+2020-06-22,Johor Bahru,-11.0
+2020-06-23,Johor Bahru,-19.0
+2020-06-24,Johor Bahru,-17.0
+2020-06-25,Johor Bahru,-23.0
+2020-06-26,Johor Bahru,-23.0
+2020-06-27,Johor Bahru,-29.0
+2020-06-28,Johor Bahru,-24.0
+2020-06-29,Johor Bahru,-19.0
+2020-06-30,Johor Bahru,-18.0
+2020-07-01,Johor Bahru,-11.0
+2020-07-02,Johor Bahru,-22.0
+2020-07-03,Johor Bahru,-23.0
+2020-07-04,Johor Bahru,-21.0
+2020-07-05,Johor Bahru,-20.0
+2020-07-06,Johor Bahru,-17.0
+2020-07-07,Johor Bahru,-17.0
+2020-07-08,Johor Bahru,-13.0
+2020-07-09,Johor Bahru,-23.0
+2020-07-10,Johor Bahru,-24.0
+2020-07-11,Johor Bahru,-23.0
+2020-07-12,Johor Bahru,-20.0
+2020-07-13,Johor Bahru,-21.0
+2020-07-14,Johor Bahru,-17.0
+2020-07-15,Johor Bahru,-18.0
+2020-07-16,Johor Bahru,-15.0
+2020-07-17,Johor Bahru,-23.0
+2020-07-18,Johor Bahru,-30.0
+2020-07-19,Johor Bahru,-15.0
+2020-07-20,Johor Bahru,-18.0
+2020-07-21,Johor Bahru,-14.000000000000002
+2020-07-22,Johor Bahru,-22.0
+2020-07-23,Johor Bahru,-10.0
+2020-07-24,Johor Bahru,-19.0
+2020-07-25,Johor Bahru,-23.0
+2020-07-26,Johor Bahru,-22.0
+2020-07-27,Johor Bahru,-8.0
+2020-07-28,Johor Bahru,-3.0
+2020-07-29,Johor Bahru,-1.0
+2020-07-30,Johor Bahru,-2.0
+2020-07-31,Johor Bahru,-26.0
+2020-08-01,Johor Bahru,-28.000000000000004
+2020-08-02,Johor Bahru,-1.0
+2020-08-03,Johor Bahru,-4.0
+2020-08-04,Johor Bahru,-10.0
+2020-08-05,Johor Bahru,-1.0
+2020-08-06,Johor Bahru,-12.0
+2020-08-07,Johor Bahru,-14.000000000000002
+2020-08-08,Johor Bahru,-11.0
+2020-08-09,Johor Bahru,-10.0
+2020-08-10,Johor Bahru,-3.0
+2020-08-11,Johor Bahru,2.0
+2020-08-12,Johor Bahru,-6.0
+2020-08-13,Johor Bahru,-7.000000000000001
+2020-08-14,Johor Bahru,-14.000000000000002
+2020-08-15,Johor Bahru,-23.0
+2020-08-16,Johor Bahru,-16.0
+2020-08-17,Johor Bahru,-4.0
+2020-08-18,Johor Bahru,-8.0
+2020-08-19,Johor Bahru,-8.0
+2020-08-20,Johor Bahru,-8.0
+2020-08-21,Johor Bahru,-30.0
+2020-08-22,Johor Bahru,-24.0
+2020-08-23,Johor Bahru,-12.0
+2020-08-24,Johor Bahru,3.0
+2020-08-25,Johor Bahru,-6.0
+2020-08-26,Johor Bahru,-3.0
+2020-08-27,Johor Bahru,-8.0
+2020-08-28,Johor Bahru,-15.0
+2020-08-29,Johor Bahru,-13.0
+2020-08-30,Johor Bahru,6.0
+2020-08-31,Johor Bahru,4.0
+2020-09-01,Johor Bahru,1.0
+2020-09-02,Johor Bahru,-7.000000000000001
+2020-09-03,Johor Bahru,0.0
+2020-09-04,Johor Bahru,-16.0
+2020-09-05,Johor Bahru,-15.0
+2020-09-06,Johor Bahru,-8.0
+2020-09-07,Johor Bahru,1.0
+2020-09-08,Johor Bahru,-5.0
+2020-09-09,Johor Bahru,0.0
+2020-09-10,Johor Bahru,-5.0
+2020-09-11,Johor Bahru,-12.0
+2020-09-12,Johor Bahru,-17.0
+2020-09-13,Johor Bahru,-14.000000000000002
+2020-09-14,Johor Bahru,-8.0
+2020-09-15,Johor Bahru,4.0
+2020-09-16,Johor Bahru,-8.0
+2020-09-17,Johor Bahru,-11.0
+2020-09-18,Johor Bahru,-9.0
+2020-09-19,Johor Bahru,-10.0
+2020-09-20,Johor Bahru,-11.0
+2020-09-21,Johor Bahru,-2.0
+2020-09-22,Johor Bahru,-2.0
+2020-09-23,Johor Bahru,-10.0
+2020-09-24,Johor Bahru,-12.0
+2020-09-25,Johor Bahru,-19.0
+2020-09-26,Johor Bahru,-23.0
+2020-09-27,Johor Bahru,-10.0
+2020-09-28,Johor Bahru,3.0
+2020-09-29,Johor Bahru,-4.0
+2020-09-30,Johor Bahru,-1.0
+2020-10-01,Johor Bahru,-18.0
+2020-10-02,Johor Bahru,-14.000000000000002
+2020-10-03,Johor Bahru,-17.0
+2020-10-04,Johor Bahru,-18.0
+2020-10-05,Johor Bahru,-15.0
+2020-10-06,Johor Bahru,-14.000000000000002
+2020-10-07,Johor Bahru,-10.0
+2020-10-08,Johor Bahru,-11.0
+2020-10-09,Johor Bahru,-11.0
+2020-10-10,Johor Bahru,-24.0
+2020-10-11,Johor Bahru,-18.0
+2020-10-12,Johor Bahru,-6.0
+2020-10-13,Johor Bahru,-10.0
+2020-10-14,Johor Bahru,-17.0
+2020-10-15,Johor Bahru,-23.0
+2020-10-16,Johor Bahru,-26.0
+2020-10-17,Johor Bahru,-33.0
+2020-10-18,Johor Bahru,-37.0
+2020-10-19,Johor Bahru,-19.0
+2020-10-20,Johor Bahru,-20.0
+2020-10-21,Johor Bahru,-19.0
+2020-10-22,Johor Bahru,-24.0
+2020-10-23,Johor Bahru,-26.0
+2020-10-24,Johor Bahru,-32.0
+2020-10-25,Johor Bahru,-27.0
+2020-10-26,Johor Bahru,-15.0
+2020-10-27,Johor Bahru,-29.0
+2020-10-28,Johor Bahru,-26.0
+2020-10-29,Johor Bahru,-28.000000000000004
+2020-10-30,Johor Bahru,-26.0
+2020-10-31,Johor Bahru,-36.0
+2020-11-01,Johor Bahru,-25.0
+2020-11-02,Johor Bahru,-17.0
+2020-11-03,Johor Bahru,-23.0
+2020-11-04,Johor Bahru,-21.0
+2020-11-05,Johor Bahru,-25.0
+2020-11-06,Johor Bahru,-31.0
+2020-11-07,Johor Bahru,-29.0
+2020-11-08,Johor Bahru,-22.0
+2020-11-09,Johor Bahru,-33.0
+2020-11-10,Johor Bahru,-36.0
+2020-11-11,Johor Bahru,-25.0
+2020-11-12,Johor Bahru,-28.000000000000004
+2020-11-13,Johor Bahru,-32.0
+2020-11-14,Johor Bahru,-55.00000000000001
+2020-11-15,Johor Bahru,-52.0
+2020-11-16,Johor Bahru,-27.0
+2020-11-17,Johor Bahru,-29.0
+2020-11-18,Johor Bahru,-32.0
+2020-11-19,Johor Bahru,-26.0
+2020-11-20,Johor Bahru,-36.0
+2020-11-21,Johor Bahru,-46.0
+2020-11-22,Johor Bahru,-35.0
+2020-11-23,Johor Bahru,-25.0
+2020-11-24,Johor Bahru,-20.0
+2020-11-25,Johor Bahru,-19.0
+2020-11-26,Johor Bahru,-26.0
+2020-11-27,Johor Bahru,-31.0
+2020-11-28,Johor Bahru,-35.0
+2020-11-29,Johor Bahru,-29.0
+2020-11-30,Johor Bahru,-21.0
+2020-12-01,Johor Bahru,-16.0
+2020-12-02,Johor Bahru,-20.0
+2020-12-03,Johor Bahru,-21.0
+2020-12-04,Johor Bahru,-18.0
+2020-12-05,Johor Bahru,-34.0
+2020-12-06,Johor Bahru,-29.0
+2020-12-07,Johor Bahru,-21.0
+2020-12-08,Johor Bahru,-16.0
+2020-12-09,Johor Bahru,-16.0
+2020-12-10,Johor Bahru,-16.0
+2020-12-11,Johor Bahru,-15.0
+2020-12-12,Johor Bahru,-34.0
+2020-12-13,Johor Bahru,-26.0
+2020-12-14,Johor Bahru,-14.000000000000002
+2020-12-15,Johor Bahru,-2.0
+2020-12-16,Johor Bahru,-15.0
+2020-12-17,Johor Bahru,-17.0
+2020-12-18,Johor Bahru,-27.0
+2020-12-19,Johor Bahru,-30.0
+2020-12-20,Johor Bahru,-19.0
+2020-12-21,Johor Bahru,-14.000000000000002
+2020-12-22,Johor Bahru,-8.0
+2020-12-23,Johor Bahru,-5.0
+2020-12-24,Johor Bahru,1.0
+2020-12-25,Johor Bahru,-21.0
+2020-12-26,Johor Bahru,-27.0
+2020-12-27,Johor Bahru,-17.0
+2020-12-28,Johor Bahru,-9.0
+2020-12-29,Johor Bahru,-6.0
+2020-12-30,Johor Bahru,-4.0
+2020-12-31,Johor Bahru,-1.0
+2021-01-01,Johor Bahru,-20.0
+2021-01-02,Johor Bahru,-34.0
+2021-01-03,Johor Bahru,-22.0
+2021-01-04,Johor Bahru,-11.0
+2021-01-05,Johor Bahru,-19.0
+2021-01-06,Johor Bahru,-21.0
+2021-01-07,Johor Bahru,-18.0
+2021-01-08,Johor Bahru,-22.0
+2021-01-09,Johor Bahru,-30.0
+2021-01-10,Johor Bahru,-19.0
+2021-01-11,Johor Bahru,-12.0
+2021-01-12,Johor Bahru,23.0
+2021-01-13,Johor Bahru,-46.0
+2021-01-14,Johor Bahru,-49.0
+2021-01-15,Johor Bahru,-51.0
+2021-01-16,Johor Bahru,-63.0
+2021-01-17,Johor Bahru,-65.0
+2021-01-18,Johor Bahru,-48.0
+2021-01-19,Johor Bahru,-44.0
+2021-01-20,Johor Bahru,-42.0
+2021-01-21,Johor Bahru,-53.0
+2021-01-22,Johor Bahru,-50.0
+2021-01-23,Johor Bahru,-60.0
+2021-01-24,Johor Bahru,-54.0
+2021-01-25,Johor Bahru,-32.0
+2021-01-26,Johor Bahru,-45.0
+2021-01-27,Johor Bahru,-43.0
+2021-01-28,Johor Bahru,-42.0
+2021-01-29,Johor Bahru,-47.0
+2021-01-30,Johor Bahru,-61.0
+2021-01-31,Johor Bahru,-53.0
+2021-02-01,Johor Bahru,-38.0
+2021-02-02,Johor Bahru,-38.0
+2021-02-03,Johor Bahru,-30.0
+2021-02-04,Johor Bahru,-38.0
+2021-02-05,Johor Bahru,-42.0
+2021-02-06,Johor Bahru,-46.0
+2021-02-07,Johor Bahru,-40.0
+2021-02-08,Johor Bahru,-29.0
+2021-02-09,Johor Bahru,-23.0
+2021-02-10,Johor Bahru,-18.0
+2021-02-11,Johor Bahru,-41.0
+2021-02-12,Johor Bahru,-67.0
+2021-02-13,Johor Bahru,-60.0
+2021-02-14,Johor Bahru,-45.0
+2021-02-15,Johor Bahru,-39.0
+2021-02-16,Johor Bahru,-41.0
+2021-02-17,Johor Bahru,-40.0
+2021-02-18,Johor Bahru,-38.0
+2021-02-19,Johor Bahru,-46.0
+2021-02-20,Johor Bahru,-44.0
+2021-02-21,Johor Bahru,-41.0
+2021-02-22,Johor Bahru,-26.0
+2021-02-23,Johor Bahru,-30.0
+2021-02-24,Johor Bahru,-21.0
+2021-02-25,Johor Bahru,-28.000000000000004
+2021-02-26,Johor Bahru,-37.0
+2021-02-27,Johor Bahru,-41.0
+2021-02-28,Johor Bahru,-34.0
+2021-03-01,Johor Bahru,-24.0
+2021-03-02,Johor Bahru,-27.0
+2021-03-03,Johor Bahru,-19.0
+2021-03-04,Johor Bahru,-25.0
+2021-03-05,Johor Bahru,-24.0
+2021-03-06,Johor Bahru,-27.0
+2021-03-07,Johor Bahru,-25.0
+2021-03-08,Johor Bahru,-7.000000000000001
+2021-03-09,Johor Bahru,-10.0
+2021-03-10,Johor Bahru,-6.0
+2021-03-11,Johor Bahru,-24.0
+2021-03-12,Johor Bahru,-19.0
+2021-03-13,Johor Bahru,-26.0
+2021-03-14,Johor Bahru,-22.0
+2021-03-15,Johor Bahru,-11.0
+2021-03-16,Johor Bahru,-11.0
+2021-03-17,Johor Bahru,-3.0
+2021-03-18,Johor Bahru,-10.0
+2021-03-19,Johor Bahru,-19.0
+2021-03-20,Johor Bahru,-19.0
+2021-03-21,Johor Bahru,-18.0
+2021-03-22,Johor Bahru,-7.000000000000001
+2021-03-23,Johor Bahru,-11.0
+2021-03-24,Johor Bahru,-11.0
+2021-03-25,Johor Bahru,-14.000000000000002
+2021-03-26,Johor Bahru,-21.0
+2021-03-27,Johor Bahru,-21.0
+2021-03-28,Johor Bahru,-17.0
+2021-03-29,Johor Bahru,-4.0
+2021-03-30,Johor Bahru,-5.0
+2021-03-31,Johor Bahru,-1.0
+2021-04-01,Johor Bahru,3.0
+2021-04-02,Johor Bahru,-10.0
+2021-04-03,Johor Bahru,-14.000000000000002
+2021-04-04,Johor Bahru,-17.0
+2021-04-05,Johor Bahru,3.0
+2021-04-06,Johor Bahru,1.0
+2021-04-07,Johor Bahru,-1.0
+2021-04-08,Johor Bahru,1.0
+2021-04-09,Johor Bahru,-8.0
+2021-04-10,Johor Bahru,-11.0
+2021-04-11,Johor Bahru,-10.0
+2021-04-12,Johor Bahru,3.0
+2021-04-13,Johor Bahru,-21.0
+2021-04-14,Johor Bahru,-7.000000000000001
+2021-04-15,Johor Bahru,-17.0
+2021-04-16,Johor Bahru,-21.0
+2021-04-17,Johor Bahru,-32.0
+2021-04-18,Johor Bahru,-24.0
+2021-04-19,Johor Bahru,-9.0
+2021-04-20,Johor Bahru,-15.0
+2021-04-21,Johor Bahru,-13.0
+2021-04-22,Johor Bahru,-14.000000000000002
+2021-04-23,Johor Bahru,-26.0
+2021-04-24,Johor Bahru,-27.0
+2021-04-25,Johor Bahru,-19.0
+2021-04-26,Johor Bahru,-10.0
+2021-04-27,Johor Bahru,-16.0
+2021-04-28,Johor Bahru,-13.0
+2021-04-29,Johor Bahru,-11.0
+2021-04-30,Johor Bahru,-21.0
+2021-05-01,Johor Bahru,-31.0
+2021-05-02,Johor Bahru,-23.0
+2021-05-03,Johor Bahru,-11.0
+2021-05-04,Johor Bahru,-16.0
+2021-05-05,Johor Bahru,-5.0
+2021-05-06,Johor Bahru,22.0
+2021-05-07,Johor Bahru,-43.0
+2021-05-08,Johor Bahru,-49.0
+2021-05-09,Johor Bahru,-33.0
+2021-05-10,Johor Bahru,-19.0
+2021-05-11,Johor Bahru,-14.000000000000002
+2021-05-12,Johor Bahru,-28.000000000000004
+2021-05-13,Johor Bahru,-54.0
+2021-05-14,Johor Bahru,-62.0
+2021-05-15,Johor Bahru,-60.0
+2021-05-16,Johor Bahru,-54.0
+2021-05-17,Johor Bahru,-33.0
+2021-05-18,Johor Bahru,-24.0
+2021-05-19,Johor Bahru,-34.0
+2021-05-20,Johor Bahru,-38.0
+2021-05-21,Johor Bahru,-47.0
+2021-05-22,Johor Bahru,-57.99999999999999
+2021-05-23,Johor Bahru,-50.0
+2021-05-24,Johor Bahru,-39.0
+2021-05-25,Johor Bahru,-44.0
+2021-05-26,Johor Bahru,-55.00000000000001
+2021-05-27,Johor Bahru,-47.0
+2021-05-28,Johor Bahru,-53.0
+2021-05-29,Johor Bahru,-60.0
+2021-05-30,Johor Bahru,-47.0
+2021-05-31,Johor Bahru,-17.0
+2021-06-01,Johor Bahru,-72.0
+2021-06-02,Johor Bahru,-64.0
+2021-06-03,Johor Bahru,-61.0
+2021-06-04,Johor Bahru,-69.0
+2021-06-05,Johor Bahru,-70.0
+2021-06-06,Johor Bahru,-65.0
+2021-06-07,Johor Bahru,-71.0
+2021-06-08,Johor Bahru,-56.99999999999999
+2021-06-09,Johor Bahru,-57.99999999999999
+2021-06-10,Johor Bahru,-59.0
+2021-06-11,Johor Bahru,-67.0
+2021-06-12,Johor Bahru,-72.0
+2021-06-13,Johor Bahru,-63.0
+2021-06-14,Johor Bahru,-54.0
+2021-06-15,Johor Bahru,-59.0
+2021-06-16,Johor Bahru,-53.0
+2021-06-17,Johor Bahru,-56.99999999999999
+2021-06-18,Johor Bahru,-63.0
+2021-06-19,Johor Bahru,-63.0
+2021-06-20,Johor Bahru,-56.00000000000001
+2021-06-21,Johor Bahru,-53.0
+2021-06-22,Johor Bahru,-50.0
+2021-06-23,Johor Bahru,-51.0
+2021-06-24,Johor Bahru,-51.0
+2021-06-25,Johor Bahru,-65.0
+2021-06-26,Johor Bahru,-65.0
+2021-06-27,Johor Bahru,-62.0
+2021-06-28,Johor Bahru,-50.0
+2021-06-29,Johor Bahru,-60.0
+2021-06-30,Johor Bahru,-54.0
+2021-07-01,Johor Bahru,-50.0
+2021-07-02,Johor Bahru,-57.99999999999999
+2021-07-03,Johor Bahru,-63.0
+2021-07-04,Johor Bahru,-63.0
+2021-07-05,Johor Bahru,-47.0
+2021-07-06,Johor Bahru,-50.0
+2021-07-07,Johor Bahru,-49.0
+2021-07-09,Johor Bahru,-54.0
+2021-07-10,Johor Bahru,-61.0
+2021-07-11,Johor Bahru,-56.99999999999999
+2021-07-12,Johor Bahru,-46.0
+2021-07-13,Johor Bahru,-45.0
+2021-07-14,Johor Bahru,-46.0
+2021-07-15,Johor Bahru,-48.0
+2021-07-16,Johor Bahru,-55.00000000000001
+2021-07-17,Johor Bahru,-66.0
+2021-07-18,Johor Bahru,-56.99999999999999
+2021-07-19,Johor Bahru,-40.0
+2021-07-20,Johor Bahru,-54.0
+2020-03-01,Kuala Lumpur,7.000000000000001
+2020-03-02,Kuala Lumpur,2.0
+2020-03-03,Kuala Lumpur,0.0
+2020-03-04,Kuala Lumpur,0.0
+2020-03-05,Kuala Lumpur,-2.0
+2020-03-06,Kuala Lumpur,-5.0
+2020-03-07,Kuala Lumpur,-4.0
+2020-03-08,Kuala Lumpur,1.0
+2020-03-09,Kuala Lumpur,-1.0
+2020-03-10,Kuala Lumpur,-2.0
+2020-03-11,Kuala Lumpur,-4.0
+2020-03-12,Kuala Lumpur,-7.000000000000001
+2020-03-13,Kuala Lumpur,-10.0
+2020-03-14,Kuala Lumpur,-16.0
+2020-03-15,Kuala Lumpur,-12.0
+2020-03-16,Kuala Lumpur,-12.0
+2020-03-17,Kuala Lumpur,-5.0
+2020-03-18,Kuala Lumpur,-64.0
+2020-03-19,Kuala Lumpur,-75.0
+2020-03-20,Kuala Lumpur,-80.0
+2020-03-21,Kuala Lumpur,-83.0
+2020-03-22,Kuala Lumpur,-88.0
+2020-03-23,Kuala Lumpur,-83.0
+2020-03-24,Kuala Lumpur,-83.0
+2020-03-25,Kuala Lumpur,-82.0
+2020-03-26,Kuala Lumpur,-81.0
+2020-03-27,Kuala Lumpur,-83.0
+2020-03-28,Kuala Lumpur,-87.0
+2020-03-29,Kuala Lumpur,-86.0
+2020-03-30,Kuala Lumpur,-81.0
+2020-03-31,Kuala Lumpur,-81.0
+2020-04-01,Kuala Lumpur,-82.0
+2020-04-02,Kuala Lumpur,-84.0
+2020-04-03,Kuala Lumpur,-86.0
+2020-04-04,Kuala Lumpur,-89.0
+2020-04-05,Kuala Lumpur,-88.0
+2020-04-06,Kuala Lumpur,-83.0
+2020-04-07,Kuala Lumpur,-82.0
+2020-04-08,Kuala Lumpur,-84.0
+2020-04-09,Kuala Lumpur,-84.0
+2020-04-10,Kuala Lumpur,-86.0
+2020-04-11,Kuala Lumpur,-87.0
+2020-04-12,Kuala Lumpur,-87.0
+2020-04-13,Kuala Lumpur,-81.0
+2020-04-14,Kuala Lumpur,-81.0
+2020-04-15,Kuala Lumpur,-82.0
+2020-04-16,Kuala Lumpur,-83.0
+2020-04-17,Kuala Lumpur,-84.0
+2020-04-18,Kuala Lumpur,-87.0
+2020-04-19,Kuala Lumpur,-87.0
+2020-04-20,Kuala Lumpur,-80.0
+2020-04-21,Kuala Lumpur,-81.0
+2020-04-22,Kuala Lumpur,-82.0
+2020-04-23,Kuala Lumpur,-81.0
+2020-04-24,Kuala Lumpur,-84.0
+2020-04-25,Kuala Lumpur,-86.0
+2020-04-26,Kuala Lumpur,-86.0
+2020-04-27,Kuala Lumpur,-79.0
+2020-04-28,Kuala Lumpur,-79.0
+2020-04-29,Kuala Lumpur,-80.0
+2020-04-30,Kuala Lumpur,-79.0
+2020-05-01,Kuala Lumpur,-86.0
+2020-05-02,Kuala Lumpur,-84.0
+2020-05-03,Kuala Lumpur,-81.0
+2020-05-04,Kuala Lumpur,-64.0
+2020-05-05,Kuala Lumpur,-63.0
+2020-05-06,Kuala Lumpur,-64.0
+2020-05-07,Kuala Lumpur,-73.0
+2020-05-08,Kuala Lumpur,-66.0
+2020-05-09,Kuala Lumpur,-68.0
+2020-05-10,Kuala Lumpur,-67.0
+2020-05-11,Kuala Lumpur,-65.0
+2020-05-12,Kuala Lumpur,-55.00000000000001
+2020-05-13,Kuala Lumpur,-54.0
+2020-05-14,Kuala Lumpur,-56.00000000000001
+2020-05-15,Kuala Lumpur,-57.99999999999999
+2020-05-16,Kuala Lumpur,-62.0
+2020-05-17,Kuala Lumpur,-62.0
+2020-05-18,Kuala Lumpur,-47.0
+2020-05-19,Kuala Lumpur,-47.0
+2020-05-20,Kuala Lumpur,-46.0
+2020-05-21,Kuala Lumpur,-48.0
+2020-05-22,Kuala Lumpur,-50.0
+2020-05-23,Kuala Lumpur,-57.99999999999999
+2020-05-24,Kuala Lumpur,-56.99999999999999
+2020-05-25,Kuala Lumpur,-64.0
+2020-05-26,Kuala Lumpur,-62.0
+2020-05-27,Kuala Lumpur,-53.0
+2020-05-28,Kuala Lumpur,-51.0
+2020-05-29,Kuala Lumpur,-53.0
+2020-05-30,Kuala Lumpur,-56.00000000000001
+2020-05-31,Kuala Lumpur,-55.00000000000001
+2020-06-01,Kuala Lumpur,-42.0
+2020-06-02,Kuala Lumpur,-42.0
+2020-06-03,Kuala Lumpur,-43.0
+2020-06-04,Kuala Lumpur,-46.0
+2020-06-05,Kuala Lumpur,-48.0
+2020-06-06,Kuala Lumpur,-49.0
+2020-06-07,Kuala Lumpur,-51.0
+2020-06-08,Kuala Lumpur,-52.0
+2020-06-09,Kuala Lumpur,-34.0
+2020-06-10,Kuala Lumpur,-29.0
+2020-06-11,Kuala Lumpur,-29.0
+2020-06-12,Kuala Lumpur,-37.0
+2020-06-13,Kuala Lumpur,-37.0
+2020-06-14,Kuala Lumpur,-31.0
+2020-06-15,Kuala Lumpur,-23.0
+2020-06-16,Kuala Lumpur,-25.0
+2020-06-17,Kuala Lumpur,-27.0
+2020-06-18,Kuala Lumpur,-28.000000000000004
+2020-06-19,Kuala Lumpur,-29.0
+2020-06-20,Kuala Lumpur,-33.0
+2020-06-21,Kuala Lumpur,-24.0
+2020-06-22,Kuala Lumpur,-22.0
+2020-06-23,Kuala Lumpur,-20.0
+2020-06-24,Kuala Lumpur,-22.0
+2020-06-25,Kuala Lumpur,-24.0
+2020-06-26,Kuala Lumpur,-25.0
+2020-06-27,Kuala Lumpur,-25.0
+2020-06-28,Kuala Lumpur,-21.0
+2020-06-29,Kuala Lumpur,-17.0
+2020-06-30,Kuala Lumpur,-17.0
+2020-07-01,Kuala Lumpur,-18.0
+2020-07-02,Kuala Lumpur,-20.0
+2020-07-03,Kuala Lumpur,-20.0
+2020-07-04,Kuala Lumpur,-19.0
+2020-07-05,Kuala Lumpur,-14.000000000000002
+2020-07-06,Kuala Lumpur,-12.0
+2020-07-07,Kuala Lumpur,-13.0
+2020-07-08,Kuala Lumpur,-15.0
+2020-07-09,Kuala Lumpur,-17.0
+2020-07-10,Kuala Lumpur,-21.0
+2020-07-11,Kuala Lumpur,-16.0
+2020-07-12,Kuala Lumpur,-11.0
+2020-07-13,Kuala Lumpur,-11.0
+2020-07-14,Kuala Lumpur,-20.0
+2020-07-15,Kuala Lumpur,-17.0
+2020-07-16,Kuala Lumpur,-17.0
+2020-07-17,Kuala Lumpur,-16.0
+2020-07-18,Kuala Lumpur,-17.0
+2020-07-19,Kuala Lumpur,-13.0
+2020-07-20,Kuala Lumpur,-15.0
+2020-07-21,Kuala Lumpur,-11.0
+2020-07-22,Kuala Lumpur,-13.0
+2020-07-23,Kuala Lumpur,-13.0
+2020-07-24,Kuala Lumpur,-14.000000000000002
+2020-07-25,Kuala Lumpur,-13.0
+2020-07-26,Kuala Lumpur,-10.0
+2020-07-27,Kuala Lumpur,-7.000000000000001
+2020-07-28,Kuala Lumpur,-6.0
+2020-07-29,Kuala Lumpur,-3.0
+2020-07-30,Kuala Lumpur,-12.0
+2020-07-31,Kuala Lumpur,-40.0
+2020-08-01,Kuala Lumpur,-30.0
+2020-08-02,Kuala Lumpur,-9.0
+2020-08-03,Kuala Lumpur,-2.0
+2020-08-04,Kuala Lumpur,-6.0
+2020-08-05,Kuala Lumpur,-8.0
+2020-08-06,Kuala Lumpur,-11.0
+2020-08-07,Kuala Lumpur,-12.0
+2020-08-08,Kuala Lumpur,-10.0
+2020-08-09,Kuala Lumpur,-7.000000000000001
+2020-08-10,Kuala Lumpur,-6.0
+2020-08-11,Kuala Lumpur,-6.0
+2020-08-12,Kuala Lumpur,-7.000000000000001
+2020-08-13,Kuala Lumpur,-10.0
+2020-08-14,Kuala Lumpur,-11.0
+2020-08-15,Kuala Lumpur,-10.0
+2020-08-16,Kuala Lumpur,-9.0
+2020-08-17,Kuala Lumpur,-6.0
+2020-08-18,Kuala Lumpur,-6.0
+2020-08-19,Kuala Lumpur,2.0
+2020-08-20,Kuala Lumpur,-20.0
+2020-08-21,Kuala Lumpur,-31.0
+2020-08-22,Kuala Lumpur,-15.0
+2020-08-23,Kuala Lumpur,-6.0
+2020-08-24,Kuala Lumpur,-3.0
+2020-08-25,Kuala Lumpur,-5.0
+2020-08-26,Kuala Lumpur,-5.0
+2020-08-27,Kuala Lumpur,-4.0
+2020-08-28,Kuala Lumpur,-8.0
+2020-08-29,Kuala Lumpur,-19.0
+2020-08-30,Kuala Lumpur,4.0
+2020-08-31,Kuala Lumpur,-3.0
+2020-09-01,Kuala Lumpur,-1.0
+2020-09-02,Kuala Lumpur,-4.0
+2020-09-03,Kuala Lumpur,-3.0
+2020-09-04,Kuala Lumpur,-4.0
+2020-09-05,Kuala Lumpur,-1.0
+2020-09-06,Kuala Lumpur,0.0
+2020-09-07,Kuala Lumpur,-1.0
+2020-09-08,Kuala Lumpur,0.0
+2020-09-09,Kuala Lumpur,-1.0
+2020-09-10,Kuala Lumpur,-3.0
+2020-09-11,Kuala Lumpur,-4.0
+2020-09-12,Kuala Lumpur,-2.0
+2020-09-13,Kuala Lumpur,-3.0
+2020-09-14,Kuala Lumpur,-1.0
+2020-09-15,Kuala Lumpur,10.0
+2020-09-16,Kuala Lumpur,-10.0
+2020-09-17,Kuala Lumpur,-5.0
+2020-09-18,Kuala Lumpur,-7.000000000000001
+2020-09-19,Kuala Lumpur,-4.0
+2020-09-20,Kuala Lumpur,1.0
+2020-09-21,Kuala Lumpur,1.0
+2020-09-22,Kuala Lumpur,0.0
+2020-09-23,Kuala Lumpur,-6.0
+2020-09-24,Kuala Lumpur,-1.0
+2020-09-25,Kuala Lumpur,-2.0
+2020-09-26,Kuala Lumpur,1.0
+2020-09-27,Kuala Lumpur,6.0
+2020-09-28,Kuala Lumpur,-1.0
+2020-09-29,Kuala Lumpur,-1.0
+2020-09-30,Kuala Lumpur,-2.0
+2020-10-01,Kuala Lumpur,-13.0
+2020-10-02,Kuala Lumpur,-11.0
+2020-10-03,Kuala Lumpur,-13.0
+2020-10-04,Kuala Lumpur,-10.0
+2020-10-05,Kuala Lumpur,-10.0
+2020-10-06,Kuala Lumpur,-8.0
+2020-10-07,Kuala Lumpur,-11.0
+2020-10-08,Kuala Lumpur,-13.0
+2020-10-09,Kuala Lumpur,-17.0
+2020-10-10,Kuala Lumpur,-17.0
+2020-10-11,Kuala Lumpur,-15.0
+2020-10-12,Kuala Lumpur,-10.0
+2020-10-13,Kuala Lumpur,3.0
+2020-10-14,Kuala Lumpur,-51.0
+2020-10-15,Kuala Lumpur,-49.0
+2020-10-16,Kuala Lumpur,-53.0
+2020-10-17,Kuala Lumpur,-59.0
+2020-10-18,Kuala Lumpur,-60.0
+2020-10-19,Kuala Lumpur,-41.0
+2020-10-20,Kuala Lumpur,-40.0
+2020-10-21,Kuala Lumpur,-38.0
+2020-10-22,Kuala Lumpur,-55.00000000000001
+2020-10-23,Kuala Lumpur,-54.0
+2020-10-24,Kuala Lumpur,-56.99999999999999
+2020-10-25,Kuala Lumpur,-57.99999999999999
+2020-10-26,Kuala Lumpur,-43.0
+2020-10-27,Kuala Lumpur,-41.0
+2020-10-28,Kuala Lumpur,-39.0
+2020-10-29,Kuala Lumpur,-53.0
+2020-10-30,Kuala Lumpur,-44.0
+2020-10-31,Kuala Lumpur,-48.0
+2020-11-01,Kuala Lumpur,-47.0
+2020-11-02,Kuala Lumpur,-38.0
+2020-11-03,Kuala Lumpur,-36.0
+2020-11-04,Kuala Lumpur,-39.0
+2020-11-05,Kuala Lumpur,-41.0
+2020-11-06,Kuala Lumpur,-41.0
+2020-11-07,Kuala Lumpur,-40.0
+2020-11-08,Kuala Lumpur,-44.0
+2020-11-09,Kuala Lumpur,-35.0
+2020-11-10,Kuala Lumpur,-36.0
+2020-11-11,Kuala Lumpur,-33.0
+2020-11-12,Kuala Lumpur,-36.0
+2020-11-13,Kuala Lumpur,-36.0
+2020-11-14,Kuala Lumpur,-48.0
+2020-11-15,Kuala Lumpur,-45.0
+2020-11-16,Kuala Lumpur,-34.0
+2020-11-17,Kuala Lumpur,-33.0
+2020-11-18,Kuala Lumpur,-35.0
+2020-11-19,Kuala Lumpur,-37.0
+2020-11-20,Kuala Lumpur,-37.0
+2020-11-21,Kuala Lumpur,-41.0
+2020-11-22,Kuala Lumpur,-41.0
+2020-11-23,Kuala Lumpur,-32.0
+2020-11-24,Kuala Lumpur,-32.0
+2020-11-25,Kuala Lumpur,-32.0
+2020-11-26,Kuala Lumpur,-34.0
+2020-11-27,Kuala Lumpur,-34.0
+2020-11-28,Kuala Lumpur,-35.0
+2020-11-29,Kuala Lumpur,-36.0
+2020-11-30,Kuala Lumpur,-28.000000000000004
+2020-12-01,Kuala Lumpur,-26.0
+2020-12-02,Kuala Lumpur,-28.000000000000004
+2020-12-03,Kuala Lumpur,-31.0
+2020-12-04,Kuala Lumpur,-30.0
+2020-12-05,Kuala Lumpur,-28.000000000000004
+2020-12-06,Kuala Lumpur,-30.0
+2020-12-07,Kuala Lumpur,-23.0
+2020-12-08,Kuala Lumpur,-20.0
+2020-12-09,Kuala Lumpur,-21.0
+2020-12-10,Kuala Lumpur,-20.0
+2020-12-11,Kuala Lumpur,-21.0
+2020-12-12,Kuala Lumpur,-27.0
+2020-12-13,Kuala Lumpur,-19.0
+2020-12-14,Kuala Lumpur,-17.0
+2020-12-15,Kuala Lumpur,-15.0
+2020-12-16,Kuala Lumpur,-18.0
+2020-12-17,Kuala Lumpur,-18.0
+2020-12-18,Kuala Lumpur,-16.0
+2020-12-19,Kuala Lumpur,-19.0
+2020-12-20,Kuala Lumpur,-17.0
+2020-12-21,Kuala Lumpur,-9.0
+2020-12-22,Kuala Lumpur,-8.0
+2020-12-23,Kuala Lumpur,-6.0
+2020-12-24,Kuala Lumpur,1.0
+2020-12-25,Kuala Lumpur,-33.0
+2020-12-26,Kuala Lumpur,-28.000000000000004
+2020-12-27,Kuala Lumpur,-15.0
+2020-12-28,Kuala Lumpur,-11.0
+2020-12-29,Kuala Lumpur,-7.000000000000001
+2020-12-30,Kuala Lumpur,-5.0
+2020-12-31,Kuala Lumpur,6.0
+2021-01-01,Kuala Lumpur,-37.0
+2021-01-02,Kuala Lumpur,-27.0
+2021-01-03,Kuala Lumpur,-21.0
+2021-01-04,Kuala Lumpur,-15.0
+2021-01-05,Kuala Lumpur,-16.0
+2021-01-06,Kuala Lumpur,-17.0
+2021-01-07,Kuala Lumpur,-21.0
+2021-01-08,Kuala Lumpur,-24.0
+2021-01-09,Kuala Lumpur,-21.0
+2021-01-10,Kuala Lumpur,-16.0
+2021-01-11,Kuala Lumpur,-11.0
+2021-01-12,Kuala Lumpur,9.0
+2021-01-13,Kuala Lumpur,-64.0
+2021-01-14,Kuala Lumpur,-61.0
+2021-01-15,Kuala Lumpur,-62.0
+2021-01-16,Kuala Lumpur,-69.0
+2021-01-17,Kuala Lumpur,-72.0
+2021-01-18,Kuala Lumpur,-53.0
+2021-01-19,Kuala Lumpur,-53.0
+2021-01-20,Kuala Lumpur,-56.00000000000001
+2021-01-21,Kuala Lumpur,-56.99999999999999
+2021-01-22,Kuala Lumpur,-59.0
+2021-01-23,Kuala Lumpur,-62.0
+2021-01-24,Kuala Lumpur,-67.0
+2021-01-25,Kuala Lumpur,-48.0
+2021-01-26,Kuala Lumpur,-48.0
+2021-01-27,Kuala Lumpur,-48.0
+2021-01-28,Kuala Lumpur,-64.0
+2021-01-29,Kuala Lumpur,-52.0
+2021-01-30,Kuala Lumpur,-59.0
+2021-01-31,Kuala Lumpur,-61.0
+2021-02-01,Kuala Lumpur,-56.00000000000001
+2021-02-02,Kuala Lumpur,-41.0
+2021-02-03,Kuala Lumpur,-43.0
+2021-02-04,Kuala Lumpur,-44.0
+2021-02-05,Kuala Lumpur,-45.0
+2021-02-06,Kuala Lumpur,-52.0
+2021-02-07,Kuala Lumpur,-55.00000000000001
+2021-02-08,Kuala Lumpur,-33.0
+2021-02-09,Kuala Lumpur,-32.0
+2021-02-10,Kuala Lumpur,-27.0
+2021-02-11,Kuala Lumpur,-42.0
+2021-02-12,Kuala Lumpur,-69.0
+2021-02-13,Kuala Lumpur,-61.0
+2021-02-14,Kuala Lumpur,-45.0
+2021-02-15,Kuala Lumpur,-41.0
+2021-02-16,Kuala Lumpur,-42.0
+2021-02-17,Kuala Lumpur,-40.0
+2021-02-18,Kuala Lumpur,-42.0
+2021-02-19,Kuala Lumpur,-42.0
+2021-02-20,Kuala Lumpur,-40.0
+2021-02-21,Kuala Lumpur,-38.0
+2021-02-22,Kuala Lumpur,-29.0
+2021-02-23,Kuala Lumpur,-29.0
+2021-02-24,Kuala Lumpur,-30.0
+2021-02-25,Kuala Lumpur,-31.0
+2021-02-26,Kuala Lumpur,-31.0
+2021-02-27,Kuala Lumpur,-32.0
+2021-02-28,Kuala Lumpur,-32.0
+2021-03-01,Kuala Lumpur,-25.0
+2021-03-02,Kuala Lumpur,-25.0
+2021-03-03,Kuala Lumpur,-23.0
+2021-03-04,Kuala Lumpur,-26.0
+2021-03-05,Kuala Lumpur,-21.0
+2021-03-06,Kuala Lumpur,-15.0
+2021-03-07,Kuala Lumpur,-20.0
+2021-03-08,Kuala Lumpur,-10.0
+2021-03-09,Kuala Lumpur,-13.0
+2021-03-10,Kuala Lumpur,-13.0
+2021-03-11,Kuala Lumpur,-17.0
+2021-03-12,Kuala Lumpur,-17.0
+2021-03-13,Kuala Lumpur,-11.0
+2021-03-14,Kuala Lumpur,-15.0
+2021-03-15,Kuala Lumpur,-10.0
+2021-03-16,Kuala Lumpur,-11.0
+2021-03-17,Kuala Lumpur,-13.0
+2021-03-18,Kuala Lumpur,-15.0
+2021-03-19,Kuala Lumpur,-16.0
+2021-03-20,Kuala Lumpur,-7.000000000000001
+2021-03-21,Kuala Lumpur,-11.0
+2021-03-22,Kuala Lumpur,-10.0
+2021-03-23,Kuala Lumpur,-11.0
+2021-03-24,Kuala Lumpur,-11.0
+2021-03-25,Kuala Lumpur,-14.000000000000002
+2021-03-26,Kuala Lumpur,-13.0
+2021-03-27,Kuala Lumpur,-7.000000000000001
+2021-03-28,Kuala Lumpur,-6.0
+2021-03-29,Kuala Lumpur,-5.0
+2021-03-30,Kuala Lumpur,-6.0
+2021-03-31,Kuala Lumpur,-6.0
+2021-04-01,Kuala Lumpur,-8.0
+2021-04-02,Kuala Lumpur,-10.0
+2021-04-03,Kuala Lumpur,-1.0
+2021-04-04,Kuala Lumpur,-5.0
+2021-04-05,Kuala Lumpur,-5.0
+2021-04-06,Kuala Lumpur,-2.0
+2021-04-07,Kuala Lumpur,-3.0
+2021-04-08,Kuala Lumpur,-6.0
+2021-04-09,Kuala Lumpur,-5.0
+2021-04-10,Kuala Lumpur,5.0
+2021-04-11,Kuala Lumpur,1.0
+2021-04-12,Kuala Lumpur,2.0
+2021-04-13,Kuala Lumpur,-12.0
+2021-04-14,Kuala Lumpur,-13.0
+2021-04-15,Kuala Lumpur,-14.000000000000002
+2021-04-16,Kuala Lumpur,-18.0
+2021-04-17,Kuala Lumpur,-18.0
+2021-04-18,Kuala Lumpur,-19.0
+2021-04-19,Kuala Lumpur,-13.0
+2021-04-20,Kuala Lumpur,-13.0
+2021-04-21,Kuala Lumpur,-15.0
+2021-04-22,Kuala Lumpur,-16.0
+2021-04-23,Kuala Lumpur,-20.0
+2021-04-24,Kuala Lumpur,-16.0
+2021-04-25,Kuala Lumpur,-20.0
+2021-04-26,Kuala Lumpur,-13.0
+2021-04-27,Kuala Lumpur,-11.0
+2021-04-28,Kuala Lumpur,-10.0
+2021-04-29,Kuala Lumpur,-25.0
+2021-04-30,Kuala Lumpur,-17.0
+2021-05-01,Kuala Lumpur,-24.0
+2021-05-02,Kuala Lumpur,-19.0
+2021-05-03,Kuala Lumpur,-10.0
+2021-05-04,Kuala Lumpur,-10.0
+2021-05-05,Kuala Lumpur,5.0
+2021-05-06,Kuala Lumpur,-20.0
+2021-05-07,Kuala Lumpur,-42.0
+2021-05-08,Kuala Lumpur,-48.0
+2021-05-09,Kuala Lumpur,-48.0
+2021-05-10,Kuala Lumpur,-27.0
+2021-05-11,Kuala Lumpur,-28.000000000000004
+2021-05-12,Kuala Lumpur,-37.0
+2021-05-13,Kuala Lumpur,-66.0
+2021-05-14,Kuala Lumpur,-67.0
+2021-05-15,Kuala Lumpur,-56.99999999999999
+2021-05-16,Kuala Lumpur,-56.99999999999999
+2021-05-17,Kuala Lumpur,-37.0
+2021-05-18,Kuala Lumpur,-38.0
+2021-05-19,Kuala Lumpur,-38.0
+2021-05-20,Kuala Lumpur,-39.0
+2021-05-21,Kuala Lumpur,-45.0
+2021-05-22,Kuala Lumpur,-55.00000000000001
+2021-05-23,Kuala Lumpur,-61.0
+2021-05-24,Kuala Lumpur,-38.0
+2021-05-25,Kuala Lumpur,-44.0
+2021-05-26,Kuala Lumpur,-64.0
+2021-05-27,Kuala Lumpur,-47.0
+2021-05-28,Kuala Lumpur,-51.0
+2021-05-29,Kuala Lumpur,-53.0
+2021-05-30,Kuala Lumpur,-56.99999999999999
+2021-05-31,Kuala Lumpur,-20.0
+2021-06-01,Kuala Lumpur,-70.0
+2021-06-02,Kuala Lumpur,-69.0
+2021-06-03,Kuala Lumpur,-70.0
+2021-06-04,Kuala Lumpur,-74.0
+2021-06-05,Kuala Lumpur,-73.0
+2021-06-06,Kuala Lumpur,-74.0
+2021-06-07,Kuala Lumpur,-72.0
+2021-06-08,Kuala Lumpur,-60.0
+2021-06-09,Kuala Lumpur,-63.0
+2021-06-10,Kuala Lumpur,-63.0
+2021-06-11,Kuala Lumpur,-66.0
+2021-06-12,Kuala Lumpur,-69.0
+2021-06-13,Kuala Lumpur,-67.0
+2021-06-14,Kuala Lumpur,-57.99999999999999
+2021-06-15,Kuala Lumpur,-57.99999999999999
+2021-06-16,Kuala Lumpur,-59.0
+2021-06-17,Kuala Lumpur,-62.0
+2021-06-18,Kuala Lumpur,-63.0
+2021-06-19,Kuala Lumpur,-66.0
+2021-06-20,Kuala Lumpur,-65.0
+2021-06-21,Kuala Lumpur,-56.99999999999999
+2021-06-22,Kuala Lumpur,-56.00000000000001
+2021-06-23,Kuala Lumpur,-56.99999999999999
+2021-06-24,Kuala Lumpur,-60.0
+2021-06-25,Kuala Lumpur,-61.0
+2021-06-26,Kuala Lumpur,-66.0
+2021-06-27,Kuala Lumpur,-65.0
+2021-06-28,Kuala Lumpur,-55.00000000000001
+2021-06-29,Kuala Lumpur,-53.0
+2021-06-30,Kuala Lumpur,-50.0
+2021-07-01,Kuala Lumpur,-55.00000000000001
+2021-07-02,Kuala Lumpur,-47.0
+2021-07-03,Kuala Lumpur,-72.0
+2021-07-04,Kuala Lumpur,-66.0
+2021-07-05,Kuala Lumpur,-56.00000000000001
+2021-07-06,Kuala Lumpur,-56.00000000000001
+2021-07-07,Kuala Lumpur,-56.00000000000001
+2021-07-09,Kuala Lumpur,-61.0
+2021-07-10,Kuala Lumpur,-65.0
+2021-07-11,Kuala Lumpur,-64.0
+2021-07-12,Kuala Lumpur,-53.0
+2021-07-13,Kuala Lumpur,-54.0
+2021-07-14,Kuala Lumpur,-56.00000000000001
+2021-07-15,Kuala Lumpur,-56.00000000000001
+2021-07-16,Kuala Lumpur,-57.99999999999999
+2021-07-17,Kuala Lumpur,-60.0
+2021-07-18,Kuala Lumpur,-57.99999999999999
+2021-07-19,Kuala Lumpur,-44.0
+2021-07-20,Kuala Lumpur,-60.0
+2020-03-01,Petaling Jaya,4.0
+2020-03-02,Petaling Jaya,1.0
+2020-03-03,Petaling Jaya,-1.0
+2020-03-04,Petaling Jaya,-3.0
+2020-03-05,Petaling Jaya,1.0
+2020-03-06,Petaling Jaya,-2.0
+2020-03-07,Petaling Jaya,-2.0
+2020-03-08,Petaling Jaya,-2.0
+2020-03-09,Petaling Jaya,0.0
+2020-03-10,Petaling Jaya,-2.0
+2020-03-11,Petaling Jaya,-5.0
+2020-03-12,Petaling Jaya,-6.0
+2020-03-13,Petaling Jaya,-9.0
+2020-03-14,Petaling Jaya,-14.000000000000002
+2020-03-15,Petaling Jaya,-10.0
+2020-03-16,Petaling Jaya,-11.0
+2020-03-17,Petaling Jaya,-6.0
+2020-03-18,Petaling Jaya,-63.0
+2020-03-19,Petaling Jaya,-74.0
+2020-03-20,Petaling Jaya,-78.0
+2020-03-21,Petaling Jaya,-81.0
+2020-03-22,Petaling Jaya,-88.0
+2020-03-23,Petaling Jaya,-84.0
+2020-03-24,Petaling Jaya,-83.0
+2020-03-25,Petaling Jaya,-82.0
+2020-03-26,Petaling Jaya,-80.0
+2020-03-27,Petaling Jaya,-82.0
+2020-03-28,Petaling Jaya,-85.0
+2020-03-29,Petaling Jaya,-87.0
+2020-03-30,Petaling Jaya,-79.0
+2020-03-31,Petaling Jaya,-79.0
+2020-04-01,Petaling Jaya,-81.0
+2020-04-02,Petaling Jaya,-83.0
+2020-04-03,Petaling Jaya,-83.0
+2020-04-04,Petaling Jaya,-85.0
+2020-04-05,Petaling Jaya,-88.0
+2020-04-06,Petaling Jaya,-82.0
+2020-04-07,Petaling Jaya,-84.0
+2020-04-08,Petaling Jaya,-87.0
+2020-04-09,Petaling Jaya,-82.0
+2020-04-10,Petaling Jaya,-84.0
+2020-04-11,Petaling Jaya,-83.0
+2020-04-12,Petaling Jaya,-88.0
+2020-04-13,Petaling Jaya,-81.0
+2020-04-14,Petaling Jaya,-79.0
+2020-04-15,Petaling Jaya,-81.0
+2020-04-16,Petaling Jaya,-81.0
+2020-04-17,Petaling Jaya,-83.0
+2020-04-18,Petaling Jaya,-86.0
+2020-04-19,Petaling Jaya,-87.0
+2020-04-20,Petaling Jaya,-80.0
+2020-04-21,Petaling Jaya,-81.0
+2020-04-22,Petaling Jaya,-82.0
+2020-04-23,Petaling Jaya,-80.0
+2020-04-24,Petaling Jaya,-85.0
+2020-04-25,Petaling Jaya,-84.0
+2020-04-26,Petaling Jaya,-85.0
+2020-04-27,Petaling Jaya,-79.0
+2020-04-28,Petaling Jaya,-77.0
+2020-04-29,Petaling Jaya,-78.0
+2020-04-30,Petaling Jaya,-78.0
+2020-05-01,Petaling Jaya,-86.0
+2020-05-02,Petaling Jaya,-77.0
+2020-05-03,Petaling Jaya,-79.0
+2020-05-04,Petaling Jaya,-62.0
+2020-05-05,Petaling Jaya,-64.0
+2020-05-06,Petaling Jaya,-63.0
+2020-05-07,Petaling Jaya,-73.0
+2020-05-08,Petaling Jaya,-61.0
+2020-05-09,Petaling Jaya,-62.0
+2020-05-10,Petaling Jaya,-66.0
+2020-05-11,Petaling Jaya,-64.0
+2020-05-12,Petaling Jaya,-54.0
+2020-05-13,Petaling Jaya,-47.0
+2020-05-14,Petaling Jaya,-52.0
+2020-05-15,Petaling Jaya,-55.00000000000001
+2020-05-16,Petaling Jaya,-55.00000000000001
+2020-05-17,Petaling Jaya,-61.0
+2020-05-18,Petaling Jaya,-43.0
+2020-05-19,Petaling Jaya,-46.0
+2020-05-20,Petaling Jaya,-41.0
+2020-05-21,Petaling Jaya,-43.0
+2020-05-22,Petaling Jaya,-49.0
+2020-05-23,Petaling Jaya,-54.0
+2020-05-24,Petaling Jaya,-59.0
+2020-05-25,Petaling Jaya,-52.0
+2020-05-26,Petaling Jaya,-56.00000000000001
+2020-05-27,Petaling Jaya,-41.0
+2020-05-28,Petaling Jaya,-43.0
+2020-05-29,Petaling Jaya,-47.0
+2020-05-30,Petaling Jaya,-49.0
+2020-05-31,Petaling Jaya,-51.0
+2020-06-01,Petaling Jaya,-36.0
+2020-06-02,Petaling Jaya,-38.0
+2020-06-03,Petaling Jaya,-35.0
+2020-06-04,Petaling Jaya,-44.0
+2020-06-05,Petaling Jaya,-39.0
+2020-06-06,Petaling Jaya,-40.0
+2020-06-07,Petaling Jaya,-44.0
+2020-06-08,Petaling Jaya,-44.0
+2020-06-09,Petaling Jaya,-33.0
+2020-06-10,Petaling Jaya,-29.0
+2020-06-11,Petaling Jaya,-27.0
+2020-06-12,Petaling Jaya,-27.0
+2020-06-13,Petaling Jaya,-30.0
+2020-06-14,Petaling Jaya,-22.0
+2020-06-15,Petaling Jaya,-22.0
+2020-06-16,Petaling Jaya,-24.0
+2020-06-17,Petaling Jaya,-22.0
+2020-06-18,Petaling Jaya,-25.0
+2020-06-19,Petaling Jaya,-25.0
+2020-06-20,Petaling Jaya,-32.0
+2020-06-21,Petaling Jaya,-14.000000000000002
+2020-06-22,Petaling Jaya,-14.000000000000002
+2020-06-23,Petaling Jaya,-17.0
+2020-06-24,Petaling Jaya,-18.0
+2020-06-25,Petaling Jaya,-18.0
+2020-06-26,Petaling Jaya,-22.0
+2020-06-27,Petaling Jaya,-15.0
+2020-06-28,Petaling Jaya,-12.0
+2020-06-29,Petaling Jaya,-12.0
+2020-06-30,Petaling Jaya,-11.0
+2020-07-01,Petaling Jaya,-13.0
+2020-07-02,Petaling Jaya,-14.000000000000002
+2020-07-03,Petaling Jaya,-16.0
+2020-07-04,Petaling Jaya,-11.0
+2020-07-05,Petaling Jaya,-15.0
+2020-07-06,Petaling Jaya,-6.0
+2020-07-07,Petaling Jaya,-11.0
+2020-07-08,Petaling Jaya,-8.0
+2020-07-09,Petaling Jaya,-13.0
+2020-07-10,Petaling Jaya,-13.0
+2020-07-11,Petaling Jaya,-6.0
+2020-07-12,Petaling Jaya,-6.0
+2020-07-13,Petaling Jaya,-7.000000000000001
+2020-07-14,Petaling Jaya,-17.0
+2020-07-15,Petaling Jaya,-13.0
+2020-07-16,Petaling Jaya,-14.000000000000002
+2020-07-17,Petaling Jaya,-9.0
+2020-07-18,Petaling Jaya,-11.0
+2020-07-19,Petaling Jaya,-13.0
+2020-07-20,Petaling Jaya,-9.0
+2020-07-21,Petaling Jaya,-10.0
+2020-07-22,Petaling Jaya,-8.0
+2020-07-23,Petaling Jaya,-13.0
+2020-07-24,Petaling Jaya,-8.0
+2020-07-25,Petaling Jaya,-4.0
+2020-07-26,Petaling Jaya,-5.0
+2020-07-27,Petaling Jaya,-6.0
+2020-07-28,Petaling Jaya,-4.0
+2020-07-29,Petaling Jaya,3.0
+2020-07-30,Petaling Jaya,-4.0
+2020-07-31,Petaling Jaya,-43.0
+2020-08-01,Petaling Jaya,-19.0
+2020-08-02,Petaling Jaya,2.0
+2020-08-03,Petaling Jaya,1.0
+2020-08-04,Petaling Jaya,-1.0
+2020-08-05,Petaling Jaya,-2.0
+2020-08-06,Petaling Jaya,-4.0
+2020-08-07,Petaling Jaya,-4.0
+2020-08-08,Petaling Jaya,0.0
+2020-08-09,Petaling Jaya,3.0
+2020-08-10,Petaling Jaya,-1.0
+2020-08-11,Petaling Jaya,-1.0
+2020-08-12,Petaling Jaya,1.0
+2020-08-13,Petaling Jaya,-4.0
+2020-08-14,Petaling Jaya,-3.0
+2020-08-15,Petaling Jaya,-4.0
+2020-08-16,Petaling Jaya,1.0
+2020-08-17,Petaling Jaya,-2.0
+2020-08-18,Petaling Jaya,-6.0
+2020-08-19,Petaling Jaya,6.0
+2020-08-20,Petaling Jaya,-17.0
+2020-08-21,Petaling Jaya,-28.000000000000004
+2020-08-22,Petaling Jaya,-8.0
+2020-08-23,Petaling Jaya,2.0
+2020-08-24,Petaling Jaya,2.0
+2020-08-25,Petaling Jaya,-1.0
+2020-08-26,Petaling Jaya,-4.0
+2020-08-27,Petaling Jaya,-2.0
+2020-08-28,Petaling Jaya,-4.0
+2020-08-29,Petaling Jaya,-10.0
+2020-08-30,Petaling Jaya,-6.0
+2020-08-31,Petaling Jaya,8.0
+2020-09-01,Petaling Jaya,4.0
+2020-09-02,Petaling Jaya,-4.0
+2020-09-03,Petaling Jaya,6.0
+2020-09-04,Petaling Jaya,0.0
+2020-09-05,Petaling Jaya,-5.0
+2020-09-06,Petaling Jaya,-2.0
+2020-09-07,Petaling Jaya,4.0
+2020-09-08,Petaling Jaya,2.0
+2020-09-09,Petaling Jaya,5.0
+2020-09-10,Petaling Jaya,2.0
+2020-09-11,Petaling Jaya,0.0
+2020-09-12,Petaling Jaya,2.0
+2020-09-13,Petaling Jaya,4.0
+2020-09-14,Petaling Jaya,2.0
+2020-09-15,Petaling Jaya,6.0
+2020-09-16,Petaling Jaya,-5.0
+2020-09-17,Petaling Jaya,1.0
+2020-09-18,Petaling Jaya,-5.0
+2020-09-19,Petaling Jaya,-6.0
+2020-09-20,Petaling Jaya,8.0
+2020-09-21,Petaling Jaya,4.0
+2020-09-22,Petaling Jaya,1.0
+2020-09-23,Petaling Jaya,5.0
+2020-09-24,Petaling Jaya,2.0
+2020-09-25,Petaling Jaya,-2.0
+2020-09-26,Petaling Jaya,7.000000000000001
+2020-09-27,Petaling Jaya,6.0
+2020-09-28,Petaling Jaya,8.0
+2020-09-29,Petaling Jaya,3.0
+2020-09-30,Petaling Jaya,5.0
+2020-10-01,Petaling Jaya,-5.0
+2020-10-02,Petaling Jaya,-9.0
+2020-10-03,Petaling Jaya,-11.0
+2020-10-04,Petaling Jaya,-7.000000000000001
+2020-10-05,Petaling Jaya,-6.0
+2020-10-06,Petaling Jaya,-7.000000000000001
+2020-10-07,Petaling Jaya,-8.0
+2020-10-08,Petaling Jaya,-17.0
+2020-10-09,Petaling Jaya,-21.0
+2020-10-10,Petaling Jaya,-22.0
+2020-10-11,Petaling Jaya,-17.0
+2020-10-12,Petaling Jaya,-15.0
+2020-10-13,Petaling Jaya,0.0
+2020-10-14,Petaling Jaya,-46.0
+2020-10-15,Petaling Jaya,-45.0
+2020-10-16,Petaling Jaya,-48.0
+2020-10-17,Petaling Jaya,-56.99999999999999
+2020-10-18,Petaling Jaya,-63.0
+2020-10-19,Petaling Jaya,-39.0
+2020-10-20,Petaling Jaya,-40.0
+2020-10-21,Petaling Jaya,-35.0
+2020-10-22,Petaling Jaya,-56.00000000000001
+2020-10-23,Petaling Jaya,-54.0
+2020-10-24,Petaling Jaya,-56.99999999999999
+2020-10-25,Petaling Jaya,-60.0
+2020-10-26,Petaling Jaya,-45.0
+2020-10-27,Petaling Jaya,-41.0
+2020-10-28,Petaling Jaya,-40.0
+2020-10-29,Petaling Jaya,-52.0
+2020-10-30,Petaling Jaya,-43.0
+2020-10-31,Petaling Jaya,-44.0
+2020-11-01,Petaling Jaya,-48.0
+2020-11-02,Petaling Jaya,-34.0
+2020-11-03,Petaling Jaya,-38.0
+2020-11-04,Petaling Jaya,-40.0
+2020-11-05,Petaling Jaya,-41.0
+2020-11-06,Petaling Jaya,-44.0
+2020-11-07,Petaling Jaya,-39.0
+2020-11-08,Petaling Jaya,-50.0
+2020-11-09,Petaling Jaya,-31.0
+2020-11-10,Petaling Jaya,-37.0
+2020-11-11,Petaling Jaya,-33.0
+2020-11-12,Petaling Jaya,-34.0
+2020-11-13,Petaling Jaya,-39.0
+2020-11-14,Petaling Jaya,-50.0
+2020-11-15,Petaling Jaya,-49.0
+2020-11-16,Petaling Jaya,-24.0
+2020-11-17,Petaling Jaya,-32.0
+2020-11-18,Petaling Jaya,-25.0
+2020-11-19,Petaling Jaya,-34.0
+2020-11-20,Petaling Jaya,-34.0
+2020-11-21,Petaling Jaya,-36.0
+2020-11-22,Petaling Jaya,-38.0
+2020-11-23,Petaling Jaya,-29.0
+2020-11-24,Petaling Jaya,-27.0
+2020-11-25,Petaling Jaya,-28.000000000000004
+2020-11-26,Petaling Jaya,-35.0
+2020-11-27,Petaling Jaya,-32.0
+2020-11-28,Petaling Jaya,-27.0
+2020-11-29,Petaling Jaya,-37.0
+2020-11-30,Petaling Jaya,-31.0
+2020-12-01,Petaling Jaya,-34.0
+2020-12-02,Petaling Jaya,-25.0
+2020-12-03,Petaling Jaya,-28.000000000000004
+2020-12-04,Petaling Jaya,-29.0
+2020-12-05,Petaling Jaya,-26.0
+2020-12-06,Petaling Jaya,-29.0
+2020-12-07,Petaling Jaya,-21.0
+2020-12-08,Petaling Jaya,-18.0
+2020-12-09,Petaling Jaya,-19.0
+2020-12-10,Petaling Jaya,-18.0
+2020-12-11,Petaling Jaya,-37.0
+2020-12-12,Petaling Jaya,-26.0
+2020-12-13,Petaling Jaya,-12.0
+2020-12-14,Petaling Jaya,-14.000000000000002
+2020-12-15,Petaling Jaya,-11.0
+2020-12-16,Petaling Jaya,-9.0
+2020-12-17,Petaling Jaya,-10.0
+2020-12-18,Petaling Jaya,-15.0
+2020-12-19,Petaling Jaya,-11.0
+2020-12-20,Petaling Jaya,-17.0
+2020-12-21,Petaling Jaya,-9.0
+2020-12-22,Petaling Jaya,-10.0
+2020-12-23,Petaling Jaya,-5.0
+2020-12-24,Petaling Jaya,-3.0
+2020-12-25,Petaling Jaya,-37.0
+2020-12-26,Petaling Jaya,-25.0
+2020-12-27,Petaling Jaya,-16.0
+2020-12-28,Petaling Jaya,-4.0
+2020-12-29,Petaling Jaya,-4.0
+2020-12-30,Petaling Jaya,0.0
+2020-12-31,Petaling Jaya,-7.000000000000001
+2021-01-01,Petaling Jaya,-41.0
+2021-01-02,Petaling Jaya,-21.0
+2021-01-03,Petaling Jaya,-16.0
+2021-01-04,Petaling Jaya,-12.0
+2021-01-05,Petaling Jaya,-11.0
+2021-01-06,Petaling Jaya,-15.0
+2021-01-07,Petaling Jaya,-14.000000000000002
+2021-01-08,Petaling Jaya,-20.0
+2021-01-09,Petaling Jaya,-15.0
+2021-01-10,Petaling Jaya,-14.000000000000002
+2021-01-11,Petaling Jaya,-11.0
+2021-01-12,Petaling Jaya,6.0
+2021-01-13,Petaling Jaya,-61.0
+2021-01-14,Petaling Jaya,-56.99999999999999
+2021-01-15,Petaling Jaya,-56.99999999999999
+2021-01-16,Petaling Jaya,-59.0
+2021-01-17,Petaling Jaya,-73.0
+2021-01-18,Petaling Jaya,-52.0
+2021-01-19,Petaling Jaya,-50.0
+2021-01-20,Petaling Jaya,-51.0
+2021-01-21,Petaling Jaya,-52.0
+2021-01-22,Petaling Jaya,-54.0
+2021-01-23,Petaling Jaya,-55.00000000000001
+2021-01-24,Petaling Jaya,-61.0
+2021-01-25,Petaling Jaya,-42.0
+2021-01-26,Petaling Jaya,-44.0
+2021-01-27,Petaling Jaya,-42.0
+2021-01-28,Petaling Jaya,-54.0
+2021-01-29,Petaling Jaya,-46.0
+2021-01-30,Petaling Jaya,-56.99999999999999
+2021-01-31,Petaling Jaya,-59.0
+2021-02-01,Petaling Jaya,-34.0
+2021-02-02,Petaling Jaya,-44.0
+2021-02-03,Petaling Jaya,-40.0
+2021-02-04,Petaling Jaya,-40.0
+2021-02-05,Petaling Jaya,-40.0
+2021-02-06,Petaling Jaya,-45.0
+2021-02-07,Petaling Jaya,-53.0
+2021-02-08,Petaling Jaya,-31.0
+2021-02-09,Petaling Jaya,-29.0
+2021-02-10,Petaling Jaya,-25.0
+2021-02-11,Petaling Jaya,-42.0
+2021-02-12,Petaling Jaya,-71.0
+2021-02-13,Petaling Jaya,-60.0
+2021-02-14,Petaling Jaya,-53.0
+2021-02-15,Petaling Jaya,-39.0
+2021-02-16,Petaling Jaya,-39.0
+2021-02-17,Petaling Jaya,-39.0
+2021-02-18,Petaling Jaya,-36.0
+2021-02-19,Petaling Jaya,-33.0
+2021-02-20,Petaling Jaya,-33.0
+2021-02-21,Petaling Jaya,-36.0
+2021-02-22,Petaling Jaya,-27.0
+2021-02-23,Petaling Jaya,-33.0
+2021-02-24,Petaling Jaya,-26.0
+2021-02-25,Petaling Jaya,-29.0
+2021-02-26,Petaling Jaya,-29.0
+2021-02-27,Petaling Jaya,-24.0
+2021-02-28,Petaling Jaya,-31.0
+2021-03-01,Petaling Jaya,-22.0
+2021-03-02,Petaling Jaya,-24.0
+2021-03-03,Petaling Jaya,-23.0
+2021-03-04,Petaling Jaya,-16.0
+2021-03-05,Petaling Jaya,-18.0
+2021-03-06,Petaling Jaya,-9.0
+2021-03-07,Petaling Jaya,-16.0
+2021-03-08,Petaling Jaya,-9.0
+2021-03-09,Petaling Jaya,-12.0
+2021-03-10,Petaling Jaya,-11.0
+2021-03-11,Petaling Jaya,-10.0
+2021-03-12,Petaling Jaya,-9.0
+2021-03-13,Petaling Jaya,1.0
+2021-03-14,Petaling Jaya,-6.0
+2021-03-15,Petaling Jaya,-9.0
+2021-03-16,Petaling Jaya,-10.0
+2021-03-17,Petaling Jaya,-13.0
+2021-03-18,Petaling Jaya,-17.0
+2021-03-19,Petaling Jaya,-10.0
+2021-03-20,Petaling Jaya,-1.0
+2021-03-21,Petaling Jaya,-10.0
+2021-03-22,Petaling Jaya,-11.0
+2021-03-23,Petaling Jaya,-12.0
+2021-03-24,Petaling Jaya,-9.0
+2021-03-25,Petaling Jaya,-8.0
+2021-03-26,Petaling Jaya,-12.0
+2021-03-27,Petaling Jaya,5.0
+2021-03-28,Petaling Jaya,-4.0
+2021-03-29,Petaling Jaya,-6.0
+2021-03-30,Petaling Jaya,-8.0
+2021-03-31,Petaling Jaya,2.0
+2021-04-01,Petaling Jaya,-6.0
+2021-04-02,Petaling Jaya,-9.0
+2021-04-03,Petaling Jaya,3.0
+2021-04-04,Petaling Jaya,-3.0
+2021-04-05,Petaling Jaya,6.0
+2021-04-06,Petaling Jaya,-4.0
+2021-04-07,Petaling Jaya,-3.0
+2021-04-08,Petaling Jaya,-2.0
+2021-04-09,Petaling Jaya,-5.0
+2021-04-10,Petaling Jaya,6.0
+2021-04-11,Petaling Jaya,-2.0
+2021-04-12,Petaling Jaya,-3.0
+2021-04-13,Petaling Jaya,-9.0
+2021-04-14,Petaling Jaya,-6.0
+2021-04-15,Petaling Jaya,-10.0
+2021-04-16,Petaling Jaya,-13.0
+2021-04-17,Petaling Jaya,-12.0
+2021-04-18,Petaling Jaya,-20.0
+2021-04-19,Petaling Jaya,-13.0
+2021-04-20,Petaling Jaya,-10.0
+2021-04-21,Petaling Jaya,-15.0
+2021-04-22,Petaling Jaya,-14.000000000000002
+2021-04-23,Petaling Jaya,-17.0
+2021-04-24,Petaling Jaya,-11.0
+2021-04-25,Petaling Jaya,-25.0
+2021-04-26,Petaling Jaya,-12.0
+2021-04-27,Petaling Jaya,-5.0
+2021-04-28,Petaling Jaya,-4.0
+2021-04-29,Petaling Jaya,-19.0
+2021-04-30,Petaling Jaya,-16.0
+2021-05-01,Petaling Jaya,-19.0
+2021-05-02,Petaling Jaya,-18.0
+2021-05-03,Petaling Jaya,-12.0
+2021-05-04,Petaling Jaya,-16.0
+2021-05-05,Petaling Jaya,9.0
+2021-05-06,Petaling Jaya,-38.0
+2021-05-07,Petaling Jaya,-43.0
+2021-05-08,Petaling Jaya,-43.0
+2021-05-09,Petaling Jaya,-50.0
+2021-05-10,Petaling Jaya,-30.0
+2021-05-11,Petaling Jaya,-20.0
+2021-05-12,Petaling Jaya,-37.0
+2021-05-13,Petaling Jaya,-66.0
+2021-05-14,Petaling Jaya,-70.0
+2021-05-15,Petaling Jaya,-55.00000000000001
+2021-05-16,Petaling Jaya,-67.0
+2021-05-17,Petaling Jaya,-36.0
+2021-05-18,Petaling Jaya,-40.0
+2021-05-19,Petaling Jaya,-34.0
+2021-05-20,Petaling Jaya,-32.0
+2021-05-21,Petaling Jaya,-46.0
+2021-05-22,Petaling Jaya,-46.0
+2021-05-23,Petaling Jaya,-64.0
+2021-05-24,Petaling Jaya,-37.0
+2021-05-25,Petaling Jaya,-43.0
+2021-05-26,Petaling Jaya,-63.0
+2021-05-27,Petaling Jaya,-42.0
+2021-05-28,Petaling Jaya,-48.0
+2021-05-29,Petaling Jaya,-51.0
+2021-05-30,Petaling Jaya,-55.00000000000001
+2021-05-31,Petaling Jaya,-28.000000000000004
+2021-06-01,Petaling Jaya,-75.0
+2021-06-02,Petaling Jaya,-71.0
+2021-06-03,Petaling Jaya,-68.0
+2021-06-04,Petaling Jaya,-71.0
+2021-06-05,Petaling Jaya,-64.0
+2021-06-06,Petaling Jaya,-75.0
+2021-06-07,Petaling Jaya,-75.0
+2021-06-08,Petaling Jaya,-62.0
+2021-06-09,Petaling Jaya,-60.0
+2021-06-10,Petaling Jaya,-70.0
+2021-06-11,Petaling Jaya,-67.0
+2021-06-12,Petaling Jaya,-68.0
+2021-06-13,Petaling Jaya,-73.0
+2021-06-14,Petaling Jaya,-59.0
+2021-06-15,Petaling Jaya,-64.0
+2021-06-16,Petaling Jaya,-59.0
+2021-06-17,Petaling Jaya,-48.0
+2021-06-18,Petaling Jaya,-57.99999999999999
+2021-06-19,Petaling Jaya,-63.0
+2021-06-20,Petaling Jaya,-69.0
+2021-06-21,Petaling Jaya,-59.0
+2021-06-22,Petaling Jaya,-56.00000000000001
+2021-06-23,Petaling Jaya,-52.0
+2021-06-24,Petaling Jaya,-59.0
+2021-06-25,Petaling Jaya,-60.0
+2021-06-26,Petaling Jaya,-61.0
+2021-06-27,Petaling Jaya,-56.99999999999999
+2021-06-28,Petaling Jaya,-54.0
+2021-06-29,Petaling Jaya,-50.0
+2021-06-30,Petaling Jaya,-54.0
+2021-07-01,Petaling Jaya,-60.0
+2021-07-02,Petaling Jaya,-49.0
+2021-07-03,Petaling Jaya,-69.0
+2021-07-04,Petaling Jaya,-72.0
+2021-07-05,Petaling Jaya,-65.0
+2021-07-06,Petaling Jaya,-64.0
+2021-07-07,Petaling Jaya,-66.0
+2021-07-09,Petaling Jaya,-66.0
+2021-07-10,Petaling Jaya,-69.0
+2021-07-11,Petaling Jaya,-65.0
+2021-07-12,Petaling Jaya,-60.0
+2021-07-13,Petaling Jaya,-61.0
+2021-07-14,Petaling Jaya,-63.0
+2021-07-15,Petaling Jaya,-63.0
+2021-07-16,Petaling Jaya,-64.0
+2021-07-17,Petaling Jaya,-63.0
+2021-07-18,Petaling Jaya,-61.0
+2021-07-19,Petaling Jaya,-50.0
+2021-07-20,Petaling Jaya,-65.0
+2020-03-01,Puchong,0.0
+2020-03-02,Puchong,3.0
+2020-03-03,Puchong,3.0
+2020-03-04,Puchong,0.0
+2020-03-05,Puchong,0.0
+2020-03-06,Puchong,-3.0
+2020-03-07,Puchong,-6.0
+2020-03-08,Puchong,0.0
+2020-03-09,Puchong,0.0
+2020-03-10,Puchong,0.0
+2020-03-11,Puchong,-6.0
+2020-03-12,Puchong,-3.0
+2020-03-13,Puchong,-6.0
+2020-03-14,Puchong,-11.0
+2020-03-15,Puchong,-3.0
+2020-03-16,Puchong,-6.0
+2020-03-17,Puchong,6.0
+2020-03-18,Puchong,-47.0
+2020-03-19,Puchong,-66.0
+2020-03-20,Puchong,-67.0
+2020-03-21,Puchong,-75.0
+2020-03-22,Puchong,-81.0
+2020-03-23,Puchong,-77.0
+2020-03-24,Puchong,-74.0
+2020-03-25,Puchong,-72.0
+2020-03-26,Puchong,-75.0
+2020-03-27,Puchong,-72.0
+2020-03-28,Puchong,-81.0
+2020-03-29,Puchong,-88.0
+2020-03-30,Puchong,-71.0
+2020-03-31,Puchong,-71.0
+2020-04-01,Puchong,-69.0
+2020-04-02,Puchong,-72.0
+2020-04-03,Puchong,-81.0
+2020-04-04,Puchong,-81.0
+2020-04-05,Puchong,-84.0
+2020-04-06,Puchong,-74.0
+2020-04-07,Puchong,-74.0
+2020-04-08,Puchong,-75.0
+2020-04-09,Puchong,-75.0
+2020-04-10,Puchong,-78.0
+2020-04-11,Puchong,-78.0
+2020-04-12,Puchong,-88.0
+2020-04-13,Puchong,-71.0
+2020-04-14,Puchong,-61.0
+2020-04-15,Puchong,-66.0
+2020-04-16,Puchong,-72.0
+2020-04-17,Puchong,-75.0
+2020-04-18,Puchong,-78.0
+2020-04-19,Puchong,-78.0
+2020-04-20,Puchong,-71.0
+2020-04-21,Puchong,-71.0
+2020-04-22,Puchong,-75.0
+2020-04-23,Puchong,-72.0
+2020-04-24,Puchong,-64.0
+2020-04-25,Puchong,-75.0
+2020-04-26,Puchong,-78.0
+2020-04-27,Puchong,-65.0
+2020-04-28,Puchong,-68.0
+2020-04-29,Puchong,-69.0
+2020-04-30,Puchong,-72.0
+2020-05-01,Puchong,-75.0
+2020-05-02,Puchong,-72.0
+2020-05-03,Puchong,-75.0
+2020-05-04,Puchong,-48.0
+2020-05-05,Puchong,-45.0
+2020-05-06,Puchong,-44.0
+2020-05-07,Puchong,-56.00000000000001
+2020-05-08,Puchong,-47.0
+2020-05-09,Puchong,-50.0
+2020-05-10,Puchong,-53.0
+2020-05-11,Puchong,-48.0
+2020-05-12,Puchong,-42.0
+2020-05-13,Puchong,-38.0
+2020-05-14,Puchong,-38.0
+2020-05-15,Puchong,-36.0
+2020-05-16,Puchong,-53.0
+2020-05-17,Puchong,-50.0
+2020-05-18,Puchong,-26.0
+2020-05-19,Puchong,-21.0
+2020-05-20,Puchong,-42.0
+2020-05-21,Puchong,-24.0
+2020-05-22,Puchong,-34.0
+2020-05-23,Puchong,-39.0
+2020-05-24,Puchong,-42.0
+2020-05-25,Puchong,-50.0
+2020-05-26,Puchong,-42.0
+2020-05-27,Puchong,-11.0
+2020-05-28,Puchong,-27.0
+2020-05-29,Puchong,-28.000000000000004
+2020-05-30,Puchong,-30.0
+2020-05-31,Puchong,-45.0
+2020-06-01,Puchong,-17.0
+2020-06-02,Puchong,-17.0
+2020-06-03,Puchong,-31.0
+2020-06-04,Puchong,-24.0
+2020-06-05,Puchong,-37.0
+2020-06-06,Puchong,-24.0
+2020-06-07,Puchong,-40.0
+2020-06-08,Puchong,-26.0
+2020-06-09,Puchong,-22.0
+2020-06-10,Puchong,-7.000000000000001
+2020-06-11,Puchong,-30.0
+2020-06-12,Puchong,-21.0
+2020-06-13,Puchong,-14.000000000000002
+2020-06-14,Puchong,-16.0
+2020-06-15,Puchong,-4.0
+2020-06-16,Puchong,-16.0
+2020-06-17,Puchong,-24.0
+2020-06-18,Puchong,5.0
+2020-06-19,Puchong,-7.000000000000001
+2020-06-20,Puchong,-9.0
+2020-06-21,Puchong,23.0
+2020-06-22,Puchong,-4.0
+2020-06-23,Puchong,-3.0
+2020-06-24,Puchong,-6.0
+2020-06-25,Puchong,-5.0
+2020-06-26,Puchong,-18.0
+2020-06-27,Puchong,-13.0
+2020-06-28,Puchong,11.0
+2020-06-29,Puchong,18.0
+2020-06-30,Puchong,-2.0
+2020-07-01,Puchong,2.0
+2020-07-02,Puchong,-1.0
+2020-07-03,Puchong,4.0
+2020-07-04,Puchong,-19.0
+2020-07-05,Puchong,10.0
+2020-07-06,Puchong,8.0
+2020-07-07,Puchong,9.0
+2020-07-08,Puchong,1.0
+2020-07-09,Puchong,-2.0
+2020-07-10,Puchong,-10.0
+2020-07-11,Puchong,0.0
+2020-07-12,Puchong,-13.0
+2020-07-13,Puchong,-3.0
+2020-07-14,Puchong,8.0
+2020-07-15,Puchong,-19.0
+2020-07-16,Puchong,-3.0
+2020-07-17,Puchong,-2.0
+2020-07-18,Puchong,-3.0
+2020-07-19,Puchong,9.0
+2020-07-20,Puchong,4.0
+2020-07-21,Puchong,20.0
+2020-07-22,Puchong,2.0
+2020-07-23,Puchong,0.0
+2020-07-24,Puchong,17.0
+2020-07-25,Puchong,1.0
+2020-07-26,Puchong,8.0
+2020-07-27,Puchong,15.0
+2020-07-28,Puchong,9.0
+2020-07-29,Puchong,12.0
+2020-07-30,Puchong,7.000000000000001
+2020-07-31,Puchong,-29.0
+2020-08-01,Puchong,-21.0
+2020-08-02,Puchong,9.0
+2020-08-03,Puchong,19.0
+2020-08-04,Puchong,9.0
+2020-08-05,Puchong,2.0
+2020-08-06,Puchong,-1.0
+2020-08-07,Puchong,9.0
+2020-08-08,Puchong,3.0
+2020-08-09,Puchong,7.000000000000001
+2020-08-10,Puchong,16.0
+2020-08-11,Puchong,17.0
+2020-08-12,Puchong,0.0
+2020-08-13,Puchong,15.0
+2020-08-14,Puchong,4.0
+2020-08-15,Puchong,3.0
+2020-08-16,Puchong,4.0
+2020-08-17,Puchong,8.0
+2020-08-18,Puchong,32.0
+2020-08-19,Puchong,14.000000000000002
+2020-08-20,Puchong,-1.0
+2020-08-21,Puchong,-15.0
+2020-08-22,Puchong,-1.0
+2020-08-23,Puchong,9.0
+2020-08-24,Puchong,18.0
+2020-08-25,Puchong,10.0
+2020-08-26,Puchong,8.0
+2020-08-27,Puchong,9.0
+2020-08-28,Puchong,13.0
+2020-08-29,Puchong,-7.000000000000001
+2020-08-30,Puchong,7.000000000000001
+2020-08-31,Puchong,24.0
+2020-09-01,Puchong,25.0
+2020-09-02,Puchong,8.0
+2020-09-03,Puchong,-2.0
+2020-09-04,Puchong,8.0
+2020-09-05,Puchong,15.0
+2020-09-06,Puchong,17.0
+2020-09-07,Puchong,15.0
+2020-09-08,Puchong,13.0
+2020-09-09,Puchong,13.0
+2020-09-10,Puchong,9.0
+2020-09-11,Puchong,9.0
+2020-09-12,Puchong,-12.0
+2020-09-13,Puchong,13.0
+2020-09-14,Puchong,14.000000000000002
+2020-09-15,Puchong,20.0
+2020-09-16,Puchong,-1.0
+2020-09-17,Puchong,25.0
+2020-09-18,Puchong,11.0
+2020-09-19,Puchong,3.0
+2020-09-20,Puchong,23.0
+2020-09-21,Puchong,16.0
+2020-09-22,Puchong,14.000000000000002
+2020-09-23,Puchong,15.0
+2020-09-24,Puchong,17.0
+2020-09-25,Puchong,12.0
+2020-09-26,Puchong,14.000000000000002
+2020-09-27,Puchong,27.0
+2020-09-28,Puchong,18.0
+2020-09-29,Puchong,11.0
+2020-09-30,Puchong,10.0
+2020-10-01,Puchong,3.0
+2020-10-02,Puchong,8.0
+2020-10-03,Puchong,-6.0
+2020-10-04,Puchong,12.0
+2020-10-05,Puchong,7.000000000000001
+2020-10-06,Puchong,5.0
+2020-10-07,Puchong,-2.0
+2020-10-08,Puchong,1.0
+2020-10-09,Puchong,2.0
+2020-10-10,Puchong,-5.0
+2020-10-11,Puchong,-8.0
+2020-10-12,Puchong,1.0
+2020-10-13,Puchong,17.0
+2020-10-14,Puchong,-18.0
+2020-10-15,Puchong,-16.0
+2020-10-16,Puchong,-24.0
+2020-10-17,Puchong,-38.0
+2020-10-18,Puchong,-70.0
+2020-10-19,Puchong,-21.0
+2020-10-20,Puchong,-24.0
+2020-10-21,Puchong,-10.0
+2020-10-22,Puchong,-33.0
+2020-10-23,Puchong,-35.0
+2020-10-24,Puchong,-32.0
+2020-10-25,Puchong,-38.0
+2020-10-26,Puchong,-20.0
+2020-10-27,Puchong,-25.0
+2020-10-28,Puchong,-7.000000000000001
+2020-10-29,Puchong,-28.000000000000004
+2020-10-30,Puchong,-17.0
+2020-10-31,Puchong,-32.0
+2020-11-01,Puchong,-33.0
+2020-11-02,Puchong,-21.0
+2020-11-03,Puchong,-12.0
+2020-11-04,Puchong,-22.0
+2020-11-05,Puchong,-24.0
+2020-11-06,Puchong,-2.0
+2020-11-07,Puchong,-21.0
+2020-11-08,Puchong,-30.0
+2020-11-09,Puchong,-14.000000000000002
+2020-11-10,Puchong,-15.0
+2020-11-11,Puchong,-9.0
+2020-11-12,Puchong,-8.0
+2020-11-13,Puchong,-11.0
+2020-11-14,Puchong,-37.0
+2020-11-15,Puchong,-61.0
+2020-11-16,Puchong,-23.0
+2020-11-17,Puchong,-10.0
+2020-11-18,Puchong,-32.0
+2020-11-19,Puchong,-13.0
+2020-11-20,Puchong,-16.0
+2020-11-21,Puchong,-27.0
+2020-11-22,Puchong,-59.0
+2020-11-23,Puchong,3.0
+2020-11-24,Puchong,-13.0
+2020-11-25,Puchong,-12.0
+2020-11-26,Puchong,-18.0
+2020-11-27,Puchong,-17.0
+2020-11-28,Puchong,-16.0
+2020-11-29,Puchong,-9.0
+2020-11-30,Puchong,-14.000000000000002
+2020-12-01,Puchong,5.0
+2020-12-02,Puchong,-24.0
+2020-12-03,Puchong,-23.0
+2020-12-04,Puchong,-21.0
+2020-12-05,Puchong,-8.0
+2020-12-06,Puchong,-19.0
+2020-12-07,Puchong,16.0
+2020-12-08,Puchong,1.0
+2020-12-09,Puchong,-6.0
+2020-12-10,Puchong,11.0
+2020-12-11,Puchong,-21.0
+2020-12-12,Puchong,-15.0
+2020-12-13,Puchong,-3.0
+2020-12-14,Puchong,2.0
+2020-12-15,Puchong,2.0
+2020-12-16,Puchong,-7.000000000000001
+2020-12-17,Puchong,-15.0
+2020-12-18,Puchong,-1.0
+2020-12-19,Puchong,-6.0
+2020-12-20,Puchong,-3.0
+2020-12-21,Puchong,7.000000000000001
+2020-12-22,Puchong,1.0
+2020-12-23,Puchong,10.0
+2020-12-24,Puchong,14.000000000000002
+2020-12-25,Puchong,-16.0
+2020-12-26,Puchong,-14.000000000000002
+2020-12-27,Puchong,-5.0
+2020-12-28,Puchong,11.0
+2020-12-29,Puchong,12.0
+2020-12-30,Puchong,13.0
+2020-12-31,Puchong,19.0
+2021-01-01,Puchong,-21.0
+2021-01-02,Puchong,-8.0
+2021-01-03,Puchong,-14.000000000000002
+2021-01-04,Puchong,30.0
+2021-01-05,Puchong,8.0
+2021-01-06,Puchong,-2.0
+2021-01-07,Puchong,-26.0
+2021-01-08,Puchong,-8.0
+2021-01-09,Puchong,-4.0
+2021-01-10,Puchong,6.0
+2021-01-11,Puchong,25.0
+2021-01-12,Puchong,34.0
+2021-01-13,Puchong,-35.0
+2021-01-14,Puchong,-34.0
+2021-01-15,Puchong,-39.0
+2021-01-16,Puchong,-38.0
+2021-01-17,Puchong,-56.99999999999999
+2021-01-18,Puchong,-39.0
+2021-01-19,Puchong,-13.0
+2021-01-20,Puchong,-34.0
+2021-01-21,Puchong,-32.0
+2021-01-22,Puchong,-35.0
+2021-01-23,Puchong,-45.0
+2021-01-24,Puchong,-59.0
+2021-01-25,Puchong,-17.0
+2021-01-26,Puchong,-25.0
+2021-01-27,Puchong,-13.0
+2021-01-28,Puchong,-38.0
+2021-01-29,Puchong,-23.0
+2021-01-30,Puchong,-30.0
+2021-01-31,Puchong,-72.0
+2021-02-01,Puchong,-10.0
+2021-02-02,Puchong,-22.0
+2021-02-03,Puchong,-15.0
+2021-02-04,Puchong,-11.0
+2021-02-05,Puchong,-15.0
+2021-02-06,Puchong,-22.0
+2021-02-07,Puchong,-38.0
+2021-02-08,Puchong,-2.0
+2021-02-09,Puchong,-3.0
+2021-02-10,Puchong,-13.0
+2021-02-11,Puchong,-19.0
+2021-02-12,Puchong,-48.0
+2021-02-13,Puchong,-53.0
+2021-02-14,Puchong,-35.0
+2021-02-15,Puchong,-16.0
+2021-02-16,Puchong,-39.0
+2021-02-17,Puchong,-23.0
+2021-02-18,Puchong,-3.0
+2021-02-19,Puchong,-14.000000000000002
+2021-02-20,Puchong,-15.0
+2021-02-21,Puchong,-7.000000000000001
+2021-02-22,Puchong,-14.000000000000002
+2021-02-23,Puchong,-2.0
+2021-02-24,Puchong,1.0
+2021-02-25,Puchong,4.0
+2021-02-26,Puchong,0.0
+2021-02-27,Puchong,-12.0
+2021-02-28,Puchong,-22.0
+2021-03-01,Puchong,-1.0
+2021-03-02,Puchong,1.0
+2021-03-03,Puchong,0.0
+2021-03-04,Puchong,2.0
+2021-03-05,Puchong,-20.0
+2021-03-06,Puchong,13.0
+2021-03-07,Puchong,3.0
+2021-03-08,Puchong,3.0
+2021-03-09,Puchong,16.0
+2021-03-10,Puchong,9.0
+2021-03-11,Puchong,7.000000000000001
+2021-03-12,Puchong,1.0
+2021-03-13,Puchong,-2.0
+2021-03-14,Puchong,0.0
+2021-03-15,Puchong,16.0
+2021-03-16,Puchong,10.0
+2021-03-17,Puchong,2.0
+2021-03-18,Puchong,2.0
+2021-03-19,Puchong,2.0
+2021-03-20,Puchong,21.0
+2021-03-21,Puchong,18.0
+2021-03-22,Puchong,10.0
+2021-03-23,Puchong,9.0
+2021-03-24,Puchong,1.0
+2021-03-25,Puchong,5.0
+2021-03-26,Puchong,7.000000000000001
+2021-03-27,Puchong,8.0
+2021-03-28,Puchong,-4.0
+2021-03-29,Puchong,3.0
+2021-03-30,Puchong,9.0
+2021-03-31,Puchong,-9.0
+2021-04-01,Puchong,7.000000000000001
+2021-04-02,Puchong,-1.0
+2021-04-03,Puchong,-5.0
+2021-04-04,Puchong,3.0
+2021-04-05,Puchong,8.0
+2021-04-06,Puchong,26.0
+2021-04-07,Puchong,15.0
+2021-04-08,Puchong,14.000000000000002
+2021-04-09,Puchong,11.0
+2021-04-10,Puchong,19.0
+2021-04-11,Puchong,5.0
+2021-04-12,Puchong,21.0
+2021-04-13,Puchong,7.000000000000001
+2021-04-14,Puchong,10.0
+2021-04-15,Puchong,-1.0
+2021-04-16,Puchong,4.0
+2021-04-17,Puchong,11.0
+2021-04-18,Puchong,7.000000000000001
+2021-04-19,Puchong,18.0
+2021-04-20,Puchong,-16.0
+2021-04-21,Puchong,7.000000000000001
+2021-04-22,Puchong,6.0
+2021-04-23,Puchong,-3.0
+2021-04-24,Puchong,4.0
+2021-04-25,Puchong,-9.0
+2021-04-26,Puchong,15.0
+2021-04-27,Puchong,0.0
+2021-04-28,Puchong,12.0
+2021-04-29,Puchong,-2.0
+2021-04-30,Puchong,-5.0
+2021-05-01,Puchong,-11.0
+2021-05-02,Puchong,-1.0
+2021-05-03,Puchong,6.0
+2021-05-04,Puchong,9.0
+2021-05-05,Puchong,23.0
+2021-05-06,Puchong,-9.0
+2021-05-07,Puchong,-20.0
+2021-05-08,Puchong,-23.0
+2021-05-09,Puchong,-29.0
+2021-05-10,Puchong,-2.0
+2021-05-11,Puchong,-6.0
+2021-05-12,Puchong,-13.0
+2021-05-13,Puchong,-43.0
+2021-05-14,Puchong,-51.0
+2021-05-15,Puchong,-37.0
+2021-05-16,Puchong,-44.0
+2021-05-17,Puchong,-14.000000000000002
+2021-05-18,Puchong,-27.0
+2021-05-19,Puchong,-19.0
+2021-05-20,Puchong,4.0
+2021-05-21,Puchong,-20.0
+2021-05-22,Puchong,-31.0
+2021-05-23,Puchong,-44.0
+2021-05-24,Puchong,-6.0
+2021-05-25,Puchong,-23.0
+2021-05-26,Puchong,-42.0
+2021-05-27,Puchong,-23.0
+2021-05-28,Puchong,-33.0
+2021-05-29,Puchong,-34.0
+2021-05-30,Puchong,-30.0
+2021-05-31,Puchong,6.0
+2021-06-01,Puchong,-68.0
+2021-06-02,Puchong,-53.0
+2021-06-03,Puchong,-54.0
+2021-06-04,Puchong,-60.0
+2021-06-05,Puchong,-54.0
+2021-06-06,Puchong,-61.0
+2021-06-07,Puchong,-54.0
+2021-06-08,Puchong,-44.0
+2021-06-09,Puchong,-55.00000000000001
+2021-06-10,Puchong,-42.0
+2021-06-11,Puchong,-62.0
+2021-06-12,Puchong,-61.0
+2021-06-13,Puchong,-64.0
+2021-06-14,Puchong,-34.0
+2021-06-15,Puchong,-39.0
+2021-06-16,Puchong,-51.0
+2021-06-17,Puchong,-48.0
+2021-06-18,Puchong,-45.0
+2021-06-19,Puchong,-52.0
+2021-06-20,Puchong,-48.0
+2021-06-21,Puchong,-42.0
+2021-06-22,Puchong,-30.0
+2021-06-23,Puchong,-38.0
+2021-06-24,Puchong,-38.0
+2021-06-25,Puchong,-30.0
+2021-06-26,Puchong,-52.0
+2021-06-27,Puchong,-48.0
+2021-06-28,Puchong,-29.0
+2021-06-29,Puchong,-44.0
+2021-06-30,Puchong,-49.0
+2021-07-01,Puchong,-38.0
+2021-07-02,Puchong,-23.0
+2021-07-03,Puchong,-64.0
+2021-07-04,Puchong,-68.0
+2021-07-05,Puchong,-51.0
+2021-07-06,Puchong,-48.0
+2021-07-07,Puchong,-48.0
+2021-07-09,Puchong,-52.0
+2021-07-10,Puchong,-55.00000000000001
+2021-07-11,Puchong,-53.0
+2021-07-12,Puchong,-32.0
+2021-07-13,Puchong,-40.0
+2021-07-14,Puchong,-53.0
+2021-07-15,Puchong,-31.0
+2021-07-16,Puchong,-39.0
+2021-07-17,Puchong,-57.99999999999999
+2021-07-18,Puchong,-44.0
+2021-07-19,Puchong,-26.0
+2021-07-20,Puchong,-44.0
+2020-03-01,Shah Alam,11.0
+2020-03-02,Shah Alam,4.0
+2020-03-03,Shah Alam,9.0
+2020-03-04,Shah Alam,4.0
+2020-03-05,Shah Alam,4.0
+2020-03-06,Shah Alam,1.0
+2020-03-07,Shah Alam,2.0
+2020-03-08,Shah Alam,3.0
+2020-03-09,Shah Alam,1.0
+2020-03-10,Shah Alam,4.0
+2020-03-11,Shah Alam,4.0
+2020-03-12,Shah Alam,-1.0
+2020-03-13,Shah Alam,-5.0
+2020-03-14,Shah Alam,-19.0
+2020-03-15,Shah Alam,-4.0
+2020-03-16,Shah Alam,-5.0
+2020-03-17,Shah Alam,8.0
+2020-03-18,Shah Alam,-55.00000000000001
+2020-03-19,Shah Alam,-69.0
+2020-03-20,Shah Alam,-77.0
+2020-03-21,Shah Alam,-80.0
+2020-03-22,Shah Alam,-87.0
+2020-03-23,Shah Alam,-86.0
+2020-03-24,Shah Alam,-81.0
+2020-03-25,Shah Alam,-77.0
+2020-03-26,Shah Alam,-77.0
+2020-03-27,Shah Alam,-80.0
+2020-03-28,Shah Alam,-84.0
+2020-03-29,Shah Alam,-84.0
+2020-03-30,Shah Alam,-74.0
+2020-03-31,Shah Alam,-77.0
+2020-04-01,Shah Alam,-77.0
+2020-04-02,Shah Alam,-79.0
+2020-04-03,Shah Alam,-82.0
+2020-04-04,Shah Alam,-89.0
+2020-04-05,Shah Alam,-86.0
+2020-04-06,Shah Alam,-78.0
+2020-04-07,Shah Alam,-78.0
+2020-04-08,Shah Alam,-78.0
+2020-04-09,Shah Alam,-79.0
+2020-04-10,Shah Alam,-81.0
+2020-04-11,Shah Alam,-85.0
+2020-04-12,Shah Alam,-85.0
+2020-04-13,Shah Alam,-74.0
+2020-04-14,Shah Alam,-76.0
+2020-04-15,Shah Alam,-76.0
+2020-04-16,Shah Alam,-78.0
+2020-04-17,Shah Alam,-79.0
+2020-04-18,Shah Alam,-85.0
+2020-04-19,Shah Alam,-84.0
+2020-04-20,Shah Alam,-76.0
+2020-04-21,Shah Alam,-76.0
+2020-04-22,Shah Alam,-76.0
+2020-04-23,Shah Alam,-73.0
+2020-04-24,Shah Alam,-80.0
+2020-04-25,Shah Alam,-82.0
+2020-04-26,Shah Alam,-80.0
+2020-04-27,Shah Alam,-72.0
+2020-04-28,Shah Alam,-73.0
+2020-04-29,Shah Alam,-72.0
+2020-04-30,Shah Alam,-72.0
+2020-05-01,Shah Alam,-81.0
+2020-05-02,Shah Alam,-79.0
+2020-05-03,Shah Alam,-76.0
+2020-05-04,Shah Alam,-54.0
+2020-05-05,Shah Alam,-53.0
+2020-05-06,Shah Alam,-49.0
+2020-05-07,Shah Alam,-62.0
+2020-05-08,Shah Alam,-53.0
+2020-05-09,Shah Alam,-56.00000000000001
+2020-05-10,Shah Alam,-60.0
+2020-05-11,Shah Alam,-53.0
+2020-05-12,Shah Alam,-40.0
+2020-05-13,Shah Alam,-39.0
+2020-05-14,Shah Alam,-41.0
+2020-05-15,Shah Alam,-44.0
+2020-05-16,Shah Alam,-49.0
+2020-05-17,Shah Alam,-52.0
+2020-05-18,Shah Alam,-31.0
+2020-05-19,Shah Alam,-35.0
+2020-05-20,Shah Alam,-25.0
+2020-05-21,Shah Alam,-27.0
+2020-05-22,Shah Alam,-40.0
+2020-05-23,Shah Alam,-47.0
+2020-05-24,Shah Alam,-48.0
+2020-05-25,Shah Alam,-61.0
+2020-05-26,Shah Alam,-56.00000000000001
+2020-05-27,Shah Alam,-34.0
+2020-05-28,Shah Alam,-40.0
+2020-05-29,Shah Alam,-44.0
+2020-05-30,Shah Alam,-45.0
+2020-05-31,Shah Alam,-48.0
+2020-06-01,Shah Alam,-27.0
+2020-06-02,Shah Alam,-25.0
+2020-06-03,Shah Alam,-27.0
+2020-06-04,Shah Alam,-26.0
+2020-06-05,Shah Alam,-32.0
+2020-06-06,Shah Alam,-36.0
+2020-06-07,Shah Alam,-45.0
+2020-06-08,Shah Alam,-40.0
+2020-06-09,Shah Alam,-21.0
+2020-06-10,Shah Alam,-15.0
+2020-06-11,Shah Alam,-21.0
+2020-06-12,Shah Alam,-25.0
+2020-06-13,Shah Alam,-28.000000000000004
+2020-06-14,Shah Alam,-14.000000000000002
+2020-06-15,Shah Alam,-10.0
+2020-06-16,Shah Alam,-14.000000000000002
+2020-06-17,Shah Alam,-15.0
+2020-06-18,Shah Alam,-15.0
+2020-06-19,Shah Alam,-19.0
+2020-06-20,Shah Alam,-24.0
+2020-06-21,Shah Alam,-11.0
+2020-06-22,Shah Alam,-8.0
+2020-06-23,Shah Alam,-9.0
+2020-06-24,Shah Alam,-7.000000000000001
+2020-06-25,Shah Alam,-8.0
+2020-06-26,Shah Alam,-15.0
+2020-06-27,Shah Alam,-17.0
+2020-06-28,Shah Alam,-13.0
+2020-06-29,Shah Alam,-4.0
+2020-06-30,Shah Alam,-6.0
+2020-07-01,Shah Alam,0.0
+2020-07-02,Shah Alam,-13.0
+2020-07-03,Shah Alam,-12.0
+2020-07-04,Shah Alam,-13.0
+2020-07-05,Shah Alam,-8.0
+2020-07-06,Shah Alam,1.0
+2020-07-07,Shah Alam,-6.0
+2020-07-08,Shah Alam,0.0
+2020-07-09,Shah Alam,-5.0
+2020-07-10,Shah Alam,-12.0
+2020-07-11,Shah Alam,-13.0
+2020-07-12,Shah Alam,-7.000000000000001
+2020-07-13,Shah Alam,-4.0
+2020-07-14,Shah Alam,-7.000000000000001
+2020-07-15,Shah Alam,-7.000000000000001
+2020-07-16,Shah Alam,-9.0
+2020-07-17,Shah Alam,-5.0
+2020-07-18,Shah Alam,-14.000000000000002
+2020-07-19,Shah Alam,-8.0
+2020-07-20,Shah Alam,0.0
+2020-07-21,Shah Alam,-3.0
+2020-07-22,Shah Alam,2.0
+2020-07-23,Shah Alam,2.0
+2020-07-24,Shah Alam,-4.0
+2020-07-25,Shah Alam,-5.0
+2020-07-26,Shah Alam,-2.0
+2020-07-27,Shah Alam,11.0
+2020-07-28,Shah Alam,1.0
+2020-07-29,Shah Alam,10.0
+2020-07-30,Shah Alam,-11.0
+2020-07-31,Shah Alam,-52.0
+2020-08-01,Shah Alam,-33.0
+2020-08-02,Shah Alam,2.0
+2020-08-03,Shah Alam,14.000000000000002
+2020-08-04,Shah Alam,0.0
+2020-08-05,Shah Alam,12.0
+2020-08-06,Shah Alam,-1.0
+2020-08-07,Shah Alam,-7.000000000000001
+2020-08-08,Shah Alam,4.0
+2020-08-09,Shah Alam,-5.0
+2020-08-10,Shah Alam,8.0
+2020-08-11,Shah Alam,3.0
+2020-08-12,Shah Alam,7.000000000000001
+2020-08-13,Shah Alam,5.0
+2020-08-14,Shah Alam,1.0
+2020-08-15,Shah Alam,-8.0
+2020-08-16,Shah Alam,-8.0
+2020-08-17,Shah Alam,5.0
+2020-08-18,Shah Alam,4.0
+2020-08-19,Shah Alam,15.0
+2020-08-20,Shah Alam,-14.000000000000002
+2020-08-21,Shah Alam,-25.0
+2020-08-22,Shah Alam,-12.0
+2020-08-23,Shah Alam,0.0
+2020-08-24,Shah Alam,6.0
+2020-08-25,Shah Alam,6.0
+2020-08-26,Shah Alam,5.0
+2020-08-27,Shah Alam,13.0
+2020-08-28,Shah Alam,3.0
+2020-08-29,Shah Alam,-8.0
+2020-08-30,Shah Alam,0.0
+2020-08-31,Shah Alam,8.0
+2020-09-01,Shah Alam,9.0
+2020-09-02,Shah Alam,10.0
+2020-09-03,Shah Alam,13.0
+2020-09-04,Shah Alam,6.0
+2020-09-05,Shah Alam,-8.0
+2020-09-06,Shah Alam,8.0
+2020-09-07,Shah Alam,13.0
+2020-09-08,Shah Alam,10.0
+2020-09-09,Shah Alam,9.0
+2020-09-10,Shah Alam,10.0
+2020-09-11,Shah Alam,5.0
+2020-09-12,Shah Alam,2.0
+2020-09-13,Shah Alam,6.0
+2020-09-14,Shah Alam,26.0
+2020-09-15,Shah Alam,18.0
+2020-09-16,Shah Alam,0.0
+2020-09-17,Shah Alam,6.0
+2020-09-18,Shah Alam,3.0
+2020-09-19,Shah Alam,-1.0
+2020-09-20,Shah Alam,2.0
+2020-09-21,Shah Alam,9.0
+2020-09-22,Shah Alam,12.0
+2020-09-23,Shah Alam,0.0
+2020-09-24,Shah Alam,14.000000000000002
+2020-09-25,Shah Alam,0.0
+2020-09-26,Shah Alam,1.0
+2020-09-27,Shah Alam,14.000000000000002
+2020-09-28,Shah Alam,10.0
+2020-09-29,Shah Alam,6.0
+2020-09-30,Shah Alam,13.0
+2020-10-01,Shah Alam,0.0
+2020-10-02,Shah Alam,1.0
+2020-10-03,Shah Alam,-4.0
+2020-10-04,Shah Alam,1.0
+2020-10-05,Shah Alam,4.0
+2020-10-06,Shah Alam,1.0
+2020-10-07,Shah Alam,-3.0
+2020-10-08,Shah Alam,12.0
+2020-10-09,Shah Alam,-17.0
+2020-10-10,Shah Alam,-22.0
+2020-10-11,Shah Alam,-17.0
+2020-10-12,Shah Alam,-6.0
+2020-10-13,Shah Alam,10.0
+2020-10-14,Shah Alam,-31.0
+2020-10-15,Shah Alam,-42.0
+2020-10-16,Shah Alam,-39.0
+2020-10-17,Shah Alam,-53.0
+2020-10-18,Shah Alam,-57.99999999999999
+2020-10-19,Shah Alam,-31.0
+2020-10-20,Shah Alam,-31.0
+2020-10-21,Shah Alam,-20.0
+2020-10-22,Shah Alam,-47.0
+2020-10-23,Shah Alam,-48.0
+2020-10-24,Shah Alam,-57.99999999999999
+2020-10-25,Shah Alam,-54.0
+2020-10-26,Shah Alam,-29.0
+2020-10-27,Shah Alam,-31.0
+2020-10-28,Shah Alam,-25.0
+2020-10-29,Shah Alam,-45.0
+2020-10-30,Shah Alam,-32.0
+2020-10-31,Shah Alam,-44.0
+2020-11-01,Shah Alam,-44.0
+2020-11-02,Shah Alam,-27.0
+2020-11-03,Shah Alam,-22.0
+2020-11-04,Shah Alam,-28.000000000000004
+2020-11-05,Shah Alam,-32.0
+2020-11-06,Shah Alam,-35.0
+2020-11-07,Shah Alam,-40.0
+2020-11-08,Shah Alam,-34.0
+2020-11-09,Shah Alam,-25.0
+2020-11-10,Shah Alam,-22.0
+2020-11-11,Shah Alam,-24.0
+2020-11-12,Shah Alam,-26.0
+2020-11-13,Shah Alam,-29.0
+2020-11-14,Shah Alam,-46.0
+2020-11-15,Shah Alam,-46.0
+2020-11-16,Shah Alam,-21.0
+2020-11-17,Shah Alam,-21.0
+2020-11-18,Shah Alam,-22.0
+2020-11-19,Shah Alam,-24.0
+2020-11-20,Shah Alam,-22.0
+2020-11-21,Shah Alam,-34.0
+2020-11-22,Shah Alam,-45.0
+2020-11-23,Shah Alam,-22.0
+2020-11-24,Shah Alam,-23.0
+2020-11-25,Shah Alam,-20.0
+2020-11-26,Shah Alam,-26.0
+2020-11-27,Shah Alam,-28.000000000000004
+2020-11-28,Shah Alam,-33.0
+2020-11-29,Shah Alam,-45.0
+2020-11-30,Shah Alam,-16.0
+2020-12-01,Shah Alam,-21.0
+2020-12-02,Shah Alam,-15.0
+2020-12-03,Shah Alam,-20.0
+2020-12-04,Shah Alam,-23.0
+2020-12-05,Shah Alam,-32.0
+2020-12-06,Shah Alam,-32.0
+2020-12-07,Shah Alam,-17.0
+2020-12-08,Shah Alam,-13.0
+2020-12-09,Shah Alam,-15.0
+2020-12-10,Shah Alam,-8.0
+2020-12-11,Shah Alam,-38.0
+2020-12-12,Shah Alam,-29.0
+2020-12-13,Shah Alam,-13.0
+2020-12-14,Shah Alam,-13.0
+2020-12-15,Shah Alam,-8.0
+2020-12-16,Shah Alam,-16.0
+2020-12-17,Shah Alam,-11.0
+2020-12-18,Shah Alam,-16.0
+2020-12-19,Shah Alam,-20.0
+2020-12-20,Shah Alam,-15.0
+2020-12-21,Shah Alam,-3.0
+2020-12-22,Shah Alam,-4.0
+2020-12-23,Shah Alam,-2.0
+2020-12-24,Shah Alam,3.0
+2020-12-25,Shah Alam,-33.0
+2020-12-26,Shah Alam,-29.0
+2020-12-27,Shah Alam,-5.0
+2020-12-28,Shah Alam,2.0
+2020-12-29,Shah Alam,1.0
+2020-12-30,Shah Alam,2.0
+2020-12-31,Shah Alam,4.0
+2021-01-01,Shah Alam,-36.0
+2021-01-02,Shah Alam,-27.0
+2021-01-03,Shah Alam,-11.0
+2021-01-04,Shah Alam,0.0
+2021-01-05,Shah Alam,-7.000000000000001
+2021-01-06,Shah Alam,-2.0
+2021-01-07,Shah Alam,-4.0
+2021-01-08,Shah Alam,-10.0
+2021-01-09,Shah Alam,-8.0
+2021-01-10,Shah Alam,-7.000000000000001
+2021-01-11,Shah Alam,1.0
+2021-01-12,Shah Alam,28.000000000000004
+2021-01-13,Shah Alam,-46.0
+2021-01-14,Shah Alam,-42.0
+2021-01-15,Shah Alam,-47.0
+2021-01-16,Shah Alam,-59.0
+2021-01-17,Shah Alam,-62.0
+2021-01-18,Shah Alam,-36.0
+2021-01-19,Shah Alam,-30.0
+2021-01-20,Shah Alam,-38.0
+2021-01-21,Shah Alam,-35.0
+2021-01-22,Shah Alam,-44.0
+2021-01-23,Shah Alam,-56.99999999999999
+2021-01-24,Shah Alam,-56.00000000000001
+2021-01-25,Shah Alam,-28.000000000000004
+2021-01-26,Shah Alam,-33.0
+2021-01-27,Shah Alam,-27.0
+2021-01-28,Shah Alam,-43.0
+2021-01-29,Shah Alam,-24.0
+2021-01-30,Shah Alam,-47.0
+2021-01-31,Shah Alam,-56.99999999999999
+2021-02-01,Shah Alam,-22.0
+2021-02-02,Shah Alam,-28.000000000000004
+2021-02-03,Shah Alam,-26.0
+2021-02-04,Shah Alam,-25.0
+2021-02-05,Shah Alam,-30.0
+2021-02-06,Shah Alam,-41.0
+2021-02-07,Shah Alam,-47.0
+2021-02-08,Shah Alam,-13.0
+2021-02-09,Shah Alam,-17.0
+2021-02-10,Shah Alam,-16.0
+2021-02-11,Shah Alam,-27.0
+2021-02-12,Shah Alam,-56.00000000000001
+2021-02-13,Shah Alam,-46.0
+2021-02-14,Shah Alam,-46.0
+2021-02-15,Shah Alam,-26.0
+2021-02-16,Shah Alam,-23.0
+2021-02-17,Shah Alam,-28.000000000000004
+2021-02-18,Shah Alam,-27.0
+2021-02-19,Shah Alam,-29.0
+2021-02-20,Shah Alam,-31.0
+2021-02-21,Shah Alam,-35.0
+2021-02-22,Shah Alam,-16.0
+2021-02-23,Shah Alam,-15.0
+2021-02-24,Shah Alam,-14.000000000000002
+2021-02-25,Shah Alam,-9.0
+2021-02-26,Shah Alam,-15.0
+2021-02-27,Shah Alam,-21.0
+2021-02-28,Shah Alam,-22.0
+2021-03-01,Shah Alam,-7.000000000000001
+2021-03-02,Shah Alam,-9.0
+2021-03-03,Shah Alam,-8.0
+2021-03-04,Shah Alam,-7.000000000000001
+2021-03-05,Shah Alam,-7.000000000000001
+2021-03-06,Shah Alam,-5.0
+2021-03-07,Shah Alam,-4.0
+2021-03-08,Shah Alam,0.0
+2021-03-09,Shah Alam,2.0
+2021-03-10,Shah Alam,2.0
+2021-03-11,Shah Alam,1.0
+2021-03-12,Shah Alam,-2.0
+2021-03-13,Shah Alam,1.0
+2021-03-14,Shah Alam,-3.0
+2021-03-15,Shah Alam,8.0
+2021-03-16,Shah Alam,-7.000000000000001
+2021-03-17,Shah Alam,1.0
+2021-03-18,Shah Alam,4.0
+2021-03-19,Shah Alam,-2.0
+2021-03-20,Shah Alam,4.0
+2021-03-21,Shah Alam,2.0
+2021-03-22,Shah Alam,3.0
+2021-03-23,Shah Alam,4.0
+2021-03-24,Shah Alam,7.000000000000001
+2021-03-25,Shah Alam,2.0
+2021-03-26,Shah Alam,0.0
+2021-03-27,Shah Alam,1.0
+2021-03-28,Shah Alam,9.0
+2021-03-29,Shah Alam,15.0
+2021-03-30,Shah Alam,6.0
+2021-03-31,Shah Alam,16.0
+2021-04-01,Shah Alam,15.0
+2021-04-02,Shah Alam,2.0
+2021-04-03,Shah Alam,13.0
+2021-04-04,Shah Alam,12.0
+2021-04-05,Shah Alam,14.000000000000002
+2021-04-06,Shah Alam,11.0
+2021-04-07,Shah Alam,17.0
+2021-04-08,Shah Alam,11.0
+2021-04-09,Shah Alam,11.0
+2021-04-10,Shah Alam,13.0
+2021-04-11,Shah Alam,16.0
+2021-04-12,Shah Alam,27.0
+2021-04-13,Shah Alam,-3.0
+2021-04-14,Shah Alam,3.0
+2021-04-15,Shah Alam,6.0
+2021-04-16,Shah Alam,-3.0
+2021-04-17,Shah Alam,-19.0
+2021-04-18,Shah Alam,-10.0
+2021-04-19,Shah Alam,5.0
+2021-04-20,Shah Alam,2.0
+2021-04-21,Shah Alam,2.0
+2021-04-22,Shah Alam,4.0
+2021-04-23,Shah Alam,-6.0
+2021-04-24,Shah Alam,-5.0
+2021-04-25,Shah Alam,-8.0
+2021-04-26,Shah Alam,-1.0
+2021-04-27,Shah Alam,5.0
+2021-04-28,Shah Alam,12.0
+2021-04-29,Shah Alam,-6.0
+2021-04-30,Shah Alam,-2.0
+2021-05-01,Shah Alam,-16.0
+2021-05-02,Shah Alam,2.0
+2021-05-03,Shah Alam,12.0
+2021-05-04,Shah Alam,9.0
+2021-05-05,Shah Alam,48.0
+2021-05-06,Shah Alam,-8.0
+2021-05-07,Shah Alam,-17.0
+2021-05-08,Shah Alam,-31.0
+2021-05-09,Shah Alam,-32.0
+2021-05-10,Shah Alam,-8.0
+2021-05-11,Shah Alam,-6.0
+2021-05-12,Shah Alam,-15.0
+2021-05-13,Shah Alam,-63.0
+2021-05-14,Shah Alam,-67.0
+2021-05-15,Shah Alam,-53.0
+2021-05-16,Shah Alam,-45.0
+2021-05-17,Shah Alam,-20.0
+2021-05-18,Shah Alam,-23.0
+2021-05-19,Shah Alam,-24.0
+2021-05-20,Shah Alam,-20.0
+2021-05-21,Shah Alam,-31.0
+2021-05-22,Shah Alam,-48.0
+2021-05-23,Shah Alam,-56.99999999999999
+2021-05-24,Shah Alam,-24.0
+2021-05-25,Shah Alam,-30.0
+2021-05-26,Shah Alam,-51.0
+2021-05-27,Shah Alam,-31.0
+2021-05-28,Shah Alam,-38.0
+2021-05-29,Shah Alam,-43.0
+2021-05-30,Shah Alam,-45.0
+2021-05-31,Shah Alam,-2.0
+2021-06-01,Shah Alam,-61.0
+2021-06-02,Shah Alam,-56.00000000000001
+2021-06-03,Shah Alam,-54.0
+2021-06-04,Shah Alam,-64.0
+2021-06-05,Shah Alam,-65.0
+2021-06-06,Shah Alam,-66.0
+2021-06-07,Shah Alam,-63.0
+2021-06-08,Shah Alam,-46.0
+2021-06-09,Shah Alam,-44.0
+2021-06-10,Shah Alam,-50.0
+2021-06-11,Shah Alam,-53.0
+2021-06-12,Shah Alam,-61.0
+2021-06-13,Shah Alam,-60.0
+2021-06-14,Shah Alam,-44.0
+2021-06-15,Shah Alam,-48.0
+2021-06-16,Shah Alam,-43.0
+2021-06-17,Shah Alam,-49.0
+2021-06-18,Shah Alam,-51.0
+2021-06-19,Shah Alam,-55.00000000000001
+2021-06-20,Shah Alam,-56.99999999999999
+2021-06-21,Shah Alam,-42.0
+2021-06-22,Shah Alam,-42.0
+2021-06-23,Shah Alam,-43.0
+2021-06-24,Shah Alam,-44.0
+2021-06-25,Shah Alam,-46.0
+2021-06-26,Shah Alam,-51.0
+2021-06-27,Shah Alam,-54.0
+2021-06-28,Shah Alam,-36.0
+2021-06-29,Shah Alam,-43.0
+2021-06-30,Shah Alam,-34.0
+2021-07-01,Shah Alam,-37.0
+2021-07-02,Shah Alam,-27.0
+2021-07-03,Shah Alam,-64.0
+2021-07-04,Shah Alam,-61.0
+2021-07-05,Shah Alam,-48.0
+2021-07-06,Shah Alam,-46.0
+2021-07-07,Shah Alam,-46.0
+2021-07-09,Shah Alam,-52.0
+2021-07-10,Shah Alam,-56.00000000000001
+2021-07-11,Shah Alam,-51.0
+2021-07-12,Shah Alam,-44.0
+2021-07-13,Shah Alam,-46.0
+2021-07-14,Shah Alam,-42.0
+2021-07-15,Shah Alam,-40.0
+2021-07-16,Shah Alam,-45.0
+2021-07-17,Shah Alam,-49.0
+2021-07-18,Shah Alam,-45.0
+2021-07-19,Shah Alam,-28.000000000000004
+2021-07-20,Shah Alam,-49.0
+2020-03-01,Total,9.0
+2020-03-02,Total,3.0
+2020-03-03,Total,2.0
+2020-03-04,Total,0.0
+2020-03-05,Total,0.0
+2020-03-06,Total,-1.0
+2020-03-07,Total,-1.0
+2020-03-08,Total,4.0
+2020-03-09,Total,2.0
+2020-03-10,Total,0.0
+2020-03-11,Total,-1.0
+2020-03-12,Total,-2.0
+2020-03-13,Total,2.0
+2020-03-14,Total,3.0
+2020-03-15,Total,10.0
+2020-03-16,Total,4.0
+2020-03-17,Total,23.0
+2020-03-18,Total,-47.0
+2020-03-19,Total,-67.0
+2020-03-20,Total,-74.0
+2020-03-21,Total,-79.0
+2020-03-22,Total,-87.0
+2020-03-23,Total,-81.0
+2020-03-24,Total,-81.0
+2020-03-25,Total,-79.0
+2020-03-26,Total,-79.0
+2020-03-27,Total,-82.0
+2020-03-28,Total,-86.0
+2020-03-29,Total,-86.0
+2020-03-30,Total,-79.0
+2020-03-31,Total,-78.0
+2020-04-01,Total,-79.0
+2020-04-02,Total,-81.0
+2020-04-03,Total,-84.0
+2020-04-04,Total,-88.0
+2020-04-05,Total,-88.0
+2020-04-06,Total,-80.0
+2020-04-07,Total,-80.0
+2020-04-08,Total,-80.0
+2020-04-09,Total,-81.0
+2020-04-10,Total,-84.0
+2020-04-11,Total,-86.0
+2020-04-12,Total,-86.0
+2020-04-13,Total,-78.0
+2020-04-14,Total,-77.0
+2020-04-15,Total,-78.0
+2020-04-16,Total,-79.0
+2020-04-17,Total,-82.0
+2020-04-18,Total,-86.0
+2020-04-19,Total,-86.0
+2020-04-20,Total,-77.0
+2020-04-21,Total,-77.0
+2020-04-22,Total,-77.0
+2020-04-23,Total,-77.0
+2020-04-24,Total,-83.0
+2020-04-25,Total,-85.0
+2020-04-26,Total,-84.0
+2020-04-27,Total,-75.0
+2020-04-28,Total,-75.0
+2020-04-29,Total,-75.0
+2020-04-30,Total,-75.0
+2020-05-01,Total,-83.0
+2020-05-02,Total,-82.0
+2020-05-03,Total,-79.0
+2020-05-04,Total,-61.0
+2020-05-05,Total,-60.0
+2020-05-06,Total,-57.99999999999999
+2020-05-07,Total,-63.0
+2020-05-08,Total,-60.0
+2020-05-09,Total,-64.0
+2020-05-10,Total,-61.0
+2020-05-11,Total,-57.99999999999999
+2020-05-12,Total,-50.0
+2020-05-13,Total,-48.0
+2020-05-14,Total,-50.0
+2020-05-15,Total,-55.00000000000001
+2020-05-16,Total,-61.0
+2020-05-17,Total,-61.0
+2020-05-18,Total,-42.0
+2020-05-19,Total,-41.0
+2020-05-20,Total,-39.0
+2020-05-21,Total,-40.0
+2020-05-22,Total,-48.0
+2020-05-23,Total,-59.0
+2020-05-24,Total,-56.99999999999999
+2020-05-25,Total,-59.0
+2020-05-26,Total,-56.00000000000001
+2020-05-27,Total,-47.0
+2020-05-28,Total,-49.0
+2020-05-29,Total,-54.0
+2020-05-30,Total,-57.99999999999999
+2020-05-31,Total,-56.00000000000001
+2020-06-01,Total,-40.0
+2020-06-02,Total,-39.0
+2020-06-03,Total,-38.0
+2020-06-04,Total,-41.0
+2020-06-05,Total,-45.0
+2020-06-06,Total,-50.0
+2020-06-07,Total,-51.0
+2020-06-08,Total,-43.0
+2020-06-09,Total,-29.0
+2020-06-10,Total,-17.0
+2020-06-11,Total,-18.0
+2020-06-12,Total,-22.0
+2020-06-13,Total,-26.0
+2020-06-14,Total,-16.0
+2020-06-15,Total,-9.0
+2020-06-16,Total,-13.0
+2020-06-17,Total,-12.0
+2020-06-18,Total,-15.0
+2020-06-19,Total,-10.0
+2020-06-20,Total,-17.0
+2020-06-21,Total,-7.000000000000001
+2020-06-22,Total,-6.0
+2020-06-23,Total,-8.0
+2020-06-24,Total,-11.0
+2020-06-25,Total,-11.0
+2020-06-26,Total,-10.0
+2020-06-27,Total,-12.0
+2020-06-28,Total,-5.0
+2020-06-29,Total,-4.0
+2020-06-30,Total,-7.000000000000001
+2020-07-01,Total,-8.0
+2020-07-02,Total,-8.0
+2020-07-03,Total,-7.000000000000001
+2020-07-04,Total,-7.000000000000001
+2020-07-05,Total,1.0
+2020-07-06,Total,-1.0
+2020-07-07,Total,-3.0
+2020-07-08,Total,-3.0
+2020-07-09,Total,-5.0
+2020-07-10,Total,-7.000000000000001
+2020-07-11,Total,-3.0
+2020-07-12,Total,3.0
+2020-07-13,Total,-1.0
+2020-07-14,Total,-8.0
+2020-07-15,Total,-9.0
+2020-07-16,Total,-7.000000000000001
+2020-07-17,Total,-6.0
+2020-07-18,Total,-9.0
+2020-07-19,Total,-3.0
+2020-07-20,Total,-3.0
+2020-07-21,Total,-5.0
+2020-07-22,Total,-5.0
+2020-07-23,Total,-4.0
+2020-07-24,Total,-4.0
+2020-07-25,Total,-3.0
+2020-07-26,Total,-1.0
+2020-07-27,Total,3.0
+2020-07-28,Total,8.0
+2020-07-29,Total,33.0
+2020-07-30,Total,45.0
+2020-07-31,Total,-3.0
+2020-08-01,Total,1.0
+2020-08-02,Total,42.0
+2020-08-03,Total,31.0
+2020-08-04,Total,11.0
+2020-08-05,Total,4.0
+2020-08-06,Total,0.0
+2020-08-07,Total,-1.0
+2020-08-08,Total,1.0
+2020-08-09,Total,3.0
+2020-08-10,Total,3.0
+2020-08-11,Total,2.0
+2020-08-12,Total,1.0
+2020-08-13,Total,-2.0
+2020-08-14,Total,-2.0
+2020-08-15,Total,-5.0
+2020-08-16,Total,-2.0
+2020-08-17,Total,2.0
+2020-08-18,Total,1.0
+2020-08-19,Total,18.0
+2020-08-20,Total,16.0
+2020-08-21,Total,-17.0
+2020-08-22,Total,0.0
+2020-08-23,Total,12.0
+2020-08-24,Total,11.0
+2020-08-25,Total,4.0
+2020-08-26,Total,0.0
+2020-08-27,Total,5.0
+2020-08-28,Total,8.0
+2020-08-29,Total,5.0
+2020-08-30,Total,28.000000000000004
+2020-08-31,Total,46.0
+2020-09-01,Total,11.0
+2020-09-02,Total,3.0
+2020-09-03,Total,4.0
+2020-09-04,Total,4.0
+2020-09-05,Total,6.0
+2020-09-06,Total,9.0
+2020-09-07,Total,8.0
+2020-09-08,Total,7.000000000000001
+2020-09-09,Total,6.0
+2020-09-10,Total,5.0
+2020-09-11,Total,4.0
+2020-09-12,Total,3.0
+2020-09-13,Total,8.0
+2020-09-14,Total,7.000000000000001
+2020-09-15,Total,22.0
+2020-09-16,Total,17.0
+2020-09-17,Total,5.0
+2020-09-18,Total,4.0
+2020-09-19,Total,5.0
+2020-09-20,Total,9.0
+2020-09-21,Total,9.0
+2020-09-22,Total,7.000000000000001
+2020-09-23,Total,4.0
+2020-09-24,Total,10.0
+2020-09-25,Total,10.0
+2020-09-26,Total,10.0
+2020-09-27,Total,16.0
+2020-09-28,Total,10.0
+2020-09-29,Total,7.000000000000001
+2020-09-30,Total,7.000000000000001
+2020-10-01,Total,-1.0
+2020-10-02,Total,3.0
+2020-10-03,Total,-2.0
+2020-10-04,Total,-1.0
+2020-10-05,Total,0.0
+2020-10-06,Total,-1.0
+2020-10-07,Total,-5.0
+2020-10-08,Total,-1.0
+2020-10-09,Total,-7.000000000000001
+2020-10-10,Total,-11.0
+2020-10-11,Total,-9.0
+2020-10-12,Total,-4.0
+2020-10-13,Total,10.0
+2020-10-14,Total,-35.0
+2020-10-15,Total,-36.0
+2020-10-16,Total,-41.0
+2020-10-17,Total,-50.0
+2020-10-18,Total,-50.0
+2020-10-19,Total,-31.0
+2020-10-20,Total,-31.0
+2020-10-21,Total,-28.000000000000004
+2020-10-22,Total,-42.0
+2020-10-23,Total,-43.0
+2020-10-24,Total,-49.0
+2020-10-25,Total,-51.0
+2020-10-26,Total,-33.0
+2020-10-27,Total,-31.0
+2020-10-28,Total,-26.0
+2020-10-29,Total,-36.0
+2020-10-30,Total,-34.0
+2020-10-31,Total,-41.0
+2020-11-01,Total,-40.0
+2020-11-02,Total,-28.000000000000004
+2020-11-03,Total,-28.000000000000004
+2020-11-04,Total,-29.0
+2020-11-05,Total,-32.0
+2020-11-06,Total,-35.0
+2020-11-07,Total,-40.0
+2020-11-08,Total,-31.0
+2020-11-09,Total,-32.0
+2020-11-10,Total,-31.0
+2020-11-11,Total,-30.0
+2020-11-12,Total,-32.0
+2020-11-13,Total,-38.0
+2020-11-14,Total,-53.0
+2020-11-15,Total,-51.0
+2020-11-16,Total,-30.0
+2020-11-17,Total,-30.0
+2020-11-18,Total,-31.0
+2020-11-19,Total,-33.0
+2020-11-20,Total,-38.0
+2020-11-21,Total,-46.0
+2020-11-22,Total,-45.0
+2020-11-23,Total,-29.0
+2020-11-24,Total,-28.000000000000004
+2020-11-25,Total,-28.000000000000004
+2020-11-26,Total,-29.0
+2020-11-27,Total,-34.0
+2020-11-28,Total,-40.0
+2020-11-29,Total,-40.0
+2020-11-30,Total,-24.0
+2020-12-01,Total,-23.0
+2020-12-02,Total,-24.0
+2020-12-03,Total,-26.0
+2020-12-04,Total,-31.0
+2020-12-05,Total,-36.0
+2020-12-06,Total,-36.0
+2020-12-07,Total,-15.0
+2020-12-08,Total,-13.0
+2020-12-09,Total,-11.0
+2020-12-10,Total,-5.0
+2020-12-11,Total,-12.0
+2020-12-12,Total,-19.0
+2020-12-13,Total,-7.000000000000001
+2020-12-14,Total,-5.0
+2020-12-15,Total,-5.0
+2020-12-16,Total,-8.0
+2020-12-17,Total,-6.0
+2020-12-18,Total,-7.000000000000001
+2020-12-19,Total,-8.0
+2020-12-20,Total,-4.0
+2020-12-21,Total,4.0
+2020-12-22,Total,5.0
+2020-12-23,Total,10.0
+2020-12-24,Total,26.0
+2020-12-25,Total,-1.0
+2020-12-26,Total,-9.0
+2020-12-27,Total,12.0
+2020-12-28,Total,14.000000000000002
+2020-12-29,Total,11.0
+2020-12-30,Total,14.000000000000002
+2020-12-31,Total,30.0
+2021-01-01,Total,-4.0
+2021-01-02,Total,-8.0
+2021-01-03,Total,1.0
+2021-01-04,Total,2.0
+2021-01-05,Total,-3.0
+2021-01-06,Total,-5.0
+2021-01-07,Total,-8.0
+2021-01-08,Total,-12.0
+2021-01-09,Total,-11.0
+2021-01-10,Total,-6.0
+2021-01-11,Total,3.0
+2021-01-12,Total,26.0
+2021-01-13,Total,-54.0
+2021-01-14,Total,-51.0
+2021-01-15,Total,-55.00000000000001
+2021-01-16,Total,-66.0
+2021-01-17,Total,-67.0
+2021-01-18,Total,-44.0
+2021-01-19,Total,-44.0
+2021-01-20,Total,-44.0
+2021-01-21,Total,-45.0
+2021-01-22,Total,-54.0
+2021-01-23,Total,-63.0
+2021-01-24,Total,-64.0
+2021-01-25,Total,-41.0
+2021-01-26,Total,-40.0
+2021-01-27,Total,-39.0
+2021-01-28,Total,-53.0
+2021-01-29,Total,-48.0
+2021-01-30,Total,-56.99999999999999
+2021-01-31,Total,-59.0
+2021-02-01,Total,-40.0
+2021-02-02,Total,-36.0
+2021-02-03,Total,-36.0
+2021-02-04,Total,-37.0
+2021-02-05,Total,-43.0
+2021-02-06,Total,-52.0
+2021-02-07,Total,-53.0
+2021-02-08,Total,-27.0
+2021-02-09,Total,-24.0
+2021-02-10,Total,-22.0
+2021-02-11,Total,-36.0
+2021-02-12,Total,-64.0
+2021-02-13,Total,-62.0
+2021-02-14,Total,-49.0
+2021-02-15,Total,-35.0
+2021-02-16,Total,-34.0
+2021-02-17,Total,-33.0
+2021-02-18,Total,-36.0
+2021-02-19,Total,-38.0
+2021-02-20,Total,-44.0
+2021-02-21,Total,-40.0
+2021-02-22,Total,-23.0
+2021-02-23,Total,-24.0
+2021-02-24,Total,-23.0
+2021-02-25,Total,-24.0
+2021-02-26,Total,-29.0
+2021-02-27,Total,-36.0
+2021-02-28,Total,-34.0
+2021-03-01,Total,-19.0
+2021-03-02,Total,-19.0
+2021-03-03,Total,-18.0
+2021-03-04,Total,-21.0
+2021-03-05,Total,-19.0
+2021-03-06,Total,-20.0
+2021-03-07,Total,-18.0
+2021-03-08,Total,-8.0
+2021-03-09,Total,-7.000000000000001
+2021-03-10,Total,-6.0
+2021-03-11,Total,-11.0
+2021-03-12,Total,-14.000000000000002
+2021-03-13,Total,-15.0
+2021-03-14,Total,-15.0
+2021-03-15,Total,-5.0
+2021-03-16,Total,-6.0
+2021-03-17,Total,-6.0
+2021-03-18,Total,-9.0
+2021-03-19,Total,-13.0
+2021-03-20,Total,-13.0
+2021-03-21,Total,-13.0
+2021-03-22,Total,-5.0
+2021-03-23,Total,-4.0
+2021-03-24,Total,-5.0
+2021-03-25,Total,-7.000000000000001
+2021-03-26,Total,-9.0
+2021-03-27,Total,-8.0
+2021-03-28,Total,-5.0
+2021-03-29,Total,1.0
+2021-03-30,Total,1.0
+2021-03-31,Total,4.0
+2021-04-01,Total,1.0
+2021-04-02,Total,-5.0
+2021-04-03,Total,-3.0
+2021-04-04,Total,-1.0
+2021-04-05,Total,3.0
+2021-04-06,Total,5.0
+2021-04-07,Total,3.0
+2021-04-08,Total,2.0
+2021-04-09,Total,-1.0
+2021-04-10,Total,0.0
+2021-04-11,Total,0.0
+2021-04-12,Total,7.000000000000001
+2021-04-13,Total,-10.0
+2021-04-14,Total,-7.000000000000001
+2021-04-15,Total,-10.0
+2021-04-16,Total,-18.0
+2021-04-17,Total,-25.0
+2021-04-18,Total,-23.0
+2021-04-19,Total,-8.0
+2021-04-20,Total,-9.0
+2021-04-21,Total,-10.0
+2021-04-22,Total,-12.0
+2021-04-23,Total,-21.0
+2021-04-24,Total,-26.0
+2021-04-25,Total,-26.0
+2021-04-26,Total,-7.000000000000001
+2021-04-27,Total,-8.0
+2021-04-28,Total,-4.0
+2021-04-29,Total,-15.0
+2021-04-30,Total,-19.0
+2021-05-01,Total,-32.0
+2021-05-02,Total,-25.0
+2021-05-03,Total,-6.0
+2021-05-04,Total,-8.0
+2021-05-05,Total,8.0
+2021-05-06,Total,-13.0
+2021-05-07,Total,-32.0
+2021-05-08,Total,-44.0
+2021-05-09,Total,-40.0
+2021-05-10,Total,-17.0
+2021-05-11,Total,-14.000000000000002
+2021-05-12,Total,-26.0
+2021-05-13,Total,-57.99999999999999
+2021-05-14,Total,-64.0
+2021-05-15,Total,-60.0
+2021-05-16,Total,-54.0
+2021-05-17,Total,-30.0
+2021-05-18,Total,-31.0
+2021-05-19,Total,-31.0
+2021-05-20,Total,-35.0
+2021-05-21,Total,-43.0
+2021-05-22,Total,-56.99999999999999
+2021-05-23,Total,-59.0
+2021-05-24,Total,-34.0
+2021-05-25,Total,-39.0
+2021-05-26,Total,-55.00000000000001
+2021-05-27,Total,-43.0
+2021-05-28,Total,-50.0
+2021-05-29,Total,-55.00000000000001
+2021-05-30,Total,-54.0
+2021-05-31,Total,-19.0
+2021-06-01,Total,-67.0
+2021-06-02,Total,-64.0
+2021-06-03,Total,-64.0
+2021-06-04,Total,-68.0
+2021-06-05,Total,-73.0
+2021-06-06,Total,-74.0
+2021-06-07,Total,-68.0
+2021-06-08,Total,-56.00000000000001
+2021-06-09,Total,-57.99999999999999
+2021-06-10,Total,-60.0
+2021-06-11,Total,-64.0
+2021-06-12,Total,-70.0
+2021-06-13,Total,-69.0
+2021-06-14,Total,-54.0
+2021-06-15,Total,-53.0
+2021-06-16,Total,-53.0
+2021-06-17,Total,-56.00000000000001
+2021-06-18,Total,-60.0
+2021-06-19,Total,-67.0
+2021-06-20,Total,-65.0
+2021-06-21,Total,-51.0
+2021-06-22,Total,-51.0
+2021-06-23,Total,-52.0
+2021-06-24,Total,-53.0
+2021-06-25,Total,-59.0
+2021-06-26,Total,-66.0
+2021-06-27,Total,-65.0
+2021-06-28,Total,-49.0
+2021-06-29,Total,-49.0
+2021-06-30,Total,-46.0
+2021-07-01,Total,-49.0
+2021-07-02,Total,-48.0
+2021-07-03,Total,-70.0
+2021-07-04,Total,-67.0
+2021-07-05,Total,-53.0
+2021-07-06,Total,-52.0
+2021-07-07,Total,-52.0
+2021-07-09,Total,-57.99999999999999
+2021-07-10,Total,-65.0
+2021-07-11,Total,-64.0
+2021-07-12,Total,-50.0
+2021-07-13,Total,-49.0
+2021-07-14,Total,-50.0
+2021-07-15,Total,-50.0
+2021-07-16,Total,-55.00000000000001
+2021-07-17,Total,-60.0
+2021-07-18,Total,-59.0
+2021-07-19,Total,-41.0
+2021-07-20,Total,-55.00000000000001
