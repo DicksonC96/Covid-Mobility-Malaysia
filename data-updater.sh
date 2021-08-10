@@ -5,6 +5,5 @@ cd ~/Covid-Mobility-Malaysia
 if [[ "$(git status --porcelain)" != "" ]]; then
 	git add data/*
 	git commit -m "Daily data update"
-	git tag -a `date "+%Y%m%d"` -m "Daily data update"
-	git push origin master --tags
+	git push
 fi
