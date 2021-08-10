@@ -2,9 +2,12 @@
 
 import pandas as pd
 import time
+import datetime
 
-# Switch off some warning for logging purpose
+# Switch off some warning and print date for logging purpose
 pd.options.mode.chained_assignment = None
+now = datetime.datetime.now()
+print('['+str(now)+']')
 
 start = time.time()
 ### Google Mobility Data ###
@@ -122,4 +125,4 @@ mohdata = pd.merge(casesdata, checkindata, on=['date', 'state'], how='outer')
 
 # Export csv
 mohdata.to_csv("./data/moh-covid-data.csv", index=False)
-print("MOH data exported. Elapsed time: "+str(time.time()-start), flush = True)
+print("MOH data exported. Elapsed time: "+str(time.time()-start)+'\n', flush = True)
