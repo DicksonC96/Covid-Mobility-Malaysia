@@ -88,7 +88,7 @@ mean_val = tomtomdata.loc[tomtomdata['date'] <= "2020-02-06", "congestion"].mean
 tomtomdata['congestion-norm'] = tomtomdata['congestion'] - mean_val
 min_val = tomtomdata['congestion'].min()
 max_val = tomtomdata['congestion'].max()
-tomtomdata['congestion-norm'] = ((tomtomdata['congestion-norm'] - min_val)/ (max_val - min_val) - 0.5) * 100
+tomtomdata['congestion-norm'] = ((tomtomdata['congestion-norm'] - min_val)/ (max_val - min_val)) * 100
 
 # Export csv
 tomtomdata.to_csv("./data/tomtom-mobility-data-malaysia.csv", index=False)
