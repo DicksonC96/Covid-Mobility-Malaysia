@@ -21,8 +21,8 @@ jobs:
       run: python ./script/script-compiled.py
     - name: Commit & push data updates
       run: |
-        git config --local user.name DicksonC96
-        git config --local user.email "66625723+DicksonC96@users.noreply.github.com"
+        git config --local user.name github-actions
+        git config --local user.email "action@github.com"
         git add ./data/*.csv
         if [[ '$(git diff --cached --exit-code)' = '1' ]]; then
           git commit -m "Daily data update"
@@ -31,3 +31,4 @@ jobs:
         fi
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
