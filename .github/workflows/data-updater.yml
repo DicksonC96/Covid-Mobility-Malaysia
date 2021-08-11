@@ -2,12 +2,12 @@ name: Regular Data Updates
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master/script ]
   schedule:
     - cron: '0 9,21 * * *'
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -17,7 +17,7 @@ jobs:
         python-version: '3.x'
     - name: Install dependencies
       run: python -m pip install --upgrade pip pandas
-    - name: Update and clean latest data
+    - name: Clean and update with latest data
       run: python ./script/script-compiled.py
     - name: Commit & push data updates
       run: |
