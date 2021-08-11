@@ -1,17 +1,14 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
-
 name: Regular Data Updates
 
 on:
   push:
     branches: [ master ]
+  schedule:
+    - cron: '0 9,21 * * *'
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.x
@@ -21,5 +18,16 @@ jobs:
     - name: Install dependencies
       run: python -m pip install --upgrade pip pandas
     - name: Test with pytest
+      run: python ./script/script-compiled.py
+    - name: Commit & push data updates
       run: |
-        python ./script/script-compiled.py
+        git config --local user.name github-actions
+        git config --local user.email "action@github.com"
+        git add ./data/*.csv
+        if [[ '$(git diff --cached --exit-code)' = '1' ]]; then
+          git commit -m "Daily data update" -a
+          git tag -a `date "+v%Y%m%d%H"` -m "Daily data update"
+          git push origin master --tags
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
