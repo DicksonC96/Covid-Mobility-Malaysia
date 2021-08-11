@@ -26,7 +26,6 @@ jobs:
         git add ./data/*.csv
         if [[ '$(git diff --cached --exit-code)' = '1' ]]; then
           git commit -m "Daily data update"
-          git tag -a `date "+v%Y%m%d%H"` -m "Daily data update"
-          git push --tags
+          git push origin master
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
