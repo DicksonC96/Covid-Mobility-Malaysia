@@ -4,13 +4,15 @@ import pandas as pd
 import time
 import datetime
 
-# Switch off some warning and print date for logging purpose
+# Switch off some warning
 pd.options.mode.chained_assignment = None
+
+# Print datetime for logging purpose
 now = datetime.datetime.now()
 print('['+str(now)+']')
 
 start = time.time()
-### Google Mobility Data ###
+### Google Mobility Data ### ========================================================================
 # Read google data
 google = pd.read_csv("https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/google_reports/mobility_report_asia_africa.csv")
 
@@ -33,7 +35,7 @@ googledata.to_csv("./data/google-mobility-data-malaysia.csv", index=False)
 print("Google data exported. Elapsed time: "+str(time.time()-start), flush = True)
 
 start = time.time()
-### Apple Mobility Data ###
+### Apple Mobility Data ### ========================================================================
 # Read apple data
 apple = pd.read_csv("https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/apple_reports/apple_mobility_report.csv")
 
@@ -49,7 +51,7 @@ appledata.to_csv("./data/apple-mobility-data-malaysia.csv", index=False)
 print("Apple data exported. Elapsed time: "+str(time.time()-start), flush = True)
 
 start = time.time()
-### Waze Traffic Data ###
+### Waze Traffic Data ### ========================================================================
 # Read waze data
 waze = pd.read_csv("https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/waze_reports/waze_mobility.csv")
 
@@ -72,7 +74,7 @@ wazedata.to_csv("./data/waze-mobility-data-malaysia.csv", index=False)
 print("Waze data exported. Elapsed time: "+str(time.time()-start), flush = True)
 
 start = time.time()
-### TomTom Traffic Data
+### TomTom Traffic Data ========================================================================
 # Read tomtom data
 tomtom = pd.read_csv("https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/tomtom_reports/tomtom_trafic_index.csv")
 
@@ -95,7 +97,7 @@ tomtomdata.to_csv("./data/tomtom-mobility-data-malaysia.csv", index=False)
 print("TomTom data exported. Elapsed time: "+str(time.time()-start), flush = True)
 
 start = time.time()
-### MOH COVID-19 Data
+### MOH COVID-19 Data ========================================================================
 # Read cases data
 casesdata = pd.read_csv("https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/cases_state.csv")
 
