@@ -2,7 +2,8 @@ name: Regular Data Updates
 
 on:
   push:
-    branches: [ master/script ]
+    paths:
+      - 'script-compiled.py'
   schedule:
     - cron: '0 * * * *'
 
