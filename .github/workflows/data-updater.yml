@@ -3,6 +3,7 @@ name: Regular Data Updates
 on:
   push:
     paths:
+      - './github/workflows/data-updater.yml'
       - 'script-compiled.py'
   schedule:
     - cron: '0 * * * *'
@@ -19,7 +20,7 @@ jobs:
     - name: Install dependencies
       run: python -m pip install --upgrade pip pandas
     - name: Clean and update with latest data
-      run: python ./script/script-compiled.py
+      run: python ./script-compiled.py
     - name: Commit & push data updates
       run: |
         git config --local user.name github-actions
