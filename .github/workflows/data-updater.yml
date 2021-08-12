@@ -3,7 +3,7 @@ name: Regular Data Updates
 on:
   push:
     paths:
-      - './github/workflows/data-updater.yml'
+      - './.github/workflows/data-updater.yml'
       - 'script-compiled.py'
   schedule:
     - cron: '0 * * * *'
