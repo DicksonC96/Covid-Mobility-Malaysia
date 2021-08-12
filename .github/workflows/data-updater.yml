@@ -26,8 +26,8 @@ jobs:
         git config --local user.name github-actions
         git config --local user.email "action@github.com"
         git add data/*.csv
-        git diff --cached --exit-code
-        if [[ ! $? = 0 ]]; then
+        git diff-index --quiet HEAD
+        if [[ $? = 1 ]]; then
           git commit -m "Daily data update"
           git tag -a `date "+v%Y%m%d%H%M%S"` -m "Daily data update"
           git push origin master --tags
