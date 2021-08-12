@@ -1,35 +1,34 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
-
 name: Regular Data Updates
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master/script ]
+  schedule:
+    - cron: '0 * * * *'
 
 jobs:
-  build:
-
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.x
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
-    - name: Display Python version
-      run: python -c "import sys; print(sys.version)"
-    - name: Cache pip
-      uses: actions/cache@v2
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-          ${{ runner.os }}-
     - name: Install dependencies
-      run: pip install -r requirements.txt
-    - name: Test with pytest
+      run: python -m pip install --upgrade pip pandas
+    - name: Clean and update with latest data
+      run: python ./script/script-compiled.py
+    - name: Commit & push data updates
       run: |
-        python script/script-compiled.py
+        git config --local user.name github-actions
+        git config --local user.email "action@github.com"
+        git add ./data/*.csv
+        if [[ '$(git diff --cached --exit-code)' = '1' ]]; then
+          git commit -m "Daily data update"
+          git tag -a `date "+v%Y%m%d%H%M%S"` -m "Daily data update"
+          git push origin master --tags
+        fi
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
