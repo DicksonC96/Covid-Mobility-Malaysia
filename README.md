@@ -10,24 +10,18 @@ With the data scraped daily by [ActiveConclusion](https://github.com/ActiveConcl
 
 ## File description
 ### Scripts
-Python script to pull and filter all the data from sources: [script-compiled.py](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/script-compiled.py)  
+- Python script to pull and filter all the data from sources: [script-compiled.py](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/script-compiled.py)  
 Description of each python lines were included in the script as comment-out.  
 Data processing script of single dataset are also available in [Jupyter notebook format](https://github.com/DicksonC96/Covid-Mobility-Malaysia/tree/master/notebooks) to generate selected dataset of your choice.  
+- YAML script to set-up GitHub Actions workflow for hourly data updates: [.github/workflows/data-updater.yml](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/.github/workflows/data-updater.yml)  
+- Bash script to automate the regular data updates using linux machine: [data-updater.sh](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/data-updater.sh)  
 
-YAML script to set-up GitHub Actions workflow for hourly data updates: [.github/workflows/data-updater.yml](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/.github/workflows/data-updater.yml)  
-
-Bash script to automate the regular data updates using linux machine: [data-updater.sh](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/data-updater.sh)  
-
-### Raw Data (Updated whenever the source is updated)
-MOH Malaysia COVID-19 Daily Cases & MySejahtera Check-Ins Data: [moh-covid-data.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/moh-covid-data.csv)  
-
-Google Mobility Data (Malaysia): [google-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/google-mobility-data-malaysia.csv)  
-
-Apple Mobility Data (Malaysia): [apple-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/apple-mobility-data-malaysia.csv)  
-
-Waze Traffic Data (various cities in Malaysia): [waze-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/waze-mobility-data-malaysia.csv)  
-
-TomTom Traffic Data (Kuala Lumpur): [tomtom-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/tomtom-mobility-data-malaysia.csv)  
+### Raw Data (Updated whenever the sources refresh)
+- MOH Malaysia COVID-19 Daily Cases & MySejahtera Check-Ins Data: [moh-covid-data.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/moh-covid-data.csv)  
+- Google Mobility Data (Malaysia): [google-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/google-mobility-data-malaysia.csv)  
+- Apple Mobility Data (Malaysia): [apple-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/apple-mobility-data-malaysia.csv)  
+- Waze Traffic Data (various cities in Malaysia): [waze-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/waze-mobility-data-malaysia.csv)  
+- TomTom Traffic Data (Kuala Lumpur): [tomtom-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/tomtom-mobility-data-malaysia.csv)  
 
 All columns should be self-explanatory. Please check the respective sources below for more information.
 
@@ -38,4 +32,4 @@ All columns should be self-explanatory. Please check the respective sources belo
 Also, checkout the terms and conditions if you wish to download, copy or use the data by [MOH Malaysia](https://github.com/MoH-Malaysia/covid19-public), [Google](https://www.google.com/covid19/mobility/), [Apple](https://www.apple.com/covid19/mobility), [Waze](https://www.waze.com/covid19) and [TomTom](https://www.tomtom.com/en_gb/traffic-index).
 
 ## Wish to contribute?
-Any reviews, suggestions and collaborations are warmly welcomed through pull requests, issues or direct email(check dashboard link above).
+Any reviews, suggestions and collaborations are warmly welcomed through pull requests, issues or direct email (check dashboard link above).
