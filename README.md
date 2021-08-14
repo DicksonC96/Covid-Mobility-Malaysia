@@ -12,16 +12,16 @@ With the data scraped daily by [ActiveConclusion](https://github.com/ActiveConcl
 ### Scripts
 - Python script to pull and filter all the data from sources: [script-compiled.py](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/script-compiled.py)  
 Description of each python lines were included in the script as comment-out.  
-Data processing script of single dataset are also available in [Jupyter notebook format](https://github.com/DicksonC96/Covid-Mobility-Malaysia/tree/master/notebooks) to generate selected dataset of your choice.  
+Data processing scripts for respective dataset are also available in [Jupyter notebook format](https://github.com/DicksonC96/Covid-Mobility-Malaysia/tree/master/notebooks) to generate selected dataset of your choice.  
 - YAML script to set-up GitHub Actions workflow for hourly data updates: [.github/workflows/data-updater.yml](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/.github/workflows/data-updater.yml)  
 - Bash script to automate the regular data updates using linux machine: [data-updater.sh](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/data-updater.sh)  
 
 ### Raw Data (Updated whenever the sources refresh)
-- MOH Malaysia COVID-19 Daily Cases & MySejahtera Check-Ins Data: [moh-covid-data.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/moh-covid-data.csv)  
-- Google Mobility Data (Malaysia): [google-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/google-mobility-data-malaysia.csv)  
-- Apple Mobility Data (Malaysia): [apple-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/apple-mobility-data-malaysia.csv)  
-- Waze Traffic Data (various cities in Malaysia): [waze-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/waze-mobility-data-malaysia.csv)  
-- TomTom Traffic Data (Kuala Lumpur): [tomtom-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/tomtom-mobility-data-malaysia.csv)  
+- MOH Malaysia COVID-19 Daily Cases & MySejahtera Check-Ins Dataset: [moh-covid-data.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/moh-covid-data.csv)  
+- Google Mobility Dataset (Malaysia): [google-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/google-mobility-data-malaysia.csv)  
+- Apple Mobility Dataset (Malaysia): [apple-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/apple-mobility-data-malaysia.csv)  
+- Waze Traffic Dataset (various cities in Malaysia): [waze-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/waze-mobility-data-malaysia.csv)  
+- TomTom Traffic Dataset (Kuala Lumpur): [tomtom-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/tomtom-mobility-data-malaysia.csv)  
 
 All columns should be self-explanatory. Please check the respective sources below for more information.
 
