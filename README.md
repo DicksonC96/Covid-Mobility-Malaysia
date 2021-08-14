@@ -1,4 +1,4 @@
-# Covid-Mobility-Malaysia
+# Interactive COVID-19-Mobility Dashboard in Malaysia (updated daily)
 A daily auto-updating interactive dashboard project to visualize the impact of community's mobility to daily new COVID-19 cases  
 by leveraging the data from MOH Malaysia, Google, Apple, Waze and TonTon.  
 Visit dashboard at https://datastudio.google.com/reporting/54616e0e-19c9-4097-bca7-22d2fa9e7541  
@@ -10,7 +10,9 @@ With the data scraped daily by [ActiveConclusion](https://github.com/ActiveConcl
 
 ## File description
 ### Scripts
-Python script to pull and filter the data from sources: [script-compiled.py](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/script-compiled.py)  
+Python script to pull and filter all the data from sources: [script-compiled.py](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/script-compiled.py)  
+Description of each python lines were included in the script as comment-out.  
+Data processing script of single dataset are also available in [Jupyter notebook format](https://github.com/DicksonC96/Covid-Mobility-Malaysia/tree/master/notebooks) to generate selected dataset of your choice.  
 
 YAML script to set-up GitHub Actions workflow for hourly data updates: [.github/workflows/data-updater.yml](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/.github/workflows/data-updater.yml)  
 
@@ -27,3 +29,13 @@ Waze Traffic Data (various cities in Malaysia): [waze-mobility-data-malaysia.csv
 
 TomTom Traffic Data (Kuala Lumpur): [tomtom-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/tomtom-mobility-data-malaysia.csv)  
 
+All columns should be self-explanatory. Please check the respective sources below for more information.
+
+## Data Sources
+1. Mobility data scraped from Google, Apple, Waze and TomTom by [ActiveConclusion](https://github.com/ActiveConclusion/COVID19_mobility)  
+2. Daily new NOVID-19 cases and MySejahtera Check-Ins data by [MOH Malaysia](https://github.com/MoH-Malaysia/covid19-public)  
+
+Also, checkout the terms and conditions if you wish to download, copy or use the data by [MOH Malaysia](https://github.com/MoH-Malaysia/covid19-public), [Google](https://www.google.com/covid19/mobility/), [Apple](https://www.apple.com/covid19/mobility), [Waze](https://www.waze.com/covid19) and [TomTom](https://www.tomtom.com/en_gb/traffic-index).
+
+## Wish to contribute?
+Any reviews, suggestions and collaborations are warmly welcomed through pull requests, issues or direct email(check dashboard link above).
