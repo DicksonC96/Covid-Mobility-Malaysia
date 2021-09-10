@@ -125,7 +125,7 @@ print("MOH cases data exported. Elapsed time: "+str(time.time()-start)+'\n', flu
 '''
 # Skip country cases data
 statecase.to_csv("./data/moh-cases.csv", index=False)
-print("MOH cases data exported. Elapsed time: "+str(time.time()-start)+'\n', flush = True)
+print("MOH cases data exported. Elapsed time: "+str(time.time()-start), flush = True)
 
 ### MOH MySejahtera Check-Ins Data ========================================================================
 # Read state checkin data
