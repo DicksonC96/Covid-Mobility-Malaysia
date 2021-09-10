@@ -139,5 +139,5 @@ checkinmy['state'] = 'Malaysia'
 checkindata = pd.concat([checkinstate, checkinmy])
 
 # Export csv
-checkindata.to_csv("../data/mysjh-checkins.csv", index=False)
+checkindata.to_csv("./data/mysjh-checkins.csv", index=False)
 print("MySejahtera Check-Ins data exported. Elapsed time: "+str(time.time()-start)+'\n', flush = True)
