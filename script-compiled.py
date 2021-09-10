@@ -12,12 +12,13 @@ now = datetime.datetime.now()
 print('['+str(now)+']')
 
 start = time.time()
+
 ### Google Mobility Data ### ========================================================================
 # Read google data
 google = pd.read_csv("https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/google_reports/mobility_report_asia_africa.csv")
 
 # Filter to rows containing "Malaysia" country, removing 'Total' values
-malaysia = google.loc[(google['country']=="Malaysia") & (google['sub region 1']!="Total")]
+malaysia = google.loc[(google['country']=="Malaysia")]
 
 # Select useful/ relevant columns
 googledata = malaysia[['date', 'sub region 1', 'retail and recreation', 'grocery and pharmacy', 'parks', 'transit stations', 'workplaces', 'residential']]
@@ -29,12 +30,14 @@ googledata.rename(columns={'sub region 1':'state'}, inplace=True)
 googledata.loc[googledata['state']=='Federal Territory of Kuala Lumpur', 'state'] = 'Kuala Lumpur'
 googledata.loc[googledata['state']=='Labuan Federal Territory', 'state'] = 'Labuan'
 googledata.loc[googledata['state']=='Malacca', 'state'] = 'Melaka'
+googledata.loc[googledata['state']=='Total', 'state'] = 'Malaysia'
 
 # Export csv
 googledata.to_csv("./data/google-mobility-data-malaysia.csv", index=False)
 print("Google data exported. Elapsed time: "+str(time.time()-start), flush = True)
 
 start = time.time()
+
 ### Apple Mobility Data ### ========================================================================
 # Read apple data
 apple = pd.read_csv("https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/apple_reports/apple_mobility_report.csv")
@@ -51,6 +54,7 @@ appledata.to_csv("./data/apple-mobility-data-malaysia.csv", index=False)
 print("Apple data exported. Elapsed time: "+str(time.time()-start), flush = True)
 
 start = time.time()
+
 ### Waze Traffic Data ### ========================================================================
 # Read waze data
 waze = pd.read_csv("https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/waze_reports/waze_mobility.csv")
@@ -74,6 +78,7 @@ wazedata.to_csv("./data/waze-mobility-data-malaysia.csv", index=False)
 print("Waze data exported. Elapsed time: "+str(time.time()-start), flush = True)
 
 start = time.time()
+
 ### TomTom Traffic Data ========================================================================
 # Read tomtom data
 tomtom = pd.read_csv("https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/tomtom_reports/tomtom_trafic_index.csv")
@@ -97,34 +102,42 @@ tomtomdata.to_csv("./data/tomtom-mobility-data-malaysia.csv", index=False)
 print("TomTom data exported. Elapsed time: "+str(time.time()-start), flush = True)
 
 start = time.time()
-### MOH COVID-19 Data ========================================================================
-# Read cases data
-casesdata = pd.read_csv("https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/cases_state.csv")
+
+### MOH COVID-19 Cases Data ========================================================================
+# Read state cases data
+statecase = pd.read_csv("https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/cases_state.csv")
 
 # Clean up "state" data
-casesdata['state'].replace({"W.P. ":""}, regex=True, inplace=True)
-casesdata.loc[casesdata['state']=='Pulau Pinang', 'state'] = 'Penang'
+statecase['state'].replace({"W.P. ":""}, regex=True, inplace=True)
+statecase.loc[statecase['state']=='Pulau Pinang', 'state'] = 'Penang'
 
-### MOH MySejahtera Check-Ins Data
-# read checkin data
-checkindata = pd.read_csv("https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/mysejahtera/checkin_state.csv")
+# Add country cases data
+mycase = pd.read_csv("https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/cases_malaysia.csv")
+mycase = mycase[['date', 'cases_new', 'cases_import', 'cases_recovered']]
+mycase['state'] = 'Malaysia'
+
+# Concat state and country data
+mohcases = pd.concat([statecase, mycase])
+mohcases.to_csv("./data/moh-cases.csv", index=False)
+print("MOH cases data exported. Elapsed time: "+str(time.time()-start)+'\n', flush = True)
+
+### MOH MySejahtera Check-Ins Data ========================================================================
+# Read state checkin data
+checkinstate = pd.read_csv("https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/mysejahtera/checkin_state.csv")
 
 # Clean up "state" data
-checkindata['state'].replace({"W.P. ":""}, regex=True, inplace=True)
-checkindata.loc[checkindata['state']=='Pulau Pinang', 'state'] = 'Penang'
-checkindata.loc[checkindata['state']=='KualaLumpur', 'state'] = 'Kuala Lumpur'
+checkinstate['state'].replace({"W.P. ":""}, regex=True, inplace=True)
+checkinstate.loc[checkinstate['state']=='Pulau Pinang', 'state'] = 'Penang'
+checkinstate.loc[checkinstate['state']=='KualaLumpur', 'state'] = 'Kuala Lumpur'
 
-# Normalize checkins, unique_ind and unique_loc data
-for col in ['checkins', 'unique_ind', 'unique_loc']:
-    mean_val = checkindata.loc[checkindata["date"].str.contains("2020-12-"), col].mean()
-    checkindata[col+"-norm"] = checkindata[col] - mean_val
-    min_val = checkindata[col].min()
-    max_val = checkindata[col].max()
-    checkindata[col+"-norm"] = ((checkindata[col+"-norm"] - min_val)/ (max_val - min_val) - 0.5) * 200
+# Add country checkin data
+checkinmy = pd.read_csv("https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/mysejahtera/checkin_malaysia.csv")
+print(checkinmy.columns)
+checkinmy['state'] = 'Malaysia'
 
-# Merge cases data with checkins data
-mohdata = pd.merge(casesdata, checkindata, on=['date', 'state'], how='outer')
+# Concat state and country data
+checkindata = pd.concat([checkinstate, checkinmy])
 
 # Export csv
-mohdata.to_csv("./data/moh-covid-data.csv", index=False)
-print("MOH data exported. Elapsed time: "+str(time.time()-start)+'\n', flush = True)
+checkindata.to_csv("../data/mysjh-checkins.csv", index=False)
+print("MySejahtera Check-Ins data exported. Elapsed time: "+str(time.time()-start)+'\n', flush = True)
