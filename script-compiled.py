@@ -132,7 +132,6 @@ checkinstate.loc[checkinstate['state']=='KualaLumpur', 'state'] = 'Kuala Lumpur'
 
 # Add country checkin data
 checkinmy = pd.read_csv("https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/mysejahtera/checkin_malaysia.csv")
-print(checkinmy.columns)
 checkinmy['state'] = 'Malaysia'
 
 # Concat state and country data
