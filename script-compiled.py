@@ -127,6 +127,18 @@ print("MOH cases data exported. Elapsed time: "+str(time.time()-start)+'\n', flu
 statecase.to_csv("./data/moh-cases.csv", index=False)
 print("MOH cases data exported. Elapsed time: "+str(time.time()-start), flush = True)
 
+### MOH COVID-19 Deaths Data ========================================================================
+# Read state deaths data
+statedeath = pd.read_csv("https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/deaths_state.csv")
+
+# Clean up "state" data
+statedeath['state'].replace({"W.P. ":""}, regex=True, inplace=True)
+statedeath.loc[statedeath['state']=='Pulau Pinang', 'state'] = 'Penang'
+
+# Skip country, export statedeaths data
+statedeath.to_csv("./data/moh-deaths.csv", index=False)
+print("MOH deaths data exported. Elapsed time: "+str(time.time()-start), flush = True)
+
 ### MOH MySejahtera Check-Ins Data ========================================================================
 # Read state checkin data
 checkinstate = pd.read_csv("https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/mysejahtera/checkin_state.csv")
