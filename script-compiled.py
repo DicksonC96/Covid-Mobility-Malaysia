@@ -131,6 +131,9 @@ print("MOH cases data exported. Elapsed time: "+str(time.time()-start), flush = 
 # Read state deaths data
 statedeath = pd.read_csv("https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/deaths_state.csv")
 
+# Remove null columns
+statedeath.drop(columns=['deaths_new_dod', 'deaths_bid_dod'], axis=1, inplace=True)
+
 # Clean up "state" data
 statedeath['state'].replace({"W.P. ":""}, regex=True, inplace=True)
 statedeath.loc[statedeath['state']=='Pulau Pinang', 'state'] = 'Penang'
