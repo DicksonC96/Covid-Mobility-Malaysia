@@ -3,11 +3,11 @@ Interactive dashboard project to visualize the impact of community's mobility to
 by leveraging the data from MOH Malaysia, Google, Apple, Waze and TonTon.  
 
 ## Dashboards
-Daily auto-updating Data Studio dashboard: https://datastudio.google.com/reporting/54616e0e-19c9-4097-bca7-22d2fa9e7541  
-<img src="https://user-images.githubusercontent.com/66625723/133224791-a8d74ede-1ea8-49dc-a9a3-3deed32c797d.png" height="300">  
-  
 Tableau dashboard: https://public.tableau.com/views/COVID-19MobilityDashboard/MobilityTrends  
 <img src="https://user-images.githubusercontent.com/66625723/133225130-1f839c61-7c67-4b68-ba8c-ddfbd45e8fb2.png" height="300">  
+  
+Daily auto-updating Data Studio dashboard: https://datastudio.google.com/reporting/54616e0e-19c9-4097-bca7-22d2fa9e7541  
+<img src="https://user-images.githubusercontent.com/66625723/133224791-a8d74ede-1ea8-49dc-a9a3-3deed32c797d.png" height="300">  
 
 ## Project description
 This project aims to gain an insight into the trends of mobility within Malaysian community, and its effects on the current emergence of novel COVID-19 pandemic. The generous dataset provided by various platform, eg. MOH Malaysia, Google, Apple, Waze and TonTon, allow the leverage of big dataset of Malaysia in establishing assocation between Malaysian's mobility trends with the daily COVID-19 cases.  
