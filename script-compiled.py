@@ -127,6 +127,8 @@ print("MOH cases data exported. Elapsed time: "+str(time.time()-start)+'\n', flu
 statecase.to_csv("./data/moh-cases.csv", index=False)
 print("MOH cases data exported. Elapsed time: "+str(time.time()-start), flush = True)
 
+start = time.time()
+
 ### MOH COVID-19 Deaths Data ========================================================================
 # Read state deaths data
 statedeath = pd.read_csv("https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/deaths_state.csv")
@@ -141,6 +143,8 @@ statedeath.loc[statedeath['state']=='Pulau Pinang', 'state'] = 'Penang'
 # Skip country, export statedeaths data
 statedeath.to_csv("./data/moh-deaths.csv", index=False)
 print("MOH deaths data exported. Elapsed time: "+str(time.time()-start), flush = True)
+
+start = time.time()
 
 ### MOH MySejahtera Check-Ins Data ========================================================================
 # Read state checkin data
@@ -165,4 +169,18 @@ print("MySejahtera Check-Ins data exported. Elapsed time: "+str(time.time()-star
 '''
 # Skip country checkin data
 checkinstate.to_csv("./data/mysjh-checkins.csv", index=False)
-print("MySejahtera Check-Ins data exported. Elapsed time: "+str(time.time()-start)+'\n', flush = True)
+print("MySejahtera Check-Ins data exported. Elapsed time: "+str(time.time()-start), flush = True)
+
+start = time.time()
+
+### MOH MySejahtera Check-Ins Data ========================================================================
+# Read state checkin data
+testdata = pd.read_csv("https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/tests_state.csv")
+
+# Clean up "state" data
+testdata['state'].replace({"W.P. ":""}, regex=True, inplace=True)
+testdata.loc[testdata['state']=='Pulau Pinang', 'state'] = 'Penang'
+
+# Export clean dataset
+testdata.to_csv("./data/moh-tests.csv", index=False)
+print("COVID-19 testing data exported. Elapsed time: "+str(time.time()-start)+'\n', flush = True)
