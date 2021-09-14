@@ -1,7 +1,8 @@
 # Interactive COVID-19-Mobility Dashboard in Malaysia (updated daily)
-A daily auto-updating interactive dashboard project to visualize the impact of community's mobility to daily new COVID-19 cases  
+Interactive dashboard project to visualize the impact of community's mobility to daily new COVID-19 cases  
 by leveraging the data from MOH Malaysia, Google, Apple, Waze and TonTon.  
-Visit dashboard at https://datastudio.google.com/reporting/54616e0e-19c9-4097-bca7-22d2fa9e7541  
+Daily auto-updating Data Studio dashboard: https://datastudio.google.com/reporting/54616e0e-19c9-4097-bca7-22d2fa9e7541  
+Tableau dashboard: https://public.tableau.com/views/COVID-19MobilityDashboard/MobilityTrends  
 
 ## Project description
 This project aims to gain an insight into the trends of mobility within Malaysian community, and its effects on the current emergence of novel COVID-19 pandemic. The generous dataset provided by various platform, eg. MOH Malaysia, Google, Apple, Waze and TonTon, allow the leverage of big dataset of Malaysia in establishing assocation between Malaysian's mobility trends with the daily COVID-19 cases.  
@@ -17,7 +18,11 @@ Data processing scripts for respective dataset are also available in [Jupyter no
 - Bash script to automate the regular data updates using linux machine: [data-updater.sh](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/data-updater.sh)  
 
 ### Raw Data (Updated whenever the sources refresh)
-- MOH Malaysia COVID-19 Daily Cases & MySejahtera Check-Ins Dataset: [moh-covid-data.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/moh-covid-data.csv)  
+- MOH Malaysia COVID-19 Daily Cases: [moh-cases.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/moh-cases.csv)  
+- MOH Malaysia COVID-19 Daily Tests: [moh-tests.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/moh-tests.csv)  
+- MOH Malaysia COVID-19 Daily Deaths: [moh-deaths.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/moh-deaths.csv)  
+- MOH Malaysia State Population Dataset: [static-population.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/static-population.csv.csv)  
+- MOH Malaysia MySejahtera Check-Ins Dataset: [mysjh-checkins.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/mysjh-checkins.csv)  
 - Google Mobility Dataset (Malaysia): [google-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/google-mobility-data-malaysia.csv)  
 - Apple Mobility Dataset (Malaysia): [apple-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/apple-mobility-data-malaysia.csv)  
 - Waze Traffic Dataset (various cities in Malaysia): [waze-mobility-data-malaysia.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/waze-mobility-data-malaysia.csv)  
