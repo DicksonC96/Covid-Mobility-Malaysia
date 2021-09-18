@@ -7946,9 +7946,9 @@ date,state,deaths_new,deaths_bid
 2021-07-26,Penang,3,3
 2021-07-26,Sabah,6,2
 2021-07-26,Sarawak,0,0
-2021-07-26,Selangor,57,1
+2021-07-26,Selangor,58,2
 2021-07-26,Terengganu,2,0
-2021-07-26,Kuala Lumpur,52,2
+2021-07-26,Kuala Lumpur,51,1
 2021-07-26,Labuan,0,0
 2021-07-26,Putrajaya,0,0
 2021-07-27,Johor,21,0
@@ -8154,9 +8154,9 @@ date,state,deaths_new,deaths_bid
 2021-08-08,Penang,15,3
 2021-08-08,Sabah,5,2
 2021-08-08,Sarawak,0,0
-2021-08-08,Selangor,222,67
+2021-08-08,Selangor,223,68
 2021-08-08,Terengganu,5,1
-2021-08-08,Kuala Lumpur,41,7
+2021-08-08,Kuala Lumpur,40,6
 2021-08-08,Labuan,0,0
 2021-08-08,Putrajaya,2,0
 2021-08-09,Johor,24,1
@@ -8282,9 +8282,9 @@ date,state,deaths_new,deaths_bid
 2021-08-16,Penang,19,5
 2021-08-16,Sabah,15,5
 2021-08-16,Sarawak,5,1
-2021-08-16,Selangor,101,26
+2021-08-16,Selangor,104,29
 2021-08-16,Terengganu,3,0
-2021-08-16,Kuala Lumpur,38,33
+2021-08-16,Kuala Lumpur,35,30
 2021-08-16,Labuan,0,0
 2021-08-16,Putrajaya,0,0
 2021-08-17,Johor,41,7
@@ -8458,7 +8458,7 @@ date,state,deaths_new,deaths_bid
 2021-08-27,Penang,38,10
 2021-08-27,Sabah,41,17
 2021-08-27,Sarawak,3,1
-2021-08-27,Selangor,103,16
+2021-08-27,Selangor,104,16
 2021-08-27,Terengganu,5,1
 2021-08-27,Kuala Lumpur,39,33
 2021-08-27,Labuan,0,0
@@ -8474,7 +8474,7 @@ date,state,deaths_new,deaths_bid
 2021-08-28,Penang,17,4
 2021-08-28,Sabah,17,2
 2021-08-28,Sarawak,5,0
-2021-08-28,Selangor,92,13
+2021-08-28,Selangor,91,13
 2021-08-28,Terengganu,0,0
 2021-08-28,Kuala Lumpur,26,4
 2021-08-28,Labuan,0,0
@@ -8642,7 +8642,7 @@ date,state,deaths_new,deaths_bid
 2021-09-08,Johor,65,18
 2021-09-08,Kedah,52,11
 2021-09-08,Kelantan,17,6
-2021-09-08,Melaka,8,2
+2021-09-08,Melaka,9,2
 2021-09-08,Negeri Sembilan,29,0
 2021-09-08,Pahang,4,0
 2021-09-08,Perak,6,0
@@ -8650,15 +8650,15 @@ date,state,deaths_new,deaths_bid
 2021-09-08,Penang,5,4
 2021-09-08,Sabah,54,26
 2021-09-08,Sarawak,10,2
-2021-09-08,Selangor,67,17
+2021-09-08,Selangor,69,19
 2021-09-08,Terengganu,9,0
-2021-09-08,Kuala Lumpur,34,16
+2021-09-08,Kuala Lumpur,32,14
 2021-09-08,Labuan,0,0
 2021-09-08,Putrajaya,0,0
 2021-09-09,Johor,49,6
 2021-09-09,Kedah,44,0
 2021-09-09,Kelantan,11,1
-2021-09-09,Melaka,17,2
+2021-09-09,Melaka,16,2
 2021-09-09,Negeri Sembilan,10,5
 2021-09-09,Pahang,4,1
 2021-09-09,Perak,5,3
@@ -8666,9 +8666,9 @@ date,state,deaths_new,deaths_bid
 2021-09-09,Penang,47,11
 2021-09-09,Sabah,22,9
 2021-09-09,Sarawak,9,2
-2021-09-09,Selangor,71,2
+2021-09-09,Selangor,73,4
 2021-09-09,Terengganu,5,1
-2021-09-09,Kuala Lumpur,27,12
+2021-09-09,Kuala Lumpur,25,10
 2021-09-09,Labuan,0,0
 2021-09-09,Putrajaya,0,0
 2021-09-10,Johor,28,4
@@ -8799,3 +8799,19 @@ date,state,deaths_new,deaths_bid
 2021-09-17,Kuala Lumpur,12,3
 2021-09-17,Labuan,0,0
 2021-09-17,Putrajaya,0,0
+2021-09-18,Johor,54,4
+2021-09-18,Kedah,24,3
+2021-09-18,Kelantan,12,3
+2021-09-18,Melaka,7,2
+2021-09-18,Negeri Sembilan,5,2
+2021-09-18,Pahang,5,0
+2021-09-18,Perak,15,2
+2021-09-18,Perlis,0,0
+2021-09-18,Penang,25,7
+2021-09-18,Sabah,13,5
+2021-09-18,Sarawak,11,6
+2021-09-18,Selangor,146,36
+2021-09-18,Terengganu,0,0
+2021-09-18,Kuala Lumpur,7,0
+2021-09-18,Labuan,0,0
+2021-09-18,Putrajaya,0,0
