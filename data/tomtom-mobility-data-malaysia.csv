@@ -636,4 +636,5 @@ date,city,congestion,diffRatio,state,congestion-norm
 2021-09-30,Kuala Lumpur,24,-0.2727272727272727,Kuala Lumpur,-5.453805453805451
 2021-10-01,Kuala Lumpur,28,-0.2631578947368421,Kuala Lumpur,0.8954008954008978
 2021-10-02,Kuala Lumpur,28,0.12,Kuala Lumpur,0.8954008954008978
-2021-10-03,Kuala Lumpur,18,0.5,Kuala Lumpur,-14.977614977614975
+2021-10-03,Kuala Lumpur,17,0.4166666666666667,Kuala Lumpur,-16.56491656491656
+2021-10-04,Kuala Lumpur,27,0.0,Kuala Lumpur,-0.6919006919006894
