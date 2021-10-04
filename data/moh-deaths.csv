@@ -3880,7 +3880,7 @@ date,state,deaths_new,deaths_bid,deaths_pvax,deaths_fvax,deaths_tat
 2020-11-14,Perak,0,0,0,0,0
 2020-11-14,Perlis,0,0,0,0,0
 2020-11-14,Penang,0,0,0,0,0
-2020-11-14,Sabah,2,1,0,0,-1
+2020-11-14,Sabah,2,1,0,0,2
 2020-11-14,Sarawak,0,0,0,0,0
 2020-11-14,Selangor,0,0,0,0,0
 2020-11-14,Terengganu,0,0,0,0,0
@@ -5489,7 +5489,7 @@ date,state,deaths_new,deaths_bid,deaths_pvax,deaths_fvax,deaths_tat
 2021-02-22,Putrajaya,0,0,0,0,0
 2021-02-23,Johor,1,0,0,0,18
 2021-02-23,Kedah,0,0,0,0,0
-2021-02-23,Kelantan,1,0,0,0,-10
+2021-02-23,Kelantan,1,0,0,0,0
 2021-02-23,Melaka,0,0,0,0,0
 2021-02-23,Negeri Sembilan,0,0,0,0,0
 2021-02-23,Pahang,0,0,0,0,0
@@ -5497,7 +5497,7 @@ date,state,deaths_new,deaths_bid,deaths_pvax,deaths_fvax,deaths_tat
 2021-02-23,Perlis,0,0,0,0,0
 2021-02-23,Penang,0,0,0,0,0
 2021-02-23,Sabah,1,1,0,0,5
-2021-02-23,Sarawak,4,1,0,0,-11
+2021-02-23,Sarawak,4,1,0,0,0
 2021-02-23,Selangor,12,3,0,0,4
 2021-02-23,Terengganu,0,0,0,0,0
 2021-02-23,Kuala Lumpur,1,1,0,0,27
@@ -8282,7 +8282,7 @@ date,state,deaths_new,deaths_bid,deaths_pvax,deaths_fvax,deaths_tat
 2021-08-16,Penang,19,5,9,1,2
 2021-08-16,Sabah,15,5,4,5,3
 2021-08-16,Sarawak,5,1,1,0,3
-2021-08-16,Selangor,104,29,36,10,6
+2021-08-16,Selangor,104,29,37,10,6
 2021-08-16,Terengganu,3,0,0,0,0
 2021-08-16,Kuala Lumpur,35,30,7,1,17
 2021-08-16,Labuan,0,0,0,0,0
@@ -8502,7 +8502,7 @@ date,state,deaths_new,deaths_bid,deaths_pvax,deaths_fvax,deaths_tat
 2021-08-30,Negeri Sembilan,5,1,1,0,1
 2021-08-30,Pahang,7,1,4,0,1
 2021-08-30,Perak,12,0,1,1,2
-2021-08-30,Perlis,1,0,0,0,-1
+2021-08-30,Perlis,1,0,0,0,0
 2021-08-30,Penang,23,5,4,5,2
 2021-08-30,Sabah,42,12,4,1,6
 2021-08-30,Sarawak,5,0,1,3,1
@@ -8650,7 +8650,7 @@ date,state,deaths_new,deaths_bid,deaths_pvax,deaths_fvax,deaths_tat
 2021-09-08,Penang,5,4,2,5,4
 2021-09-08,Sabah,54,26,9,5,5
 2021-09-08,Sarawak,10,2,3,5,2
-2021-09-08,Selangor,69,19,13,12,25
+2021-09-08,Selangor,69,19,12,12,25
 2021-09-08,Terengganu,9,0,2,1,3
 2021-09-08,Kuala Lumpur,32,14,2,3,25
 2021-09-08,Labuan,0,0,0,0,0
@@ -8770,7 +8770,7 @@ date,state,deaths_new,deaths_bid,deaths_pvax,deaths_fvax,deaths_tat
 2021-09-16,Johor,59,14,13,15,4
 2021-09-16,Kedah,82,11,2,4,31
 2021-09-16,Kelantan,3,0,2,2,2
-2021-09-16,Melaka,4,1,2,0,1
+2021-09-16,Melaka,4,1,3,0,1
 2021-09-16,Negeri Sembilan,0,0,0,0,0
 2021-09-16,Pahang,0,0,1,2,0
 2021-09-16,Perak,3,0,1,4,4
@@ -8786,7 +8786,7 @@ date,state,deaths_new,deaths_bid,deaths_pvax,deaths_fvax,deaths_tat
 2021-09-17,Johor,76,10,17,11,2
 2021-09-17,Kedah,48,0,6,0,33
 2021-09-17,Kelantan,10,1,2,6,3
-2021-09-17,Melaka,0,0,2,1,0
+2021-09-17,Melaka,0,0,1,1,0
 2021-09-17,Negeri Sembilan,1,0,0,1,78
 2021-09-17,Pahang,12,0,0,1,2
 2021-09-17,Perak,7,3,2,2,2
