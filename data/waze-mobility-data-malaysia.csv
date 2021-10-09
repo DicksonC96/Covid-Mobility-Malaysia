@@ -154,6 +154,7 @@ date,city,driving_waze,state
 2020-07-31,Ipoh,30.0,Perak
 2020-08-01,Ipoh,19.0,Perak
 2020-08-02,Ipoh,67.0,Perak
+2020-08-03,Ipoh,101.0,Perak
 2020-08-04,Ipoh,0.0,Perak
 2020-08-05,Ipoh,-7.000000000000001,Perak
 2020-08-06,Ipoh,20.0,Perak
@@ -180,6 +181,7 @@ date,city,driving_waze,state
 2020-08-27,Ipoh,25.0,Perak
 2020-08-28,Ipoh,10.0,Perak
 2020-08-29,Ipoh,35.0,Perak
+2020-08-30,Ipoh,124.0,Perak
 2020-08-31,Ipoh,77.0,Perak
 2020-09-01,Ipoh,26.0,Perak
 2020-09-02,Ipoh,-31.0,Perak
@@ -295,11 +297,13 @@ date,city,driving_waze,state
 2020-12-21,Ipoh,29.0,Perak
 2020-12-22,Ipoh,11.0,Perak
 2020-12-23,Ipoh,39.0,Perak
+2020-12-24,Ipoh,112.0,Perak
 2020-12-25,Ipoh,34.0,Perak
 2020-12-26,Ipoh,12.0,Perak
 2020-12-27,Ipoh,53.0,Perak
 2020-12-28,Ipoh,48.0,Perak
 2020-12-29,Ipoh,75.0,Perak
+2020-12-30,Ipoh,128.0,Perak
 2020-12-31,Ipoh,96.0,Perak
 2021-01-01,Ipoh,25.0,Perak
 2021-01-02,Ipoh,10.0,Perak
@@ -499,6 +503,83 @@ date,city,driving_waze,state
 2021-07-18,Ipoh,-72.0,Perak
 2021-07-19,Ipoh,-42.0,Perak
 2021-07-20,Ipoh,-43.0,Perak
+2021-07-21,Ipoh,-48.0,Perak
+2021-07-22,Ipoh,-45.0,Perak
+2021-07-23,Ipoh,-51.0,Perak
+2021-07-24,Ipoh,-72.0,Perak
+2021-07-25,Ipoh,-41.0,Perak
+2021-07-26,Ipoh,-30.0,Perak
+2021-07-27,Ipoh,-56.00000000000001,Perak
+2021-07-28,Ipoh,-35.0,Perak
+2021-07-29,Ipoh,-66.0,Perak
+2021-07-30,Ipoh,-59.0,Perak
+2021-07-31,Ipoh,-71.0,Perak
+2021-08-01,Ipoh,-62.0,Perak
+2021-08-02,Ipoh,-59.0,Perak
+2021-08-03,Ipoh,-45.0,Perak
+2021-08-04,Ipoh,-56.00000000000001,Perak
+2021-08-05,Ipoh,-40.0,Perak
+2021-08-06,Ipoh,-54.0,Perak
+2021-08-07,Ipoh,-68.0,Perak
+2021-08-08,Ipoh,-82.0,Perak
+2021-08-09,Ipoh,-68.0,Perak
+2021-08-10,Ipoh,-76.0,Perak
+2021-08-11,Ipoh,-43.0,Perak
+2021-08-12,Ipoh,-38.0,Perak
+2021-08-13,Ipoh,-37.0,Perak
+2021-08-14,Ipoh,-63.0,Perak
+2021-08-15,Ipoh,-63.0,Perak
+2021-08-16,Ipoh,-71.0,Perak
+2021-08-17,Ipoh,-17.0,Perak
+2021-08-18,Ipoh,-45.0,Perak
+2021-08-19,Ipoh,-34.0,Perak
+2021-08-20,Ipoh,-59.0,Perak
+2021-08-21,Ipoh,-94.0,Perak
+2021-08-22,Ipoh,-57.99999999999999,Perak
+2021-08-23,Ipoh,-34.0,Perak
+2021-08-24,Ipoh,-33.0,Perak
+2021-08-25,Ipoh,-44.0,Perak
+2021-08-26,Ipoh,-16.0,Perak
+2021-08-27,Ipoh,-49.0,Perak
+2021-08-28,Ipoh,-77.0,Perak
+2021-08-29,Ipoh,-52.0,Perak
+2021-08-30,Ipoh,-20.0,Perak
+2021-08-31,Ipoh,-38.0,Perak
+2021-09-01,Ipoh,-41.0,Perak
+2021-09-02,Ipoh,-7.000000000000001,Perak
+2021-09-03,Ipoh,-55.00000000000001,Perak
+2021-09-04,Ipoh,-64.0,Perak
+2021-09-05,Ipoh,-42.0,Perak
+2021-09-06,Ipoh,-22.0,Perak
+2021-09-07,Ipoh,-33.0,Perak
+2021-09-08,Ipoh,-27.0,Perak
+2021-09-09,Ipoh,-25.0,Perak
+2021-09-10,Ipoh,-46.0,Perak
+2021-09-11,Ipoh,-50.0,Perak
+2021-09-12,Ipoh,-38.0,Perak
+2021-09-13,Ipoh,-19.0,Perak
+2021-09-14,Ipoh,-18.0,Perak
+2021-09-15,Ipoh,-15.0,Perak
+2021-09-16,Ipoh,-38.0,Perak
+2021-09-17,Ipoh,-43.0,Perak
+2021-09-18,Ipoh,-49.0,Perak
+2021-09-19,Ipoh,-56.99999999999999,Perak
+2021-09-20,Ipoh,-25.0,Perak
+2021-09-21,Ipoh,-19.0,Perak
+2021-09-22,Ipoh,-24.0,Perak
+2021-09-23,Ipoh,-42.0,Perak
+2021-09-24,Ipoh,-44.0,Perak
+2021-09-25,Ipoh,-50.0,Perak
+2021-09-26,Ipoh,-34.0,Perak
+2021-09-27,Ipoh,-19.0,Perak
+2021-09-28,Ipoh,-10.0,Perak
+2021-09-29,Ipoh,-21.0,Perak
+2021-09-30,Ipoh,-41.0,Perak
+2021-10-01,Ipoh,-29.0,Perak
+2021-10-02,Ipoh,-44.0,Perak
+2021-10-03,Ipoh,-24.0,Perak
+2021-10-04,Ipoh,-25.0,Perak
+2021-10-05,Ipoh,-12.0,Perak
 2020-03-01,Johor Bahru,11.0,Johor
 2020-03-02,Johor Bahru,6.0,Johor
 2020-03-03,Johor Bahru,5.0,Johor
@@ -1005,6 +1086,83 @@ date,city,driving_waze,state
 2021-07-18,Johor Bahru,-56.99999999999999,Johor
 2021-07-19,Johor Bahru,-40.0,Johor
 2021-07-20,Johor Bahru,-54.0,Johor
+2021-07-21,Johor Bahru,-41.0,Johor
+2021-07-22,Johor Bahru,-45.0,Johor
+2021-07-23,Johor Bahru,-50.0,Johor
+2021-07-24,Johor Bahru,-57.99999999999999,Johor
+2021-07-25,Johor Bahru,-55.00000000000001,Johor
+2021-07-26,Johor Bahru,-45.0,Johor
+2021-07-27,Johor Bahru,-44.0,Johor
+2021-07-28,Johor Bahru,-46.0,Johor
+2021-07-29,Johor Bahru,-46.0,Johor
+2021-07-30,Johor Bahru,-49.0,Johor
+2021-07-31,Johor Bahru,-52.0,Johor
+2021-08-01,Johor Bahru,-48.0,Johor
+2021-08-02,Johor Bahru,-38.0,Johor
+2021-08-03,Johor Bahru,-44.0,Johor
+2021-08-04,Johor Bahru,-39.0,Johor
+2021-08-05,Johor Bahru,-45.0,Johor
+2021-08-06,Johor Bahru,-53.0,Johor
+2021-08-07,Johor Bahru,-60.0,Johor
+2021-08-08,Johor Bahru,-63.0,Johor
+2021-08-09,Johor Bahru,-44.0,Johor
+2021-08-10,Johor Bahru,-50.0,Johor
+2021-08-11,Johor Bahru,-35.0,Johor
+2021-08-12,Johor Bahru,-45.0,Johor
+2021-08-13,Johor Bahru,-46.0,Johor
+2021-08-14,Johor Bahru,-51.0,Johor
+2021-08-15,Johor Bahru,-56.00000000000001,Johor
+2021-08-16,Johor Bahru,-44.0,Johor
+2021-08-17,Johor Bahru,-43.0,Johor
+2021-08-18,Johor Bahru,-45.0,Johor
+2021-08-19,Johor Bahru,-43.0,Johor
+2021-08-20,Johor Bahru,-53.0,Johor
+2021-08-21,Johor Bahru,-59.0,Johor
+2021-08-22,Johor Bahru,-51.0,Johor
+2021-08-23,Johor Bahru,-40.0,Johor
+2021-08-24,Johor Bahru,-41.0,Johor
+2021-08-25,Johor Bahru,-30.0,Johor
+2021-08-26,Johor Bahru,-43.0,Johor
+2021-08-27,Johor Bahru,-52.0,Johor
+2021-08-28,Johor Bahru,-54.0,Johor
+2021-08-29,Johor Bahru,-55.00000000000001,Johor
+2021-08-30,Johor Bahru,-36.0,Johor
+2021-08-31,Johor Bahru,-46.0,Johor
+2021-09-01,Johor Bahru,-37.0,Johor
+2021-09-02,Johor Bahru,-43.0,Johor
+2021-09-03,Johor Bahru,-44.0,Johor
+2021-09-04,Johor Bahru,-53.0,Johor
+2021-09-05,Johor Bahru,-46.0,Johor
+2021-09-06,Johor Bahru,-35.0,Johor
+2021-09-07,Johor Bahru,-33.0,Johor
+2021-09-08,Johor Bahru,-32.0,Johor
+2021-09-09,Johor Bahru,-36.0,Johor
+2021-09-10,Johor Bahru,-45.0,Johor
+2021-09-11,Johor Bahru,-44.0,Johor
+2021-09-12,Johor Bahru,-42.0,Johor
+2021-09-13,Johor Bahru,-44.0,Johor
+2021-09-14,Johor Bahru,-34.0,Johor
+2021-09-15,Johor Bahru,-31.0,Johor
+2021-09-16,Johor Bahru,-41.0,Johor
+2021-09-17,Johor Bahru,-43.0,Johor
+2021-09-18,Johor Bahru,-48.0,Johor
+2021-09-19,Johor Bahru,-46.0,Johor
+2021-09-20,Johor Bahru,-28.000000000000004,Johor
+2021-09-21,Johor Bahru,-30.0,Johor
+2021-09-22,Johor Bahru,-33.0,Johor
+2021-09-23,Johor Bahru,-44.0,Johor
+2021-09-24,Johor Bahru,-42.0,Johor
+2021-09-25,Johor Bahru,-46.0,Johor
+2021-09-26,Johor Bahru,-36.0,Johor
+2021-09-27,Johor Bahru,-28.000000000000004,Johor
+2021-09-28,Johor Bahru,-33.0,Johor
+2021-09-29,Johor Bahru,-30.0,Johor
+2021-09-30,Johor Bahru,-24.0,Johor
+2021-10-01,Johor Bahru,-36.0,Johor
+2021-10-02,Johor Bahru,-38.0,Johor
+2021-10-03,Johor Bahru,-32.0,Johor
+2021-10-04,Johor Bahru,-27.0,Johor
+2021-10-05,Johor Bahru,-23.0,Johor
 2020-03-01,Kuala Lumpur,7.000000000000001,Kuala Lumpur
 2020-03-02,Kuala Lumpur,2.0,Kuala Lumpur
 2020-03-03,Kuala Lumpur,0.0,Kuala Lumpur
@@ -1511,6 +1669,83 @@ date,city,driving_waze,state
 2021-07-18,Kuala Lumpur,-57.99999999999999,Kuala Lumpur
 2021-07-19,Kuala Lumpur,-44.0,Kuala Lumpur
 2021-07-20,Kuala Lumpur,-60.0,Kuala Lumpur
+2021-07-21,Kuala Lumpur,-50.0,Kuala Lumpur
+2021-07-22,Kuala Lumpur,-50.0,Kuala Lumpur
+2021-07-23,Kuala Lumpur,-54.0,Kuala Lumpur
+2021-07-24,Kuala Lumpur,-57.99999999999999,Kuala Lumpur
+2021-07-25,Kuala Lumpur,-56.99999999999999,Kuala Lumpur
+2021-07-26,Kuala Lumpur,-47.0,Kuala Lumpur
+2021-07-27,Kuala Lumpur,-47.0,Kuala Lumpur
+2021-07-28,Kuala Lumpur,-50.0,Kuala Lumpur
+2021-07-29,Kuala Lumpur,-49.0,Kuala Lumpur
+2021-07-30,Kuala Lumpur,-53.0,Kuala Lumpur
+2021-07-31,Kuala Lumpur,-55.00000000000001,Kuala Lumpur
+2021-08-01,Kuala Lumpur,-56.00000000000001,Kuala Lumpur
+2021-08-02,Kuala Lumpur,-50.0,Kuala Lumpur
+2021-08-03,Kuala Lumpur,-53.0,Kuala Lumpur
+2021-08-04,Kuala Lumpur,-53.0,Kuala Lumpur
+2021-08-05,Kuala Lumpur,-55.00000000000001,Kuala Lumpur
+2021-08-06,Kuala Lumpur,-57.99999999999999,Kuala Lumpur
+2021-08-07,Kuala Lumpur,-60.0,Kuala Lumpur
+2021-08-08,Kuala Lumpur,-63.0,Kuala Lumpur
+2021-08-09,Kuala Lumpur,-49.0,Kuala Lumpur
+2021-08-10,Kuala Lumpur,-61.0,Kuala Lumpur
+2021-08-11,Kuala Lumpur,-53.0,Kuala Lumpur
+2021-08-12,Kuala Lumpur,-55.00000000000001,Kuala Lumpur
+2021-08-13,Kuala Lumpur,-56.99999999999999,Kuala Lumpur
+2021-08-14,Kuala Lumpur,-57.99999999999999,Kuala Lumpur
+2021-08-15,Kuala Lumpur,-62.0,Kuala Lumpur
+2021-08-16,Kuala Lumpur,-49.0,Kuala Lumpur
+2021-08-17,Kuala Lumpur,-48.0,Kuala Lumpur
+2021-08-18,Kuala Lumpur,-50.0,Kuala Lumpur
+2021-08-19,Kuala Lumpur,-50.0,Kuala Lumpur
+2021-08-20,Kuala Lumpur,-54.0,Kuala Lumpur
+2021-08-21,Kuala Lumpur,-48.0,Kuala Lumpur
+2021-08-22,Kuala Lumpur,-55.00000000000001,Kuala Lumpur
+2021-08-23,Kuala Lumpur,-47.0,Kuala Lumpur
+2021-08-24,Kuala Lumpur,-48.0,Kuala Lumpur
+2021-08-25,Kuala Lumpur,-49.0,Kuala Lumpur
+2021-08-26,Kuala Lumpur,-50.0,Kuala Lumpur
+2021-08-27,Kuala Lumpur,-51.0,Kuala Lumpur
+2021-08-28,Kuala Lumpur,-51.0,Kuala Lumpur
+2021-08-29,Kuala Lumpur,-54.0,Kuala Lumpur
+2021-08-30,Kuala Lumpur,-38.0,Kuala Lumpur
+2021-08-31,Kuala Lumpur,-54.0,Kuala Lumpur
+2021-09-01,Kuala Lumpur,-41.0,Kuala Lumpur
+2021-09-02,Kuala Lumpur,-44.0,Kuala Lumpur
+2021-09-03,Kuala Lumpur,-46.0,Kuala Lumpur
+2021-09-04,Kuala Lumpur,-46.0,Kuala Lumpur
+2021-09-05,Kuala Lumpur,-49.0,Kuala Lumpur
+2021-09-06,Kuala Lumpur,-38.0,Kuala Lumpur
+2021-09-07,Kuala Lumpur,-38.0,Kuala Lumpur
+2021-09-08,Kuala Lumpur,-37.0,Kuala Lumpur
+2021-09-09,Kuala Lumpur,-41.0,Kuala Lumpur
+2021-09-10,Kuala Lumpur,-41.0,Kuala Lumpur
+2021-09-11,Kuala Lumpur,-36.0,Kuala Lumpur
+2021-09-12,Kuala Lumpur,-38.0,Kuala Lumpur
+2021-09-13,Kuala Lumpur,-32.0,Kuala Lumpur
+2021-09-14,Kuala Lumpur,-30.0,Kuala Lumpur
+2021-09-15,Kuala Lumpur,-29.0,Kuala Lumpur
+2021-09-16,Kuala Lumpur,-42.0,Kuala Lumpur
+2021-09-17,Kuala Lumpur,-38.0,Kuala Lumpur
+2021-09-18,Kuala Lumpur,-38.0,Kuala Lumpur
+2021-09-19,Kuala Lumpur,-37.0,Kuala Lumpur
+2021-09-20,Kuala Lumpur,-29.0,Kuala Lumpur
+2021-09-21,Kuala Lumpur,-31.0,Kuala Lumpur
+2021-09-22,Kuala Lumpur,-32.0,Kuala Lumpur
+2021-09-23,Kuala Lumpur,-33.0,Kuala Lumpur
+2021-09-24,Kuala Lumpur,-35.0,Kuala Lumpur
+2021-09-25,Kuala Lumpur,-26.0,Kuala Lumpur
+2021-09-26,Kuala Lumpur,-34.0,Kuala Lumpur
+2021-09-27,Kuala Lumpur,-25.0,Kuala Lumpur
+2021-09-28,Kuala Lumpur,-26.0,Kuala Lumpur
+2021-09-29,Kuala Lumpur,-28.000000000000004,Kuala Lumpur
+2021-09-30,Kuala Lumpur,-26.0,Kuala Lumpur
+2021-10-01,Kuala Lumpur,-26.0,Kuala Lumpur
+2021-10-02,Kuala Lumpur,-19.0,Kuala Lumpur
+2021-10-03,Kuala Lumpur,-23.0,Kuala Lumpur
+2021-10-04,Kuala Lumpur,-23.0,Kuala Lumpur
+2021-10-05,Kuala Lumpur,-23.0,Kuala Lumpur
 2020-03-01,Petaling Jaya,4.0,Selangor
 2020-03-02,Petaling Jaya,1.0,Selangor
 2020-03-03,Petaling Jaya,-1.0,Selangor
@@ -2017,6 +2252,83 @@ date,city,driving_waze,state
 2021-07-18,Petaling Jaya,-61.0,Selangor
 2021-07-19,Petaling Jaya,-50.0,Selangor
 2021-07-20,Petaling Jaya,-65.0,Selangor
+2021-07-21,Petaling Jaya,-54.0,Selangor
+2021-07-22,Petaling Jaya,-53.0,Selangor
+2021-07-23,Petaling Jaya,-56.99999999999999,Selangor
+2021-07-24,Petaling Jaya,-56.99999999999999,Selangor
+2021-07-25,Petaling Jaya,-62.0,Selangor
+2021-07-26,Petaling Jaya,-52.0,Selangor
+2021-07-27,Petaling Jaya,-50.0,Selangor
+2021-07-28,Petaling Jaya,-54.0,Selangor
+2021-07-29,Petaling Jaya,-52.0,Selangor
+2021-07-30,Petaling Jaya,-56.00000000000001,Selangor
+2021-07-31,Petaling Jaya,-53.0,Selangor
+2021-08-01,Petaling Jaya,-56.00000000000001,Selangor
+2021-08-02,Petaling Jaya,-53.0,Selangor
+2021-08-03,Petaling Jaya,-49.0,Selangor
+2021-08-04,Petaling Jaya,-57.99999999999999,Selangor
+2021-08-05,Petaling Jaya,-56.99999999999999,Selangor
+2021-08-06,Petaling Jaya,-59.0,Selangor
+2021-08-07,Petaling Jaya,-61.0,Selangor
+2021-08-08,Petaling Jaya,-64.0,Selangor
+2021-08-09,Petaling Jaya,-50.0,Selangor
+2021-08-10,Petaling Jaya,-59.0,Selangor
+2021-08-11,Petaling Jaya,-52.0,Selangor
+2021-08-12,Petaling Jaya,-57.99999999999999,Selangor
+2021-08-13,Petaling Jaya,-56.00000000000001,Selangor
+2021-08-14,Petaling Jaya,-60.0,Selangor
+2021-08-15,Petaling Jaya,-61.0,Selangor
+2021-08-16,Petaling Jaya,-51.0,Selangor
+2021-08-17,Petaling Jaya,-55.00000000000001,Selangor
+2021-08-18,Petaling Jaya,-53.0,Selangor
+2021-08-19,Petaling Jaya,-51.0,Selangor
+2021-08-20,Petaling Jaya,-53.0,Selangor
+2021-08-21,Petaling Jaya,-50.0,Selangor
+2021-08-22,Petaling Jaya,-55.00000000000001,Selangor
+2021-08-23,Petaling Jaya,-49.0,Selangor
+2021-08-24,Petaling Jaya,-52.0,Selangor
+2021-08-25,Petaling Jaya,-49.0,Selangor
+2021-08-26,Petaling Jaya,-54.0,Selangor
+2021-08-27,Petaling Jaya,-46.0,Selangor
+2021-08-28,Petaling Jaya,-48.0,Selangor
+2021-08-29,Petaling Jaya,-59.0,Selangor
+2021-08-30,Petaling Jaya,-43.0,Selangor
+2021-08-31,Petaling Jaya,-55.00000000000001,Selangor
+2021-09-01,Petaling Jaya,-42.0,Selangor
+2021-09-02,Petaling Jaya,-45.0,Selangor
+2021-09-03,Petaling Jaya,-42.0,Selangor
+2021-09-04,Petaling Jaya,-43.0,Selangor
+2021-09-05,Petaling Jaya,-52.0,Selangor
+2021-09-06,Petaling Jaya,-41.0,Selangor
+2021-09-07,Petaling Jaya,-38.0,Selangor
+2021-09-08,Petaling Jaya,-52.0,Selangor
+2021-09-09,Petaling Jaya,-40.0,Selangor
+2021-09-10,Petaling Jaya,-43.0,Selangor
+2021-09-11,Petaling Jaya,-30.0,Selangor
+2021-09-12,Petaling Jaya,-41.0,Selangor
+2021-09-13,Petaling Jaya,-36.0,Selangor
+2021-09-14,Petaling Jaya,-35.0,Selangor
+2021-09-15,Petaling Jaya,-32.0,Selangor
+2021-09-16,Petaling Jaya,-41.0,Selangor
+2021-09-17,Petaling Jaya,-39.0,Selangor
+2021-09-18,Petaling Jaya,-36.0,Selangor
+2021-09-19,Petaling Jaya,-38.0,Selangor
+2021-09-20,Petaling Jaya,-30.0,Selangor
+2021-09-21,Petaling Jaya,-33.0,Selangor
+2021-09-22,Petaling Jaya,-32.0,Selangor
+2021-09-23,Petaling Jaya,-38.0,Selangor
+2021-09-24,Petaling Jaya,-37.0,Selangor
+2021-09-25,Petaling Jaya,-27.0,Selangor
+2021-09-26,Petaling Jaya,-31.0,Selangor
+2021-09-27,Petaling Jaya,-32.0,Selangor
+2021-09-28,Petaling Jaya,-27.0,Selangor
+2021-09-29,Petaling Jaya,-28.000000000000004,Selangor
+2021-09-30,Petaling Jaya,-23.0,Selangor
+2021-10-01,Petaling Jaya,-30.0,Selangor
+2021-10-02,Petaling Jaya,-21.0,Selangor
+2021-10-03,Petaling Jaya,-22.0,Selangor
+2021-10-04,Petaling Jaya,-24.0,Selangor
+2021-10-05,Petaling Jaya,-27.0,Selangor
 2020-03-01,Puchong,0.0,Selangor
 2020-03-02,Puchong,3.0,Selangor
 2020-03-03,Puchong,3.0,Selangor
@@ -2523,6 +2835,83 @@ date,city,driving_waze,state
 2021-07-18,Puchong,-44.0,Selangor
 2021-07-19,Puchong,-26.0,Selangor
 2021-07-20,Puchong,-44.0,Selangor
+2021-07-21,Puchong,-34.0,Selangor
+2021-07-22,Puchong,-34.0,Selangor
+2021-07-23,Puchong,-32.0,Selangor
+2021-07-24,Puchong,-47.0,Selangor
+2021-07-25,Puchong,-39.0,Selangor
+2021-07-26,Puchong,-30.0,Selangor
+2021-07-27,Puchong,-34.0,Selangor
+2021-07-28,Puchong,-50.0,Selangor
+2021-07-29,Puchong,-35.0,Selangor
+2021-07-30,Puchong,-43.0,Selangor
+2021-07-31,Puchong,-40.0,Selangor
+2021-08-01,Puchong,-50.0,Selangor
+2021-08-02,Puchong,-31.0,Selangor
+2021-08-03,Puchong,-32.0,Selangor
+2021-08-04,Puchong,-31.0,Selangor
+2021-08-05,Puchong,-39.0,Selangor
+2021-08-06,Puchong,-41.0,Selangor
+2021-08-07,Puchong,-57.99999999999999,Selangor
+2021-08-08,Puchong,-59.0,Selangor
+2021-08-09,Puchong,-31.0,Selangor
+2021-08-10,Puchong,-42.0,Selangor
+2021-08-11,Puchong,-32.0,Selangor
+2021-08-12,Puchong,-42.0,Selangor
+2021-08-13,Puchong,-36.0,Selangor
+2021-08-14,Puchong,-27.0,Selangor
+2021-08-15,Puchong,-50.0,Selangor
+2021-08-16,Puchong,-34.0,Selangor
+2021-08-17,Puchong,-35.0,Selangor
+2021-08-18,Puchong,-27.0,Selangor
+2021-08-19,Puchong,-27.0,Selangor
+2021-08-20,Puchong,-42.0,Selangor
+2021-08-21,Puchong,-36.0,Selangor
+2021-08-22,Puchong,-47.0,Selangor
+2021-08-23,Puchong,-26.0,Selangor
+2021-08-24,Puchong,-35.0,Selangor
+2021-08-25,Puchong,-27.0,Selangor
+2021-08-26,Puchong,-28.000000000000004,Selangor
+2021-08-27,Puchong,-42.0,Selangor
+2021-08-28,Puchong,-26.0,Selangor
+2021-08-29,Puchong,-47.0,Selangor
+2021-08-30,Puchong,-4.0,Selangor
+2021-08-31,Puchong,-42.0,Selangor
+2021-09-01,Puchong,-14.000000000000002,Selangor
+2021-09-02,Puchong,-24.0,Selangor
+2021-09-03,Puchong,-26.0,Selangor
+2021-09-04,Puchong,-21.0,Selangor
+2021-09-05,Puchong,-17.0,Selangor
+2021-09-06,Puchong,-9.0,Selangor
+2021-09-07,Puchong,-36.0,Selangor
+2021-09-08,Puchong,-20.0,Selangor
+2021-09-09,Puchong,-13.0,Selangor
+2021-09-10,Puchong,-19.0,Selangor
+2021-09-11,Puchong,-23.0,Selangor
+2021-09-12,Puchong,-15.0,Selangor
+2021-09-13,Puchong,1.0,Selangor
+2021-09-14,Puchong,-5.0,Selangor
+2021-09-15,Puchong,-7.000000000000001,Selangor
+2021-09-16,Puchong,-18.0,Selangor
+2021-09-17,Puchong,-6.0,Selangor
+2021-09-18,Puchong,-17.0,Selangor
+2021-09-19,Puchong,-35.0,Selangor
+2021-09-20,Puchong,4.0,Selangor
+2021-09-21,Puchong,-9.0,Selangor
+2021-09-22,Puchong,-12.0,Selangor
+2021-09-23,Puchong,-4.0,Selangor
+2021-09-24,Puchong,-16.0,Selangor
+2021-09-25,Puchong,-19.0,Selangor
+2021-09-26,Puchong,-24.0,Selangor
+2021-09-27,Puchong,-1.0,Selangor
+2021-09-28,Puchong,-7.000000000000001,Selangor
+2021-09-29,Puchong,-14.000000000000002,Selangor
+2021-09-30,Puchong,-10.0,Selangor
+2021-10-01,Puchong,-11.0,Selangor
+2021-10-02,Puchong,-5.0,Selangor
+2021-10-03,Puchong,-10.0,Selangor
+2021-10-04,Puchong,-7.000000000000001,Selangor
+2021-10-05,Puchong,-8.0,Selangor
 2020-03-01,Shah Alam,11.0,Selangor
 2020-03-02,Shah Alam,4.0,Selangor
 2020-03-03,Shah Alam,9.0,Selangor
@@ -3029,6 +3418,84 @@ date,city,driving_waze,state
 2021-07-18,Shah Alam,-45.0,Selangor
 2021-07-19,Shah Alam,-28.000000000000004,Selangor
 2021-07-20,Shah Alam,-49.0,Selangor
+2021-07-21,Shah Alam,-36.0,Selangor
+2021-07-22,Shah Alam,-34.0,Selangor
+2021-07-23,Shah Alam,-40.0,Selangor
+2021-07-24,Shah Alam,-45.0,Selangor
+2021-07-25,Shah Alam,-48.0,Selangor
+2021-07-26,Shah Alam,-40.0,Selangor
+2021-07-27,Shah Alam,-33.0,Selangor
+2021-07-28,Shah Alam,-34.0,Selangor
+2021-07-29,Shah Alam,-29.0,Selangor
+2021-07-30,Shah Alam,-37.0,Selangor
+2021-07-31,Shah Alam,-36.0,Selangor
+2021-08-01,Shah Alam,-39.0,Selangor
+2021-08-02,Shah Alam,-32.0,Selangor
+2021-08-03,Shah Alam,-37.0,Selangor
+2021-08-04,Shah Alam,-32.0,Selangor
+2021-08-05,Shah Alam,-35.0,Selangor
+2021-08-06,Shah Alam,-35.0,Selangor
+2021-08-07,Shah Alam,-46.0,Selangor
+2021-08-08,Shah Alam,-49.0,Selangor
+2021-08-09,Shah Alam,-30.0,Selangor
+2021-08-10,Shah Alam,-46.0,Selangor
+2021-08-11,Shah Alam,-34.0,Selangor
+2021-08-12,Shah Alam,-39.0,Selangor
+2021-08-13,Shah Alam,-45.0,Selangor
+2021-08-14,Shah Alam,-47.0,Selangor
+2021-08-15,Shah Alam,-50.0,Selangor
+2021-08-16,Shah Alam,-36.0,Selangor
+2021-08-17,Shah Alam,-39.0,Selangor
+2021-08-18,Shah Alam,-42.0,Selangor
+2021-08-19,Shah Alam,-36.0,Selangor
+2021-08-20,Shah Alam,-40.0,Selangor
+2021-08-21,Shah Alam,-38.0,Selangor
+2021-08-22,Shah Alam,-50.0,Selangor
+2021-08-23,Shah Alam,-27.0,Selangor
+2021-08-24,Shah Alam,-33.0,Selangor
+2021-08-25,Shah Alam,-27.0,Selangor
+2021-08-26,Shah Alam,-31.0,Selangor
+2021-08-27,Shah Alam,-35.0,Selangor
+2021-08-28,Shah Alam,-39.0,Selangor
+2021-08-29,Shah Alam,-46.0,Selangor
+2021-08-30,Shah Alam,-24.0,Selangor
+2021-08-31,Shah Alam,-40.0,Selangor
+2021-09-01,Shah Alam,-24.0,Selangor
+2021-09-02,Shah Alam,-28.000000000000004,Selangor
+2021-09-03,Shah Alam,-35.0,Selangor
+2021-09-04,Shah Alam,-33.0,Selangor
+2021-09-05,Shah Alam,-37.0,Selangor
+2021-09-06,Shah Alam,-19.0,Selangor
+2021-09-07,Shah Alam,-25.0,Selangor
+2021-09-08,Shah Alam,-28.000000000000004,Selangor
+2021-09-09,Shah Alam,-24.0,Selangor
+2021-09-10,Shah Alam,-25.0,Selangor
+2021-09-11,Shah Alam,-22.0,Selangor
+2021-09-12,Shah Alam,-27.0,Selangor
+2021-09-13,Shah Alam,-12.0,Selangor
+2021-09-14,Shah Alam,-15.0,Selangor
+2021-09-15,Shah Alam,-7.000000000000001,Selangor
+2021-09-16,Shah Alam,-24.0,Selangor
+2021-09-17,Shah Alam,-26.0,Selangor
+2021-09-18,Shah Alam,-29.0,Selangor
+2021-09-19,Shah Alam,-23.0,Selangor
+2021-09-20,Shah Alam,-9.0,Selangor
+2021-09-21,Shah Alam,-14.000000000000002,Selangor
+2021-09-22,Shah Alam,-17.0,Selangor
+2021-09-23,Shah Alam,-8.0,Selangor
+2021-09-24,Shah Alam,-13.0,Selangor
+2021-09-25,Shah Alam,-20.0,Selangor
+2021-09-26,Shah Alam,-19.0,Selangor
+2021-09-27,Shah Alam,-11.0,Selangor
+2021-09-28,Shah Alam,-12.0,Selangor
+2021-09-29,Shah Alam,-9.0,Selangor
+2021-09-30,Shah Alam,-7.000000000000001,Selangor
+2021-10-01,Shah Alam,-15.0,Selangor
+2021-10-02,Shah Alam,-16.0,Selangor
+2021-10-03,Shah Alam,-10.0,Selangor
+2021-10-04,Shah Alam,-12.0,Selangor
+2021-10-05,Shah Alam,-8.0,Selangor
+2021-10-06,Shah Alam,-98.0,Selangor
 2020-03-01,Total,9.0,N/A
 2020-03-02,Total,3.0,N/A
 2020-03-03,Total,2.0,N/A
@@ -3535,3 +4002,80 @@ date,city,driving_waze,state
 2021-07-18,Total,-59.0,N/A
 2021-07-19,Total,-41.0,N/A
 2021-07-20,Total,-55.00000000000001,N/A
+2021-07-21,Total,-47.0,N/A
+2021-07-22,Total,-44.0,N/A
+2021-07-23,Total,-52.0,N/A
+2021-07-24,Total,-59.0,N/A
+2021-07-25,Total,-59.0,N/A
+2021-07-26,Total,-43.0,N/A
+2021-07-27,Total,-42.0,N/A
+2021-07-28,Total,-43.0,N/A
+2021-07-29,Total,-44.0,N/A
+2021-07-30,Total,-51.0,N/A
+2021-07-31,Total,-56.99999999999999,N/A
+2021-08-01,Total,-56.00000000000001,N/A
+2021-08-02,Total,-43.0,N/A
+2021-08-03,Total,-44.0,N/A
+2021-08-04,Total,-43.0,N/A
+2021-08-05,Total,-46.0,N/A
+2021-08-06,Total,-52.0,N/A
+2021-08-07,Total,-59.0,N/A
+2021-08-08,Total,-60.0,N/A
+2021-08-09,Total,-43.0,N/A
+2021-08-10,Total,-51.0,N/A
+2021-08-11,Total,-43.0,N/A
+2021-08-12,Total,-46.0,N/A
+2021-08-13,Total,-52.0,N/A
+2021-08-14,Total,-57.99999999999999,N/A
+2021-08-15,Total,-59.0,N/A
+2021-08-16,Total,-44.0,N/A
+2021-08-17,Total,-42.0,N/A
+2021-08-18,Total,-43.0,N/A
+2021-08-19,Total,-43.0,N/A
+2021-08-20,Total,-49.0,N/A
+2021-08-21,Total,-53.0,N/A
+2021-08-22,Total,-54.0,N/A
+2021-08-23,Total,-39.0,N/A
+2021-08-24,Total,-40.0,N/A
+2021-08-25,Total,-39.0,N/A
+2021-08-26,Total,-42.0,N/A
+2021-08-27,Total,-46.0,N/A
+2021-08-28,Total,-51.0,N/A
+2021-08-29,Total,-53.0,N/A
+2021-08-30,Total,-34.0,N/A
+2021-08-31,Total,-44.0,N/A
+2021-09-01,Total,-32.0,N/A
+2021-09-02,Total,-38.0,N/A
+2021-09-03,Total,-43.0,N/A
+2021-09-04,Total,-47.0,N/A
+2021-09-05,Total,-48.0,N/A
+2021-09-06,Total,-32.0,N/A
+2021-09-07,Total,-31.0,N/A
+2021-09-08,Total,-31.0,N/A
+2021-09-09,Total,-33.0,N/A
+2021-09-10,Total,-36.0,N/A
+2021-09-11,Total,-36.0,N/A
+2021-09-12,Total,-36.0,N/A
+2021-09-13,Total,-24.0,N/A
+2021-09-14,Total,-23.0,N/A
+2021-09-15,Total,-18.0,N/A
+2021-09-16,Total,-28.000000000000004,N/A
+2021-09-17,Total,-34.0,N/A
+2021-09-18,Total,-37.0,N/A
+2021-09-19,Total,-34.0,N/A
+2021-09-20,Total,-22.0,N/A
+2021-09-21,Total,-24.0,N/A
+2021-09-22,Total,-24.0,N/A
+2021-09-23,Total,-26.0,N/A
+2021-09-24,Total,-29.0,N/A
+2021-09-25,Total,-30.0,N/A
+2021-09-26,Total,-29.0,N/A
+2021-09-27,Total,-19.0,N/A
+2021-09-28,Total,-19.0,N/A
+2021-09-29,Total,-20.0,N/A
+2021-09-30,Total,-19.0,N/A
+2021-10-01,Total,-23.0,N/A
+2021-10-02,Total,-23.0,N/A
+2021-10-03,Total,-20.0,N/A
+2021-10-04,Total,-15.0,N/A
+2021-10-05,Total,-15.0,N/A
