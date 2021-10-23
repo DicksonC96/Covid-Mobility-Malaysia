@@ -81,7 +81,7 @@ start = time.time()
 
 ### TomTom Traffic Data ========================================================================
 # Read tomtom data
-tomtom = pd.read_csv("https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/tomtom_reports/tomtom_trafic_index.csv")
+tomtom = pd.read_csv("https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/tomtom_reports/tomtom_trafic_index_historical.csv")
 
 # Filter to rows containing "Malaysia" country
 malaysia = tomtom.loc[(tomtom['country']=='Malaysia')]
