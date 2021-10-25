@@ -46,10 +46,7 @@ date,city,driving_waze,state
 2020-04-14,Ipoh,-74.0,Perak
 2020-04-15,Ipoh,-76.0,Perak
 2020-04-16,Ipoh,-81.0,Perak
-2020-04-16,Ipoh,-81.0,Perak
 2020-04-17,Ipoh,-84.0,Perak
-2020-04-17,Ipoh,-84.0,Perak
-2020-04-18,Ipoh,-89.0,Perak
 2020-04-18,Ipoh,-89.0,Perak
 2020-04-19,Ipoh,-78.0,Perak
 2020-04-20,Ipoh,-81.0,Perak
@@ -594,11 +591,12 @@ date,city,driving_waze,state
 2021-10-14,Ipoh,6.0,Perak
 2021-10-15,Ipoh,16.0,Perak
 2021-10-16,Ipoh,4.0,Perak
-2021-10-17,Ipoh,32.0,Perak
-2021-10-18,Ipoh,55.00000000000001,Perak
-2021-10-19,Ipoh,40.0,Perak
-2021-10-20,Ipoh,-90.0,Perak
-2021-10-21,Ipoh,-53.0,Perak
+2021-10-17,Ipoh,35.0,Perak
+2021-10-18,Ipoh,68.0,Perak
+2021-10-19,Ipoh,30.0,Perak
+2021-10-20,Ipoh,14.000000000000002,Perak
+2021-10-21,Ipoh,44.0,Perak
+2021-10-22,Ipoh,22.0,Perak
 2020-03-01,Johor Bahru,11.0,Johor
 2020-03-02,Johor Bahru,6.0,Johor
 2020-03-03,Johor Bahru,5.0,Johor
@@ -647,8 +645,6 @@ date,city,driving_waze,state
 2020-04-15,Johor Bahru,-73.0,Johor
 2020-04-16,Johor Bahru,-76.0,Johor
 2020-04-17,Johor Bahru,-78.0,Johor
-2020-04-17,Johor Bahru,-78.0,Johor
-2020-04-18,Johor Bahru,-83.0,Johor
 2020-04-18,Johor Bahru,-83.0,Johor
 2020-04-19,Johor Bahru,-81.0,Johor
 2020-04-20,Johor Bahru,-73.0,Johor
@@ -1195,9 +1191,12 @@ date,city,driving_waze,state
 2021-10-14,Johor Bahru,-14.000000000000002,Johor
 2021-10-15,Johor Bahru,-17.0,Johor
 2021-10-16,Johor Bahru,-25.0,Johor
-2021-10-17,Johor Bahru,-15.0,Johor
-2021-10-18,Johor Bahru,-15.0,Johor
-2021-10-19,Johor Bahru,-18.0,Johor
+2021-10-17,Johor Bahru,-18.0,Johor
+2021-10-18,Johor Bahru,-26.0,Johor
+2021-10-19,Johor Bahru,-19.0,Johor
+2021-10-20,Johor Bahru,-13.0,Johor
+2021-10-21,Johor Bahru,-19.0,Johor
+2021-10-22,Johor Bahru,-20.0,Johor
 2020-03-01,Kuala Lumpur,7.000000000000001,Kuala Lumpur
 2020-03-02,Kuala Lumpur,2.0,Kuala Lumpur
 2020-03-03,Kuala Lumpur,0.0,Kuala Lumpur
@@ -1245,10 +1244,7 @@ date,city,driving_waze,state
 2020-04-14,Kuala Lumpur,-81.0,Kuala Lumpur
 2020-04-15,Kuala Lumpur,-82.0,Kuala Lumpur
 2020-04-16,Kuala Lumpur,-83.0,Kuala Lumpur
-2020-04-16,Kuala Lumpur,-83.0,Kuala Lumpur
 2020-04-17,Kuala Lumpur,-84.0,Kuala Lumpur
-2020-04-17,Kuala Lumpur,-84.0,Kuala Lumpur
-2020-04-18,Kuala Lumpur,-87.0,Kuala Lumpur
 2020-04-18,Kuala Lumpur,-87.0,Kuala Lumpur
 2020-04-19,Kuala Lumpur,-87.0,Kuala Lumpur
 2020-04-20,Kuala Lumpur,-80.0,Kuala Lumpur
@@ -1796,8 +1792,11 @@ date,city,driving_waze,state
 2021-10-15,Kuala Lumpur,-18.0,Kuala Lumpur
 2021-10-16,Kuala Lumpur,-10.0,Kuala Lumpur
 2021-10-17,Kuala Lumpur,-12.0,Kuala Lumpur
-2021-10-18,Kuala Lumpur,-9.0,Kuala Lumpur
+2021-10-18,Kuala Lumpur,-8.0,Kuala Lumpur
 2021-10-19,Kuala Lumpur,-15.0,Kuala Lumpur
+2021-10-20,Kuala Lumpur,-17.0,Kuala Lumpur
+2021-10-21,Kuala Lumpur,-15.0,Kuala Lumpur
+2021-10-22,Kuala Lumpur,-18.0,Kuala Lumpur
 2020-03-01,Petaling Jaya,4.0,Selangor
 2020-03-02,Petaling Jaya,1.0,Selangor
 2020-03-03,Petaling Jaya,-1.0,Selangor
@@ -1845,10 +1844,7 @@ date,city,driving_waze,state
 2020-04-14,Petaling Jaya,-79.0,Selangor
 2020-04-15,Petaling Jaya,-81.0,Selangor
 2020-04-16,Petaling Jaya,-81.0,Selangor
-2020-04-16,Petaling Jaya,-81.0,Selangor
 2020-04-17,Petaling Jaya,-83.0,Selangor
-2020-04-17,Petaling Jaya,-83.0,Selangor
-2020-04-18,Petaling Jaya,-86.0,Selangor
 2020-04-18,Petaling Jaya,-86.0,Selangor
 2020-04-19,Petaling Jaya,-87.0,Selangor
 2020-04-20,Petaling Jaya,-80.0,Selangor
@@ -2395,9 +2391,12 @@ date,city,driving_waze,state
 2021-10-14,Petaling Jaya,-18.0,Selangor
 2021-10-15,Petaling Jaya,-19.0,Selangor
 2021-10-16,Petaling Jaya,-9.0,Selangor
-2021-10-17,Petaling Jaya,-12.0,Selangor
-2021-10-18,Petaling Jaya,-15.0,Selangor
-2021-10-19,Petaling Jaya,-9.0,Selangor
+2021-10-17,Petaling Jaya,-14.000000000000002,Selangor
+2021-10-18,Petaling Jaya,-9.0,Selangor
+2021-10-19,Petaling Jaya,-11.0,Selangor
+2021-10-20,Petaling Jaya,-13.0,Selangor
+2021-10-21,Petaling Jaya,-14.000000000000002,Selangor
+2021-10-22,Petaling Jaya,-16.0,Selangor
 2020-03-01,Puchong,0.0,Selangor
 2020-03-02,Puchong,3.0,Selangor
 2020-03-03,Puchong,3.0,Selangor
@@ -2446,8 +2445,6 @@ date,city,driving_waze,state
 2020-04-15,Puchong,-66.0,Selangor
 2020-04-16,Puchong,-72.0,Selangor
 2020-04-17,Puchong,-75.0,Selangor
-2020-04-17,Puchong,-75.0,Selangor
-2020-04-18,Puchong,-78.0,Selangor
 2020-04-18,Puchong,-78.0,Selangor
 2020-04-19,Puchong,-78.0,Selangor
 2020-04-20,Puchong,-71.0,Selangor
@@ -2994,10 +2991,12 @@ date,city,driving_waze,state
 2021-10-14,Puchong,-3.0,Selangor
 2021-10-15,Puchong,1.0,Selangor
 2021-10-16,Puchong,10.0,Selangor
-2021-10-17,Puchong,1.0,Selangor
-2021-10-18,Puchong,10.0,Selangor
-2021-10-19,Puchong,-1.0,Selangor
-2021-10-20,Puchong,-95.0,Selangor
+2021-10-17,Puchong,-14.000000000000002,Selangor
+2021-10-18,Puchong,12.0,Selangor
+2021-10-19,Puchong,15.0,Selangor
+2021-10-20,Puchong,-1.0,Selangor
+2021-10-21,Puchong,17.0,Selangor
+2021-10-22,Puchong,-8.0,Selangor
 2020-03-01,Shah Alam,11.0,Selangor
 2020-03-02,Shah Alam,4.0,Selangor
 2020-03-03,Shah Alam,9.0,Selangor
@@ -3046,8 +3045,6 @@ date,city,driving_waze,state
 2020-04-15,Shah Alam,-76.0,Selangor
 2020-04-16,Shah Alam,-78.0,Selangor
 2020-04-17,Shah Alam,-79.0,Selangor
-2020-04-17,Shah Alam,-79.0,Selangor
-2020-04-18,Shah Alam,-85.0,Selangor
 2020-04-18,Shah Alam,-85.0,Selangor
 2020-04-19,Shah Alam,-84.0,Selangor
 2020-04-20,Shah Alam,-76.0,Selangor
@@ -3594,9 +3591,12 @@ date,city,driving_waze,state
 2021-10-14,Shah Alam,-1.0,Selangor
 2021-10-15,Shah Alam,-4.0,Selangor
 2021-10-16,Shah Alam,-9.0,Selangor
-2021-10-17,Shah Alam,-5.0,Selangor
-2021-10-18,Shah Alam,13.0,Selangor
-2021-10-19,Shah Alam,4.0,Selangor
+2021-10-17,Shah Alam,-2.0,Selangor
+2021-10-18,Shah Alam,3.0,Selangor
+2021-10-19,Shah Alam,-3.0,Selangor
+2021-10-20,Shah Alam,6.0,Selangor
+2021-10-21,Shah Alam,3.0,Selangor
+2021-10-22,Shah Alam,-7.000000000000001,Selangor
 2020-03-01,Total,9.0,N/A
 2020-03-02,Total,3.0,N/A
 2020-03-03,Total,2.0,N/A
@@ -4194,3 +4194,6 @@ date,city,driving_waze,state
 2021-10-17,Total,9.0,N/A
 2021-10-18,Total,14.000000000000002,N/A
 2021-10-19,Total,18.0,N/A
+2021-10-20,Total,6.0,N/A
+2021-10-21,Total,4.0,N/A
+2021-10-22,Total,1.0,N/A
