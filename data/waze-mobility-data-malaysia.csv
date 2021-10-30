@@ -1207,6 +1207,7 @@ date,city,driving_waze,state
 2021-10-25,Johor Bahru,-8.0,Johor
 2021-10-26,Johor Bahru,-11.0,Johor
 2021-10-27,Johor Bahru,-12.0,Johor
+2021-10-28,Johor Bahru,-97.0,Johor
 2020-03-01,Kuala Lumpur,7.000000000000001,Kuala Lumpur
 2020-03-02,Kuala Lumpur,2.0,Kuala Lumpur
 2020-03-03,Kuala Lumpur,0.0,Kuala Lumpur
@@ -1812,6 +1813,7 @@ date,city,driving_waze,state
 2021-10-25,Kuala Lumpur,-10.0,Kuala Lumpur
 2021-10-26,Kuala Lumpur,-10.0,Kuala Lumpur
 2021-10-27,Kuala Lumpur,-9.0,Kuala Lumpur
+2021-10-28,Kuala Lumpur,-99.0,Kuala Lumpur
 2020-03-01,Petaling Jaya,4.0,Selangor
 2020-03-02,Petaling Jaya,1.0,Selangor
 2020-03-03,Petaling Jaya,-1.0,Selangor
@@ -2417,6 +2419,7 @@ date,city,driving_waze,state
 2021-10-25,Petaling Jaya,-12.0,Selangor
 2021-10-26,Petaling Jaya,-13.0,Selangor
 2021-10-27,Petaling Jaya,-11.0,Selangor
+2021-10-28,Petaling Jaya,-96.0,Selangor
 2020-03-01,Puchong,0.0,Selangor
 2020-03-02,Puchong,3.0,Selangor
 2020-03-03,Puchong,3.0,Selangor
