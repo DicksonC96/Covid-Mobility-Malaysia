@@ -610,11 +610,15 @@ date,city,driving_waze,state
 2021-11-02,Ipoh,49.0,Perak
 2021-11-03,Ipoh,103.0,Perak
 2021-11-04,Ipoh,95.0,Perak
-2021-11-05,Ipoh,24.0,Perak
-2021-11-06,Ipoh,37.0,Perak
-2021-11-07,Ipoh,70.0,Perak
-2021-11-08,Ipoh,-95.0,Perak
-2021-11-09,Ipoh,-87.0,Perak
+2021-11-05,Ipoh,35.0,Perak
+2021-11-06,Ipoh,29.0,Perak
+2021-11-07,Ipoh,41.0,Perak
+2021-11-08,Ipoh,57.99999999999999,Perak
+2021-11-09,Ipoh,40.0,Perak
+2021-11-10,Ipoh,35.0,Perak
+2021-11-11,Ipoh,45.0,Perak
+2021-11-12,Ipoh,26.0,Perak
+2021-11-13,Ipoh,52.0,Perak
 2020-03-01,Johor Bahru,11.0,Johor
 2020-03-02,Johor Bahru,6.0,Johor
 2020-03-03,Johor Bahru,5.0,Johor
@@ -1228,9 +1232,15 @@ date,city,driving_waze,state
 2021-11-02,Johor Bahru,-10.0,Johor
 2021-11-03,Johor Bahru,4.0,Johor
 2021-11-04,Johor Bahru,-13.0,Johor
-2021-11-05,Johor Bahru,-18.0,Johor
-2021-11-06,Johor Bahru,-16.0,Johor
-2021-11-07,Johor Bahru,-9.0,Johor
+2021-11-05,Johor Bahru,-13.0,Johor
+2021-11-06,Johor Bahru,-17.0,Johor
+2021-11-07,Johor Bahru,-12.0,Johor
+2021-11-08,Johor Bahru,-5.0,Johor
+2021-11-09,Johor Bahru,-6.0,Johor
+2021-11-10,Johor Bahru,-6.0,Johor
+2021-11-11,Johor Bahru,-2.0,Johor
+2021-11-12,Johor Bahru,-14.000000000000002,Johor
+2021-11-13,Johor Bahru,-13.0,Johor
 2020-03-01,Kuala Lumpur,7.000000000000001,Kuala Lumpur
 2020-03-02,Kuala Lumpur,2.0,Kuala Lumpur
 2020-03-03,Kuala Lumpur,0.0,Kuala Lumpur
@@ -1845,8 +1855,14 @@ date,city,driving_waze,state
 2021-11-03,Kuala Lumpur,0.0,Kuala Lumpur
 2021-11-04,Kuala Lumpur,-17.0,Kuala Lumpur
 2021-11-05,Kuala Lumpur,-20.0,Kuala Lumpur
-2021-11-06,Kuala Lumpur,-8.0,Kuala Lumpur
-2021-11-07,Kuala Lumpur,-6.0,Kuala Lumpur
+2021-11-06,Kuala Lumpur,-7.000000000000001,Kuala Lumpur
+2021-11-07,Kuala Lumpur,-5.0,Kuala Lumpur
+2021-11-08,Kuala Lumpur,-3.0,Kuala Lumpur
+2021-11-09,Kuala Lumpur,-5.0,Kuala Lumpur
+2021-11-10,Kuala Lumpur,-5.0,Kuala Lumpur
+2021-11-11,Kuala Lumpur,-8.0,Kuala Lumpur
+2021-11-12,Kuala Lumpur,-9.0,Kuala Lumpur
+2021-11-13,Kuala Lumpur,-3.0,Kuala Lumpur
 2020-03-01,Petaling Jaya,4.0,Selangor
 2020-03-02,Petaling Jaya,1.0,Selangor
 2020-03-03,Petaling Jaya,-1.0,Selangor
@@ -2460,9 +2476,15 @@ date,city,driving_waze,state
 2021-11-02,Petaling Jaya,-5.0,Selangor
 2021-11-03,Petaling Jaya,1.0,Selangor
 2021-11-04,Petaling Jaya,-21.0,Selangor
-2021-11-05,Petaling Jaya,-18.0,Selangor
-2021-11-06,Petaling Jaya,-3.0,Selangor
-2021-11-07,Petaling Jaya,-13.0,Selangor
+2021-11-05,Petaling Jaya,-23.0,Selangor
+2021-11-06,Petaling Jaya,-4.0,Selangor
+2021-11-07,Petaling Jaya,-6.0,Selangor
+2021-11-08,Petaling Jaya,-2.0,Selangor
+2021-11-09,Petaling Jaya,-7.000000000000001,Selangor
+2021-11-10,Petaling Jaya,-2.0,Selangor
+2021-11-11,Petaling Jaya,-7.000000000000001,Selangor
+2021-11-12,Petaling Jaya,-9.0,Selangor
+2021-11-13,Petaling Jaya,-7.000000000000001,Selangor
 2020-03-01,Puchong,0.0,Selangor
 2020-03-02,Puchong,3.0,Selangor
 2020-03-03,Puchong,3.0,Selangor
@@ -3076,9 +3098,15 @@ date,city,driving_waze,state
 2021-11-02,Puchong,13.0,Selangor
 2021-11-03,Puchong,30.0,Selangor
 2021-11-04,Puchong,2.0,Selangor
-2021-11-05,Puchong,-5.0,Selangor
-2021-11-06,Puchong,13.0,Selangor
-2021-11-07,Puchong,18.0,Selangor
+2021-11-05,Puchong,-2.0,Selangor
+2021-11-06,Puchong,6.0,Selangor
+2021-11-07,Puchong,0.0,Selangor
+2021-11-08,Puchong,13.0,Selangor
+2021-11-09,Puchong,14.000000000000002,Selangor
+2021-11-10,Puchong,16.0,Selangor
+2021-11-11,Puchong,16.0,Selangor
+2021-11-12,Puchong,-7.000000000000001,Selangor
+2021-11-13,Puchong,2.0,Selangor
 2020-03-01,Shah Alam,11.0,Selangor
 2020-03-02,Shah Alam,4.0,Selangor
 2020-03-03,Shah Alam,9.0,Selangor
@@ -3692,9 +3720,15 @@ date,city,driving_waze,state
 2021-11-02,Shah Alam,13.0,Selangor
 2021-11-03,Shah Alam,15.0,Selangor
 2021-11-04,Shah Alam,-8.0,Selangor
-2021-11-05,Shah Alam,-11.0,Selangor
-2021-11-06,Shah Alam,-2.0,Selangor
-2021-11-07,Shah Alam,1.0,Selangor
+2021-11-05,Shah Alam,-13.0,Selangor
+2021-11-06,Shah Alam,-3.0,Selangor
+2021-11-07,Shah Alam,15.0,Selangor
+2021-11-08,Shah Alam,14.000000000000002,Selangor
+2021-11-09,Shah Alam,5.0,Selangor
+2021-11-10,Shah Alam,10.0,Selangor
+2021-11-11,Shah Alam,6.0,Selangor
+2021-11-12,Shah Alam,3.0,Selangor
+2021-11-13,Shah Alam,3.0,Selangor
 2020-03-01,Total,9.0,N/A
 2020-03-02,Total,3.0,N/A
 2020-03-03,Total,2.0,N/A
@@ -4309,5 +4343,11 @@ date,city,driving_waze,state
 2021-11-03,Total,39.0,N/A
 2021-11-04,Total,31.0,N/A
 2021-11-05,Total,9.0,N/A
-2021-11-06,Total,18.0,N/A
+2021-11-06,Total,19.0,N/A
 2021-11-07,Total,28.000000000000004,N/A
+2021-11-08,Total,19.0,N/A
+2021-11-09,Total,12.0,N/A
+2021-11-10,Total,12.0,N/A
+2021-11-11,Total,11.0,N/A
+2021-11-12,Total,10.0,N/A
+2021-11-13,Total,12.0,N/A
