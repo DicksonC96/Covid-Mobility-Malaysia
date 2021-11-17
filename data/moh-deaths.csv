@@ -8696,7 +8696,7 @@ date,state,deaths_new,deaths_bid,deaths_pvax,deaths_fvax,deaths_tat
 2021-09-11,Perak,28,4,2,1,2
 2021-09-11,Perlis,1,0,0,0,1
 2021-09-11,Penang,27,8,4,7,2
-2021-09-11,Sabah,53,20,7,2,7
+2021-09-11,Sabah,53,20,7,1,7
 2021-09-11,Sarawak,10,3,1,8,2
 2021-09-11,Selangor,359,2,4,4,35
 2021-09-11,Terengganu,6,1,1,1,4
@@ -9497,7 +9497,7 @@ date,state,deaths_new,deaths_bid,deaths_pvax,deaths_fvax,deaths_tat
 2021-10-31,Perlis,0,0,0,1,0
 2021-10-31,Penang,5,0,0,2,3
 2021-10-31,Sabah,2,1,0,2,3
-2021-10-31,Sarawak,12,1,1,4,3
+2021-10-31,Sarawak,12,1,0,5,3
 2021-10-31,Selangor,1,1,0,2,5
 2021-10-31,Terengganu,4,0,0,0,2
 2021-10-31,Kuala Lumpur,2,1,0,1,2
