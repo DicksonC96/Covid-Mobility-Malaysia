@@ -626,6 +626,7 @@ date,city,driving_waze,state
 2021-11-18,Ipoh,82.0,Perak
 2021-11-19,Ipoh,23.0,Perak
 2021-11-20,Ipoh,16.0,Perak
+2021-11-21,Ipoh,-98.0,Perak
 2020-03-01,Johor Bahru,11.0,Johor
 2020-03-02,Johor Bahru,6.0,Johor
 2020-03-03,Johor Bahru,5.0,Johor
@@ -2513,6 +2514,7 @@ date,city,driving_waze,state
 2021-11-18,Petaling Jaya,-15.0,Selangor
 2021-11-19,Petaling Jaya,-17.0,Selangor
 2021-11-20,Petaling Jaya,-10.0,Selangor
+2021-11-21,Petaling Jaya,-97.0,Selangor
 2020-03-01,Puchong,0.0,Selangor
 2020-03-02,Puchong,3.0,Selangor
 2020-03-03,Puchong,3.0,Selangor
