@@ -632,6 +632,7 @@ date,city,driving_waze,state
 2021-11-24,Ipoh,4.0,Perak
 2021-11-25,Ipoh,53.0,Perak
 2021-11-26,Ipoh,78.0,Perak
+2021-11-27,Ipoh,41.0,Perak
 2020-03-01,Johor Bahru,11.0,Johor
 2020-03-02,Johor Bahru,6.0,Johor
 2020-03-03,Johor Bahru,5.0,Johor
@@ -1267,6 +1268,7 @@ date,city,driving_waze,state
 2021-11-24,Johor Bahru,-2.0,Johor
 2021-11-25,Johor Bahru,0.0,Johor
 2021-11-26,Johor Bahru,-6.0,Johor
+2021-11-27,Johor Bahru,-11.0,Johor
 2020-03-01,Kuala Lumpur,7.000000000000001,Kuala Lumpur
 2020-03-02,Kuala Lumpur,2.0,Kuala Lumpur
 2020-03-03,Kuala Lumpur,0.0,Kuala Lumpur
@@ -1902,6 +1904,7 @@ date,city,driving_waze,state
 2021-11-24,Kuala Lumpur,-5.0,Kuala Lumpur
 2021-11-25,Kuala Lumpur,-6.0,Kuala Lumpur
 2021-11-26,Kuala Lumpur,-7.000000000000001,Kuala Lumpur
+2021-11-27,Kuala Lumpur,2.0,Kuala Lumpur
 2020-03-01,Petaling Jaya,4.0,Selangor
 2020-03-02,Petaling Jaya,1.0,Selangor
 2020-03-03,Petaling Jaya,-1.0,Selangor
@@ -2537,6 +2540,7 @@ date,city,driving_waze,state
 2021-11-24,Petaling Jaya,-3.0,Selangor
 2021-11-25,Petaling Jaya,-4.0,Selangor
 2021-11-26,Petaling Jaya,-5.0,Selangor
+2021-11-27,Petaling Jaya,3.0,Selangor
 2020-03-01,Puchong,0.0,Selangor
 2020-03-02,Puchong,3.0,Selangor
 2020-03-03,Puchong,3.0,Selangor
@@ -3172,6 +3176,7 @@ date,city,driving_waze,state
 2021-11-24,Puchong,-1.0,Selangor
 2021-11-25,Puchong,12.0,Selangor
 2021-11-26,Puchong,16.0,Selangor
+2021-11-27,Puchong,15.0,Selangor
 2020-03-01,Shah Alam,11.0,Selangor
 2020-03-02,Shah Alam,4.0,Selangor
 2020-03-03,Shah Alam,9.0,Selangor
@@ -3807,6 +3812,7 @@ date,city,driving_waze,state
 2021-11-24,Shah Alam,10.0,Selangor
 2021-11-25,Shah Alam,9.0,Selangor
 2021-11-26,Shah Alam,6.0,Selangor
+2021-11-27,Shah Alam,8.0,Selangor
 2020-03-01,Total,9.0,N/A
 2020-03-02,Total,3.0,N/A
 2020-03-03,Total,2.0,N/A
@@ -4111,16 +4117,10 @@ date,city,driving_waze,state
 2020-12-27,Total,12.0,N/A
 2020-12-28,Total,14.000000000000002,N/A
 2020-12-29,Total,11.0,N/A
-2020-12-29,Total,11.0,N/A
-2020-12-30,Total,14.000000000000002,N/A
 2020-12-30,Total,14.000000000000002,N/A
 2020-12-31,Total,30.0,N/A
-2020-12-31,Total,30.0,N/A
-2021-01-01,Total,-4.0,N/A
 2021-01-01,Total,-4.0,N/A
 2021-01-02,Total,-8.0,N/A
-2021-01-02,Total,-8.0,N/A
-2021-01-03,Total,1.0,N/A
 2021-01-03,Total,1.0,N/A
 2021-01-04,Total,2.0,N/A
 2021-01-05,Total,-3.0,N/A
@@ -4439,6 +4439,13 @@ date,city,driving_waze,state
 2021-11-15,Total,15.0,N/A
 2021-11-16,Total,10.0,N/A
 2021-11-17,Total,10.0,N/A
-2021-11-18,Total,1.0,N/A
+2021-11-18,Total,0.0,N/A
 2021-11-19,Total,-2.0,N/A
 2021-11-20,Total,-1.0,N/A
+2021-11-21,Total,7.000000000000001,N/A
+2021-11-22,Total,5.0,N/A
+2021-11-23,Total,10.0,N/A
+2021-11-24,Total,11.0,N/A
+2021-11-25,Total,11.0,N/A
+2021-11-26,Total,13.0,N/A
+2021-11-27,Total,16.0,N/A
