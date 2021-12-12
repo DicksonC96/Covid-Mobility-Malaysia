@@ -1949,7 +1949,6 @@ date,city,driving_waze,state
 2020-03-06,Petaling Jaya,-2.0,Selangor
 2020-03-07,Petaling Jaya,-2.0,Selangor
 2020-03-08,Petaling Jaya,-2.0,Selangor
-2020-03-08,Petaling Jaya,-2.0,Selangor
 2020-03-09,Petaling Jaya,0.0,Selangor
 2020-03-10,Petaling Jaya,-2.0,Selangor
 2020-03-11,Petaling Jaya,-5.0,Selangor
@@ -3886,6 +3885,7 @@ date,city,driving_waze,state
 2021-12-07,Shah Alam,13.0,Selangor
 2021-12-08,Shah Alam,16.0,Selangor
 2021-12-09,Shah Alam,22.0,Selangor
+2021-12-10,Shah Alam,-98.0,Selangor
 2020-03-01,Total,9.0,N/A
 2020-03-02,Total,3.0,N/A
 2020-03-03,Total,2.0,N/A
