@@ -1356,6 +1356,7 @@ date,city,driving_waze,state
 2022-01-08,Johor Bahru,-1.0,Johor
 2022-01-09,Johor Bahru,-4.0,Johor
 2022-01-10,Johor Bahru,10.0,Johor
+2022-01-11,Johor Bahru,-99.0,Johor
 2020-03-01,Kuala Lumpur,7.000000000000001,Kuala Lumpur
 2020-03-02,Kuala Lumpur,2.0,Kuala Lumpur
 2020-03-03,Kuala Lumpur,0.0,Kuala Lumpur
@@ -3393,6 +3394,7 @@ date,city,driving_waze,state
 2022-01-08,Puchong,26.0,Selangor
 2022-01-09,Puchong,-4.0,Selangor
 2022-01-10,Puchong,26.0,Selangor
+2022-01-11,Puchong,-85.0,Selangor
 2020-03-01,Shah Alam,11.0,Selangor
 2020-03-02,Shah Alam,4.0,Selangor
 2020-03-03,Shah Alam,9.0,Selangor
