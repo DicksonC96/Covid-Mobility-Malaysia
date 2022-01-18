@@ -353,6 +353,8 @@ date,city,driving_waze,state
 2021-02-15,Ipoh,-37.0,Perak
 2021-02-16,Ipoh,-11.0,Perak
 2021-02-17,Ipoh,-42.0,Perak
+2021-02-17,Ipoh,-42.0,Perak
+2021-02-18,Ipoh,13.0,Perak
 2021-02-18,Ipoh,13.0,Perak
 2021-02-19,Ipoh,-45.0,Perak
 2021-02-20,Ipoh,-59.0,Perak
@@ -1032,6 +1034,7 @@ date,city,driving_waze,state
 2021-02-14,Johor Bahru,-45.0,Johor
 2021-02-15,Johor Bahru,-39.0,Johor
 2021-02-16,Johor Bahru,-41.0,Johor
+2021-02-17,Johor Bahru,-40.0,Johor
 2021-02-17,Johor Bahru,-40.0,Johor
 2021-02-18,Johor Bahru,-38.0,Johor
 2021-02-19,Johor Bahru,-46.0,Johor
@@ -1713,6 +1716,8 @@ date,city,driving_waze,state
 2021-02-14,Kuala Lumpur,-45.0,Kuala Lumpur
 2021-02-15,Kuala Lumpur,-41.0,Kuala Lumpur
 2021-02-16,Kuala Lumpur,-42.0,Kuala Lumpur
+2021-02-16,Kuala Lumpur,-42.0,Kuala Lumpur
+2021-02-17,Kuala Lumpur,-40.0,Kuala Lumpur
 2021-02-17,Kuala Lumpur,-40.0,Kuala Lumpur
 2021-02-18,Kuala Lumpur,-42.0,Kuala Lumpur
 2021-02-19,Kuala Lumpur,-42.0,Kuala Lumpur
@@ -2395,6 +2400,8 @@ date,city,driving_waze,state
 2021-02-15,Petaling Jaya,-39.0,Selangor
 2021-02-16,Petaling Jaya,-39.0,Selangor
 2021-02-17,Petaling Jaya,-39.0,Selangor
+2021-02-17,Petaling Jaya,-39.0,Selangor
+2021-02-18,Petaling Jaya,-36.0,Selangor
 2021-02-18,Petaling Jaya,-36.0,Selangor
 2021-02-19,Petaling Jaya,-33.0,Selangor
 2021-02-20,Petaling Jaya,-33.0,Selangor
@@ -3076,6 +3083,8 @@ date,city,driving_waze,state
 2021-02-15,Puchong,-16.0,Selangor
 2021-02-16,Puchong,-39.0,Selangor
 2021-02-17,Puchong,-23.0,Selangor
+2021-02-17,Puchong,-23.0,Selangor
+2021-02-18,Puchong,-3.0,Selangor
 2021-02-18,Puchong,-3.0,Selangor
 2021-02-19,Puchong,-14.000000000000002,Selangor
 2021-02-20,Puchong,-15.0,Selangor
@@ -3758,6 +3767,8 @@ date,city,driving_waze,state
 2021-02-15,Shah Alam,-26.0,Selangor
 2021-02-16,Shah Alam,-23.0,Selangor
 2021-02-17,Shah Alam,-28.000000000000004,Selangor
+2021-02-17,Shah Alam,-28.000000000000004,Selangor
+2021-02-18,Shah Alam,-27.0,Selangor
 2021-02-18,Shah Alam,-27.0,Selangor
 2021-02-19,Shah Alam,-29.0,Selangor
 2021-02-20,Shah Alam,-31.0,Selangor
