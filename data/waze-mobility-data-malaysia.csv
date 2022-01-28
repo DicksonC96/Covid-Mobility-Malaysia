@@ -1397,6 +1397,7 @@ date,city,driving_waze,state
 2020-03-09,Kuala Lumpur,-1.0,Kuala Lumpur
 2020-03-10,Kuala Lumpur,-2.0,Kuala Lumpur
 2020-03-11,Kuala Lumpur,-4.0,Kuala Lumpur
+2020-03-11,Kuala Lumpur,-4.0,Kuala Lumpur
 2020-03-12,Kuala Lumpur,-7.000000000000001,Kuala Lumpur
 2020-03-13,Kuala Lumpur,-10.0,Kuala Lumpur
 2020-03-14,Kuala Lumpur,-16.0,Kuala Lumpur
@@ -2091,6 +2092,7 @@ date,city,driving_waze,state
 2020-03-09,Petaling Jaya,0.0,Selangor
 2020-03-10,Petaling Jaya,-2.0,Selangor
 2020-03-11,Petaling Jaya,-5.0,Selangor
+2020-03-11,Petaling Jaya,-5.0,Selangor
 2020-03-12,Petaling Jaya,-6.0,Selangor
 2020-03-13,Petaling Jaya,-9.0,Selangor
 2020-03-14,Petaling Jaya,-14.000000000000002,Selangor
@@ -2784,6 +2786,7 @@ date,city,driving_waze,state
 2020-03-08,Puchong,0.0,Selangor
 2020-03-09,Puchong,0.0,Selangor
 2020-03-10,Puchong,0.0,Selangor
+2020-03-11,Puchong,-6.0,Selangor
 2020-03-11,Puchong,-6.0,Selangor
 2020-03-12,Puchong,-3.0,Selangor
 2020-03-13,Puchong,-6.0,Selangor
