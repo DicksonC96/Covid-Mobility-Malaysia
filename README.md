@@ -19,10 +19,10 @@ With the data scraped daily by [ActiveConclusion](https://github.com/ActiveConcl
 - Python script to pull and filter all the data from sources: [script-compiled.py](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/script-compiled.py)  
 Description of each python lines were included in the script as comment-out.  
 Data processing scripts for respective dataset are also available in [Jupyter notebook format](https://github.com/DicksonC96/Covid-Mobility-Malaysia/tree/master/notebooks) to generate selected dataset of your choice.  
-- YAML script to set-up GitHub Actions workflow for hourly data updates: [.github/workflows/data-updater.yml](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/.github/workflows/data-updater.yml)  
+- YAML script to set-up GitHub Actions workflow for daily data updates: [.github/workflows/data-updater.yml](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/.github/workflows/data-updater.yml)  
 - Bash script to automate the regular data updates using linux machine: [data-updater.sh](https://github.com/DicksonC96/Covid-Mobility-Malaysia/blob/master/data-updater.sh)  
 
-### Raw Data (Updated whenever the sources refresh)
+### Raw Data (Updated daily whenever the sources refresh)
 - MOH Malaysia COVID-19 Daily Cases: [moh-cases.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/moh-cases.csv)  
 - MOH Malaysia COVID-19 Daily Tests: [moh-tests.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/moh-tests.csv)  
 - MOH Malaysia COVID-19 Daily Deaths: [moh-deaths.csv](https://raw.githubusercontent.com/DicksonC96/Covid-Mobility-Malaysia/master/data/moh-deaths.csv)  
