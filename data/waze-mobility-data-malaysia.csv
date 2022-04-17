@@ -3084,6 +3084,7 @@ date,city,driving_waze,state
 2022-04-12,Petaling Jaya,5.0,Selangor
 2022-04-13,Petaling Jaya,8.0,Selangor
 2022-04-14,Petaling Jaya,4.0,Selangor
+2022-04-15,Petaling Jaya,-96.0,Selangor
 2020-03-01,Puchong,0.0,Selangor
 2020-03-02,Puchong,3.0,Selangor
 2020-03-03,Puchong,3.0,Selangor
@@ -3856,6 +3857,7 @@ date,city,driving_waze,state
 2022-04-12,Puchong,25.0,Selangor
 2022-04-13,Puchong,16.0,Selangor
 2022-04-14,Puchong,36.0,Selangor
+2022-04-15,Puchong,-97.0,Selangor
 2020-03-01,Shah Alam,11.0,Selangor
 2020-03-02,Shah Alam,4.0,Selangor
 2020-03-03,Shah Alam,9.0,Selangor
