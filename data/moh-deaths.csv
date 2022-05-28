@@ -12762,7 +12762,7 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2022-05-23,Penang,0,0,0,0,0,0,0
 2022-05-23,Sabah,0,0,0,0,0,0,0
 2022-05-23,Sarawak,0,0,0,0,0,1,0
-2022-05-23,Selangor,2,0,0,0,0,0,4
+2022-05-23,Selangor,2,0,0,0,1,0,4
 2022-05-23,Terengganu,0,0,0,0,0,0,0
 2022-05-23,Kuala Lumpur,0,0,0,0,0,0,0
 2022-05-23,Labuan,0,0,0,0,0,0,0
@@ -12778,7 +12778,7 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2022-05-24,Penang,0,0,0,0,0,0,0
 2022-05-24,Sabah,0,0,0,0,0,0,0
 2022-05-24,Sarawak,0,0,0,0,0,0,0
-2022-05-24,Selangor,0,0,0,0,0,0,0
+2022-05-24,Selangor,0,0,0,0,0,1,0
 2022-05-24,Terengganu,0,0,0,0,0,0,0
 2022-05-24,Kuala Lumpur,0,0,0,0,0,0,0
 2022-05-24,Labuan,0,0,0,0,0,0,0
@@ -12815,3 +12815,19 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2022-05-26,Kuala Lumpur,0,0,0,0,0,0,0
 2022-05-26,Labuan,0,0,0,0,0,0,0
 2022-05-26,Putrajaya,0,0,0,0,0,0,0
+2022-05-27,Johor,0,0,0,0,0,0,0
+2022-05-27,Kedah,0,0,0,0,0,0,0
+2022-05-27,Kelantan,0,0,0,0,0,0,0
+2022-05-27,Melaka,0,0,0,0,0,0,0
+2022-05-27,Negeri Sembilan,0,0,0,0,0,0,0
+2022-05-27,Pahang,0,0,0,0,0,0,0
+2022-05-27,Perak,0,0,0,0,0,0,0
+2022-05-27,Perlis,0,0,0,0,0,0,0
+2022-05-27,Penang,0,0,0,0,0,0,0
+2022-05-27,Sabah,0,0,0,0,0,0,0
+2022-05-27,Sarawak,0,0,0,0,0,0,0
+2022-05-27,Selangor,2,1,0,0,0,0,3
+2022-05-27,Terengganu,0,0,0,0,0,0,0
+2022-05-27,Kuala Lumpur,0,0,0,0,0,0,0
+2022-05-27,Labuan,0,0,0,0,0,0,0
+2022-05-27,Putrajaya,0,0,0,0,0,0,0
