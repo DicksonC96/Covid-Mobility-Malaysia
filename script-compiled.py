@@ -15,25 +15,37 @@ start = time.time()
 
 ### Google Mobility Data ### ========================================================================
 # Read google data
-google = pd.read_csv("https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/google_reports/mobility_report_countries.csv")
+google = pd.read_csv("https://storage.googleapis.com/covid19-open-data/v3/mobility.csv")
 
 # Filter to rows containing "Malaysia" country, removing 'Total' values
-malaysia = google.loc[(google['country']=="Malaysia") & (google['sub region 1']!="Total")]
-
-# Select useful/ relevant columns
-googledata = malaysia[['date', 'sub region 1', 'retail and recreation', 'grocery and pharmacy', 'parks', 'transit stations', 'workplaces', 'residential']]
-
-# Rename columns into mergeable "state"
-googledata.rename(columns={'sub region 1':'state'}, inplace=True)
+malaysia = google.loc[google.location_key.str.contains('^MY_[0-9]+$', na=False)]
 
 # Clean up "state" data
-googledata.loc[googledata['state']=='Federal Territory of Kuala Lumpur', 'state'] = 'Kuala Lumpur'
-googledata.loc[googledata['state']=='Labuan Federal Territory', 'state'] = 'Labuan'
-googledata.loc[googledata['state']=='Malacca', 'state'] = 'Melaka'
-#googledata.loc[googledata['state']=='Total', 'state'] = 'Malaysia'
+state_code = {
+    'MY_01':'Johor',
+    'MY_02':'Kedah',
+    'MY_03':'Kelantan',
+    'MY_04':'Melaka',
+    'MY_05':'Negeri Sembilan',
+    'MY_06':'Pahang',
+    'MY_07':'Penang',
+    'MY_08':'Perak',
+    'MY_09':'Perlis',
+    'MY_10':'Selangor',
+    'MY_11':'Terengganu',
+    'MY_12':'Sabah',
+    'MY_13':'Sarawak',
+    'MY_14':'Kuala Lumpur',
+    'MY_15':'Labuan',
+    'MY_16':'Putrajaya'
+}
+malaysia.state.replace(state_code, inplace=True)
+
+# Rename columns
+malaysia.columns = ['date', 'state', 'retail and recreation', 'grocery and pharmacy', 'parks', 'transit stations', 'workplaces', 'residential']
 
 # Export csv
-googledata.to_csv("./data/google-mobility-data-malaysia.csv", index=False)
+malaysia.to_csv("./data/google-mobility-data-malaysia.csv", index=False)
 print("Google data exported. Elapsed time: "+str(time.time()-start), flush = True)
 
 start = time.time()
