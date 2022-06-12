@@ -39,7 +39,7 @@ state_code = {
     'MY_15':'Labuan',
     'MY_16':'Putrajaya'
 }
-malaysia.state.replace(state_code, inplace=True)
+malaysia.location_key.replace(state_code, inplace=True)
 
 # Rename columns
 malaysia.columns = ['date', 'state', 'retail and recreation', 'grocery and pharmacy', 'parks', 'transit stations', 'workplaces', 'residential']
