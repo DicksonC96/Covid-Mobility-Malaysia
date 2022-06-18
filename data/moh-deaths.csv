@@ -13113,7 +13113,7 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2022-06-14,Perlis,1,0,0,0,0,0,3
 2022-06-14,Penang,0,0,0,0,0,0,0
 2022-06-14,Sabah,0,0,0,0,0,0,0
-2022-06-14,Sarawak,0,0,0,0,0,0,0
+2022-06-14,Sarawak,0,0,0,0,0,1,0
 2022-06-14,Selangor,1,0,0,0,0,0,3
 2022-06-14,Terengganu,0,0,0,0,0,0,0
 2022-06-14,Kuala Lumpur,0,0,0,0,0,0,0
@@ -13151,3 +13151,19 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2022-06-16,Kuala Lumpur,0,0,0,0,0,0,0
 2022-06-16,Labuan,0,0,0,0,0,0,0
 2022-06-16,Putrajaya,0,0,0,0,0,0,0
+2022-06-17,Johor,0,0,0,0,0,0,0
+2022-06-17,Kedah,0,0,0,0,0,0,0
+2022-06-17,Kelantan,0,0,0,0,0,0,0
+2022-06-17,Melaka,0,0,0,0,0,0,0
+2022-06-17,Negeri Sembilan,0,0,0,0,0,0,0
+2022-06-17,Pahang,0,0,0,0,0,0,0
+2022-06-17,Perak,0,0,0,0,0,0,0
+2022-06-17,Perlis,0,0,0,0,0,0,0
+2022-06-17,Penang,0,0,0,0,0,0,0
+2022-06-17,Sabah,0,0,0,0,0,0,0
+2022-06-17,Sarawak,1,0,0,0,0,0,3
+2022-06-17,Selangor,0,0,0,0,0,0,0
+2022-06-17,Terengganu,0,0,0,0,0,0,0
+2022-06-17,Kuala Lumpur,0,0,0,0,0,0,0
+2022-06-17,Labuan,0,0,0,0,0,0,0
+2022-06-17,Putrajaya,0,0,0,0,0,0,0
