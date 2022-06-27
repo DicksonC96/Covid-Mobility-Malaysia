@@ -812,15 +812,25 @@ date,city,driving_waze,state
 2022-05-30,Ipoh,129.0,Perak
 2022-05-31,Ipoh,79.0,Perak
 2022-06-01,Ipoh,40.0,Perak
-2022-06-02,Ipoh,-93.0,Perak
-2022-06-06,Ipoh,-94.0,Perak
-2022-06-07,Ipoh,152.0,Perak
-2022-06-08,Ipoh,122.0,Perak
-2022-06-09,Ipoh,101.0,Perak
+2022-06-02,Ipoh,68.0,Perak
+2022-06-03,Ipoh,74.0,Perak
+2022-06-04,Ipoh,102.0,Perak
+2022-06-07,Ipoh,173.0,Perak
+2022-06-08,Ipoh,109.0,Perak
+2022-06-09,Ipoh,117.0,Perak
 2022-06-10,Ipoh,73.0,Perak
-2022-06-11,Ipoh,64.0,Perak
-2022-06-12,Ipoh,47.0,Perak
-2022-06-13,Ipoh,79.0,Perak
+2022-06-11,Ipoh,70.0,Perak
+2022-06-12,Ipoh,70.0,Perak
+2022-06-13,Ipoh,69.0,Perak
+2022-06-14,Ipoh,43.0,Perak
+2022-06-15,Ipoh,35.0,Perak
+2022-06-16,Ipoh,64.0,Perak
+2022-06-17,Ipoh,51.0,Perak
+2022-06-18,Ipoh,64.0,Perak
+2022-06-19,Ipoh,87.0,Perak
+2022-06-20,Ipoh,90.0,Perak
+2022-06-21,Ipoh,43.0,Perak
+2022-06-22,Ipoh,46.0,Perak
 2020-03-01,Johor Bahru,11.0,Johor
 2020-03-02,Johor Bahru,6.0,Johor
 2020-03-03,Johor Bahru,5.0,Johor
@@ -1641,13 +1651,27 @@ date,city,driving_waze,state
 2022-05-30,Johor Bahru,49.0,Johor
 2022-05-31,Johor Bahru,29.0,Johor
 2022-06-01,Johor Bahru,37.0,Johor
-2022-06-07,Johor Bahru,55.00000000000001,Johor
-2022-06-08,Johor Bahru,31.0,Johor
-2022-06-09,Johor Bahru,45.0,Johor
-2022-06-10,Johor Bahru,37.0,Johor
+2022-06-02,Johor Bahru,37.0,Johor
+2022-06-03,Johor Bahru,33.0,Johor
+2022-06-04,Johor Bahru,52.0,Johor
+2022-06-05,Johor Bahru,72.0,Johor
+2022-06-06,Johor Bahru,48.0,Johor
+2022-06-07,Johor Bahru,35.0,Johor
+2022-06-08,Johor Bahru,45.0,Johor
+2022-06-09,Johor Bahru,48.0,Johor
+2022-06-10,Johor Bahru,40.0,Johor
 2022-06-11,Johor Bahru,44.0,Johor
-2022-06-12,Johor Bahru,45.0,Johor
-2022-06-13,Johor Bahru,39.0,Johor
+2022-06-12,Johor Bahru,43.0,Johor
+2022-06-13,Johor Bahru,45.0,Johor
+2022-06-14,Johor Bahru,34.0,Johor
+2022-06-15,Johor Bahru,37.0,Johor
+2022-06-16,Johor Bahru,33.0,Johor
+2022-06-17,Johor Bahru,31.0,Johor
+2022-06-18,Johor Bahru,44.0,Johor
+2022-06-19,Johor Bahru,46.0,Johor
+2022-06-20,Johor Bahru,42.0,Johor
+2022-06-21,Johor Bahru,12.0,Johor
+2022-06-22,Johor Bahru,34.0,Johor
 2020-03-01,Kuala Lumpur,7.000000000000001,Kuala Lumpur
 2020-03-02,Kuala Lumpur,2.0,Kuala Lumpur
 2020-03-03,Kuala Lumpur,0.0,Kuala Lumpur
@@ -2468,13 +2492,27 @@ date,city,driving_waze,state
 2022-05-30,Kuala Lumpur,17.0,Kuala Lumpur
 2022-05-31,Kuala Lumpur,20.0,Kuala Lumpur
 2022-06-01,Kuala Lumpur,18.0,Kuala Lumpur
-2022-06-07,Kuala Lumpur,27.0,Kuala Lumpur
+2022-06-02,Kuala Lumpur,16.0,Kuala Lumpur
+2022-06-03,Kuala Lumpur,17.0,Kuala Lumpur
+2022-06-04,Kuala Lumpur,26.0,Kuala Lumpur
+2022-06-05,Kuala Lumpur,36.0,Kuala Lumpur
+2022-06-06,Kuala Lumpur,26.0,Kuala Lumpur
+2022-06-07,Kuala Lumpur,26.0,Kuala Lumpur
 2022-06-08,Kuala Lumpur,24.0,Kuala Lumpur
-2022-06-09,Kuala Lumpur,20.0,Kuala Lumpur
-2022-06-10,Kuala Lumpur,14.000000000000002,Kuala Lumpur
+2022-06-09,Kuala Lumpur,18.0,Kuala Lumpur
+2022-06-10,Kuala Lumpur,13.0,Kuala Lumpur
 2022-06-11,Kuala Lumpur,22.0,Kuala Lumpur
 2022-06-12,Kuala Lumpur,26.0,Kuala Lumpur
-2022-06-13,Kuala Lumpur,15.0,Kuala Lumpur
+2022-06-13,Kuala Lumpur,16.0,Kuala Lumpur
+2022-06-14,Kuala Lumpur,18.0,Kuala Lumpur
+2022-06-15,Kuala Lumpur,15.0,Kuala Lumpur
+2022-06-16,Kuala Lumpur,13.0,Kuala Lumpur
+2022-06-17,Kuala Lumpur,10.0,Kuala Lumpur
+2022-06-18,Kuala Lumpur,18.0,Kuala Lumpur
+2022-06-19,Kuala Lumpur,26.0,Kuala Lumpur
+2022-06-20,Kuala Lumpur,15.0,Kuala Lumpur
+2022-06-21,Kuala Lumpur,2.0,Kuala Lumpur
+2022-06-22,Kuala Lumpur,19.0,Kuala Lumpur
 2020-03-01,Petaling Jaya,4.0,Selangor
 2020-03-02,Petaling Jaya,1.0,Selangor
 2020-03-03,Petaling Jaya,-1.0,Selangor
@@ -3295,15 +3333,27 @@ date,city,driving_waze,state
 2022-05-30,Petaling Jaya,18.0,Selangor
 2022-05-31,Petaling Jaya,26.0,Selangor
 2022-06-01,Petaling Jaya,18.0,Selangor
-2022-06-03,Petaling Jaya,-98.0,Selangor
-2022-06-04,Petaling Jaya,-96.0,Selangor
+2022-06-02,Petaling Jaya,16.0,Selangor
+2022-06-03,Petaling Jaya,13.0,Selangor
+2022-06-04,Petaling Jaya,33.0,Selangor
+2022-06-05,Petaling Jaya,22.0,Selangor
+2022-06-06,Petaling Jaya,27.0,Selangor
 2022-06-07,Petaling Jaya,27.0,Selangor
-2022-06-08,Petaling Jaya,23.0,Selangor
-2022-06-09,Petaling Jaya,22.0,Selangor
-2022-06-10,Petaling Jaya,16.0,Selangor
-2022-06-11,Petaling Jaya,28.000000000000004,Selangor
+2022-06-08,Petaling Jaya,26.0,Selangor
+2022-06-09,Petaling Jaya,24.0,Selangor
+2022-06-10,Petaling Jaya,13.0,Selangor
+2022-06-11,Petaling Jaya,30.0,Selangor
 2022-06-12,Petaling Jaya,29.0,Selangor
-2022-06-13,Petaling Jaya,16.0,Selangor
+2022-06-13,Petaling Jaya,21.0,Selangor
+2022-06-14,Petaling Jaya,10.0,Selangor
+2022-06-15,Petaling Jaya,17.0,Selangor
+2022-06-16,Petaling Jaya,13.0,Selangor
+2022-06-17,Petaling Jaya,9.0,Selangor
+2022-06-18,Petaling Jaya,22.0,Selangor
+2022-06-19,Petaling Jaya,26.0,Selangor
+2022-06-20,Petaling Jaya,14.000000000000002,Selangor
+2022-06-21,Petaling Jaya,5.0,Selangor
+2022-06-22,Petaling Jaya,21.0,Selangor
 2020-03-01,Puchong,0.0,Selangor
 2020-03-02,Puchong,3.0,Selangor
 2020-03-03,Puchong,3.0,Selangor
@@ -4124,15 +4174,28 @@ date,city,driving_waze,state
 2022-05-30,Puchong,41.0,Selangor
 2022-05-31,Puchong,36.0,Selangor
 2022-06-01,Puchong,33.0,Selangor
-2022-06-02,Puchong,-82.0,Selangor
-2022-06-03,Puchong,-99.0,Selangor
-2022-06-07,Puchong,47.0,Selangor
-2022-06-08,Puchong,30.0,Selangor
-2022-06-09,Puchong,42.0,Selangor
-2022-06-10,Puchong,33.0,Selangor
-2022-06-11,Puchong,34.0,Selangor
-2022-06-12,Puchong,38.0,Selangor
-2022-06-13,Puchong,39.0,Selangor
+2022-06-02,Puchong,35.0,Selangor
+2022-06-03,Puchong,41.0,Selangor
+2022-06-04,Puchong,62.0,Selangor
+2022-06-05,Puchong,34.0,Selangor
+2022-06-06,Puchong,51.0,Selangor
+2022-06-07,Puchong,46.0,Selangor
+2022-06-08,Puchong,42.0,Selangor
+2022-06-09,Puchong,37.0,Selangor
+2022-06-10,Puchong,35.0,Selangor
+2022-06-11,Puchong,35.0,Selangor
+2022-06-12,Puchong,49.0,Selangor
+2022-06-13,Puchong,18.0,Selangor
+2022-06-14,Puchong,27.0,Selangor
+2022-06-15,Puchong,34.0,Selangor
+2022-06-16,Puchong,36.0,Selangor
+2022-06-17,Puchong,24.0,Selangor
+2022-06-18,Puchong,33.0,Selangor
+2022-06-19,Puchong,53.0,Selangor
+2022-06-20,Puchong,30.0,Selangor
+2022-06-21,Puchong,18.0,Selangor
+2022-06-22,Puchong,36.0,Selangor
+2022-06-23,Puchong,-97.0,Selangor
 2020-03-01,Shah Alam,11.0,Selangor
 2020-03-02,Shah Alam,4.0,Selangor
 2020-03-03,Shah Alam,9.0,Selangor
@@ -4953,13 +5016,27 @@ date,city,driving_waze,state
 2022-05-30,Shah Alam,43.0,Selangor
 2022-05-31,Shah Alam,37.0,Selangor
 2022-06-01,Shah Alam,35.0,Selangor
-2022-06-07,Shah Alam,54.0,Selangor
-2022-06-08,Shah Alam,46.0,Selangor
-2022-06-09,Shah Alam,43.0,Selangor
-2022-06-10,Shah Alam,30.0,Selangor
-2022-06-11,Shah Alam,33.0,Selangor
-2022-06-12,Shah Alam,49.0,Selangor
-2022-06-13,Shah Alam,43.0,Selangor
+2022-06-02,Shah Alam,29.0,Selangor
+2022-06-03,Shah Alam,46.0,Selangor
+2022-06-04,Shah Alam,38.0,Selangor
+2022-06-05,Shah Alam,41.0,Selangor
+2022-06-06,Shah Alam,41.0,Selangor
+2022-06-07,Shah Alam,48.0,Selangor
+2022-06-08,Shah Alam,50.0,Selangor
+2022-06-09,Shah Alam,47.0,Selangor
+2022-06-10,Shah Alam,25.0,Selangor
+2022-06-11,Shah Alam,30.0,Selangor
+2022-06-12,Shah Alam,40.0,Selangor
+2022-06-13,Shah Alam,37.0,Selangor
+2022-06-14,Shah Alam,33.0,Selangor
+2022-06-15,Shah Alam,34.0,Selangor
+2022-06-16,Shah Alam,27.0,Selangor
+2022-06-17,Shah Alam,23.0,Selangor
+2022-06-18,Shah Alam,32.0,Selangor
+2022-06-19,Shah Alam,50.0,Selangor
+2022-06-20,Shah Alam,30.0,Selangor
+2022-06-21,Shah Alam,19.0,Selangor
+2022-06-22,Shah Alam,46.0,Selangor
 2020-03-01,Total,9.0,N/A
 2020-03-02,Total,3.0,N/A
 2020-03-03,Total,2.0,N/A
@@ -5780,10 +5857,24 @@ date,city,driving_waze,state
 2022-05-30,Total,38.0,N/A
 2022-05-31,Total,36.0,N/A
 2022-06-01,Total,36.0,N/A
+2022-06-02,Total,39.0,N/A
+2022-06-03,Total,54.0,N/A
+2022-06-04,Total,78.0,N/A
+2022-06-05,Total,90.0,N/A
+2022-06-06,Total,106.0,N/A
 2022-06-07,Total,70.0,N/A
-2022-06-08,Total,61.0,N/A
+2022-06-08,Total,60.0,N/A
 2022-06-09,Total,55.00000000000001,N/A
 2022-06-10,Total,46.0,N/A
 2022-06-11,Total,49.0,N/A
 2022-06-12,Total,53.0,N/A
 2022-06-13,Total,38.0,N/A
+2022-06-14,Total,33.0,N/A
+2022-06-15,Total,35.0,N/A
+2022-06-16,Total,33.0,N/A
+2022-06-17,Total,33.0,N/A
+2022-06-18,Total,39.0,N/A
+2022-06-19,Total,50.0,N/A
+2022-06-20,Total,37.0,N/A
+2022-06-21,Total,18.0,N/A
+2022-06-22,Total,37.0,N/A
