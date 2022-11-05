@@ -15375,7 +15375,7 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2022-11-02,Kuala Lumpur,0,0,0,0,0,0,0
 2022-11-02,Labuan,0,0,0,0,0,0,0
 2022-11-02,Putrajaya,0,0,0,0,0,0,0
-2022-11-03,Johor,0,0,0,0,0,0,0
+2022-11-03,Johor,0,0,0,0,1,0,0
 2022-11-03,Kedah,0,0,0,0,0,0,0
 2022-11-03,Kelantan,0,0,0,0,0,0,0
 2022-11-03,Melaka,0,0,0,0,0,0,0
@@ -15391,3 +15391,19 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2022-11-03,Kuala Lumpur,0,0,0,0,0,0,0
 2022-11-03,Labuan,0,0,0,0,0,0,0
 2022-11-03,Putrajaya,0,0,0,0,0,0,0
+2022-11-04,Johor,1,0,0,0,0,0,1
+2022-11-04,Kedah,0,0,0,0,0,0,0
+2022-11-04,Kelantan,0,0,0,0,0,0,0
+2022-11-04,Melaka,0,0,0,0,0,0,0
+2022-11-04,Negeri Sembilan,0,0,0,0,0,0,0
+2022-11-04,Pahang,0,0,0,0,0,0,0
+2022-11-04,Perak,0,0,0,0,0,0,0
+2022-11-04,Perlis,0,0,0,0,0,0,0
+2022-11-04,Penang,0,0,0,0,0,0,0
+2022-11-04,Sabah,0,0,0,0,0,0,0
+2022-11-04,Sarawak,0,0,0,0,0,0,0
+2022-11-04,Selangor,0,0,0,0,0,0,0
+2022-11-04,Terengganu,0,0,0,0,0,0,0
+2022-11-04,Kuala Lumpur,0,0,0,0,0,0,0
+2022-11-04,Labuan,0,0,0,0,0,0,0
+2022-11-04,Putrajaya,0,0,0,0,0,0,0
