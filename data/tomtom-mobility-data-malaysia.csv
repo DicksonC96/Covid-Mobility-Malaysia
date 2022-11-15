@@ -1042,4 +1042,5 @@ date,city,congestion,diffRatio,state,congestion-norm
 2022-11-10,Kuala Lumpur,51,0.5454545454545454,Kuala Lumpur,34.653092006033184
 2022-11-11,Kuala Lumpur,57,0.5,Kuala Lumpur,43.47662141779789
 2022-11-12,Kuala Lumpur,40,0.6,Kuala Lumpur,18.47662141779789
-2022-11-13,Kuala Lumpur,25,1.0833333333333333,Kuala Lumpur,-3.582202111613874
+2022-11-13,Kuala Lumpur,24,1.0,Kuala Lumpur,-5.052790346907992
+2022-11-14,Kuala Lumpur,39,0.4444444444444444,Kuala Lumpur,17.006033182503774
