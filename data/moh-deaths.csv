@@ -16160,7 +16160,7 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2022-12-21,Labuan,1,0,0,0,0,0,3
 2022-12-21,Putrajaya,0,0,0,0,0,0,0
 2022-12-22,Johor,1,0,0,0,0,0,2
-2022-12-22,Kedah,0,0,0,0,0,0,0
+2022-12-22,Kedah,0,0,1,0,0,0,0
 2022-12-22,Kelantan,0,0,0,0,0,0,0
 2022-12-22,Melaka,0,0,0,0,0,0,0
 2022-12-22,Negeri Sembilan,0,0,0,0,0,0,0
@@ -16175,7 +16175,7 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2022-12-22,Kuala Lumpur,0,0,0,0,0,0,0
 2022-12-22,Labuan,0,0,0,0,0,0,0
 2022-12-22,Putrajaya,0,0,0,0,0,0,0
-2022-12-23,Johor,0,0,0,0,0,0,0
+2022-12-23,Johor,0,0,0,0,0,1,0
 2022-12-23,Kedah,1,1,0,0,0,0,3
 2022-12-23,Kelantan,0,0,0,0,0,0,0
 2022-12-23,Melaka,0,0,0,0,0,0,0
@@ -16199,7 +16199,7 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2022-12-24,Pahang,0,0,0,0,0,0,0
 2022-12-24,Perak,0,0,0,0,0,0,0
 2022-12-24,Perlis,0,0,0,0,0,0,0
-2022-12-24,Penang,0,0,0,0,0,0,0
+2022-12-24,Penang,0,0,1,0,0,0,0
 2022-12-24,Sabah,0,0,0,0,0,0,0
 2022-12-24,Sarawak,0,0,0,0,0,0,0
 2022-12-24,Selangor,0,0,0,0,0,0,0
@@ -16207,7 +16207,7 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2022-12-24,Kuala Lumpur,0,0,0,0,0,0,0
 2022-12-24,Labuan,0,0,0,0,0,0,0
 2022-12-24,Putrajaya,0,0,0,0,0,0,0
-2022-12-25,Johor,0,0,0,0,0,0,0
+2022-12-25,Johor,0,0,0,0,1,0,0
 2022-12-25,Kedah,0,0,0,0,0,0,0
 2022-12-25,Kelantan,0,0,0,0,0,0,0
 2022-12-25,Melaka,0,0,0,0,0,0,0
@@ -16223,3 +16223,19 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2022-12-25,Kuala Lumpur,0,0,0,0,0,0,0
 2022-12-25,Labuan,0,0,0,0,0,0,0
 2022-12-25,Putrajaya,0,0,0,0,0,0,0
+2022-12-26,Johor,2,0,0,0,0,0,2
+2022-12-26,Kedah,1,0,0,0,0,0,4
+2022-12-26,Kelantan,0,0,0,0,0,0,0
+2022-12-26,Melaka,0,0,0,0,0,0,0
+2022-12-26,Negeri Sembilan,0,0,0,0,0,0,0
+2022-12-26,Pahang,0,0,0,0,0,0,0
+2022-12-26,Perak,0,0,0,0,0,0,0
+2022-12-26,Perlis,0,0,0,0,0,0,0
+2022-12-26,Penang,1,0,0,0,0,0,2
+2022-12-26,Sabah,0,0,0,0,0,0,0
+2022-12-26,Sarawak,0,0,0,0,0,0,0
+2022-12-26,Selangor,0,0,0,0,0,0,0
+2022-12-26,Terengganu,0,0,0,0,0,0,0
+2022-12-26,Kuala Lumpur,0,0,0,0,0,0,0
+2022-12-26,Labuan,0,0,0,0,0,0,0
+2022-12-26,Putrajaya,0,0,0,0,0,0,0
