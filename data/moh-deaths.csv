@@ -17247,7 +17247,7 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2023-02-27,Kuala Lumpur,0,0,0,0,0,0,0
 2023-02-27,Labuan,0,0,0,0,0,0,0
 2023-02-27,Putrajaya,0,0,0,0,0,0,0
-2023-02-28,Johor,0,0,0,0,0,0,0
+2023-02-28,Johor,0,0,0,0,0,1,0
 2023-02-28,Kedah,0,0,0,0,0,0,0
 2023-02-28,Kelantan,0,0,0,0,0,0,0
 2023-02-28,Melaka,0,0,0,0,0,0,0
@@ -17327,3 +17327,19 @@ date,state,deaths_new,deaths_bid,deaths_unvax,deaths_pvax,deaths_fvax,deaths_boo
 2023-03-04,Kuala Lumpur,0,0,0,0,0,0,0
 2023-03-04,Labuan,0,0,0,0,0,0,0
 2023-03-04,Putrajaya,0,0,0,0,0,0,0
+2023-03-05,Johor,1,0,0,0,0,0,5
+2023-03-05,Kedah,0,0,0,0,0,0,0
+2023-03-05,Kelantan,0,0,0,0,0,0,0
+2023-03-05,Melaka,0,0,0,0,0,0,0
+2023-03-05,Negeri Sembilan,0,0,0,0,0,0,0
+2023-03-05,Pahang,0,0,0,0,0,0,0
+2023-03-05,Perak,0,0,0,0,0,0,0
+2023-03-05,Perlis,0,0,0,0,0,0,0
+2023-03-05,Penang,0,0,0,0,0,0,0
+2023-03-05,Sabah,0,0,0,0,0,0,0
+2023-03-05,Sarawak,0,0,0,0,0,0,0
+2023-03-05,Selangor,0,0,0,0,0,0,0
+2023-03-05,Terengganu,0,0,0,0,0,0,0
+2023-03-05,Kuala Lumpur,0,0,0,0,0,0,0
+2023-03-05,Labuan,0,0,0,0,0,0,0
+2023-03-05,Putrajaya,0,0,0,0,0,0,0
